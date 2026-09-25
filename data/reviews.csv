@@ -1,0 +1,1301 @@
+review_id,text,star_rating,date,app_version,is_defect,category
+R00000,No offline errors at all -- the smoke detector stays connected all day. Anyone else seeing this?,3,2026-08-09,3.2.0,0,praise
+R00001,"My smoke detector shows offline in the app constantly, but my Wi-Fi is fine. Honestly pretty annoyed.",2,2026-08-22,3.4.0,1,connectivity
+R00002,Scrolling the kitchen plug event history stutters and freezes the whole app.,2,2026-04-25,3.3.0,1,performance
+R00003,The app used 25% of my battery in 3 hours just syncing the thermostat. This started after the update.,2,2026-03-09,3.3.2,1,battery_drain
+R00004,Text is cut off on the video doorbell details screen on my small phone. Really disappointing.,2,2026-05-01,3.3.0,1,ui_bug
+R00005,Does the garage sensor work without Wi-Fi? Wondering about offline mode. Otherwise I like the app.,3,2026-03-29,3.3.0,0,question
+R00006,"Notification badges never clear for the smart plug, even after I read everything.",2,2026-05-10,3.2.1,1,ui_bug
+R00007,Biometric login crashes back to the password field on 3.2.0. Honestly pretty annoyed.,1,2026-01-21,3.3.0,1,login_auth
+R00008,"Love the automations, but the garage sensor live view buffers constantly. Really disappointing.",1,2026-08-27,3.2.1,1,performance
+R00009,The bedroom speaker pairs fine in Bluetooth settings but the app says device not found. Support was no help.,2,2026-07-09,3.2.1,1,connectivity
+R00010,The new 3.4.1 update made the security camera controls so much snappier. Great work. Support was no help.,4,2026-02-06,3.3.2,0,praise
+R00011,Firmware update for the thermostat failed halfway and now the app won't connect at all. Considering switching apps.,3,2026-03-04,3.4.1,1,connectivity
+R00012,Please add multi-home support -- I have a bedroom speaker at two houses. This started after the update.,3,2026-01-06,3.4.1,0,feature_request
+R00013,Zero crashes so far and no battery drain. The living room bulb just works. Reinstalling didn't help.,5,2026-04-16,3.2.1,0,praise
+R00014,Biometric login crashes back to the password field on 3.3.0. This started after the update.,4,2026-01-14,3.2.0,1,login_auth
+R00015,How do I reset the smart lock energy stats? They seem off this month.,3,2026-02-17,3.4.1,0,question
+R00016,"Five stars for the features, but the battery drain from the garage sensor sync is brutal.",1,2026-05-20,3.4.0,1,battery_drain
+R00017,"Simple, fast, reliable. Exactly what I want for my living room bulb. Really disappointing.",5,2026-07-15,3.3.2,0,praise
+R00018,Zero crashes so far and no battery drain. The smart lock just works. Honestly pretty annoyed.,5,2026-01-08,3.2.0,0,praise
+R00019,Haven't seen a single crash since 3.3.0. The smart lock controls are fast and reliable. Really disappointing.,3,2026-09-10,3.2.1,0,praise
+R00020,"'Account not found' error on login, but the website works fine with the same email. Honestly pretty annoyed.",2,2026-02-22,3.2.0,1,login_auth
+R00021,Love this app! My video doorbell setup took five minutes and everything just works. Support was no help.,5,2026-06-27,3.2.0,0,praise
+R00022,"Sync fails repeatedly with the garage sensor. Spinning loader, then 'connection timeout'.",1,2026-08-19,3.4.0,1,connectivity
+R00023,"My smart lock shows offline in the app constantly, but my Wi-Fi is fine. Support was no help.",4,2026-09-10,3.3.2,1,connectivity
+R00024,Every time I adjust the bedroom speaker settings the app force quits. So frustrating. This started after the update.,1,2026-05-31,3.3.2,1,crash
+R00025,Please add a vacation mode that randomizes the garage sensor schedule. Honestly pretty annoyed.,4,2026-06-05,3.2.1,0,feature_request
+R00026,Please add a vacation mode that randomizes the kitchen plug schedule.,2,2026-09-06,3.4.0,0,feature_request
+R00027,"Saw a weird UI glitch on the security camera page yesterday, gone after the restart. Still five stars. Anyone else seeing this?",3,2026-02-08,3.4.1,0,praise
+R00028,Everything about the smart plug integration feels polished. Highly recommend. Support was no help.,5,2026-06-15,3.3.0,0,praise
+R00029,Woke up to a dead phone. The app was top of battery stats because of the living room bulb. Otherwise I like the app.,1,2026-02-11,3.2.0,1,battery_drain
+R00030,The app logs me out every day and I have to sign back in to see my smoke detector.,2,2026-07-02,3.2.0,1,login_auth
+R00031,"Simple, fast, reliable. Exactly what I want for my smoke detector. Really disappointing.",4,2026-06-07,3.4.1,0,praise
+R00032,"Since 3.3.0, the app drains battery even in the background. security camera polling is out of control. Hope this gets fixed soon.",2,2026-04-22,3.4.1,1,battery_drain
+R00033,Video from the thermostat buffers constantly even on fast Wi-Fi. Really disappointing.,2,2026-08-09,3.3.0,1,performance
+R00034,The latest update crashes on launch whenever my garage sensor is connected. Considering switching apps.,1,2026-08-11,3.4.0,1,crash
+R00035,"Five stars for the features, but the battery drain from the kitchen plug sync is brutal. Reinstalling didn't help.",2,2026-03-21,3.3.2,1,battery_drain
+R00036,Can't log in since 3.4.1 -- 'invalid credentials' even though my password is right. Honestly pretty annoyed.,3,2026-02-26,3.3.0,1,login_auth
+R00037,Where do I find the firmware version of my security camera in the app?,5,2026-04-05,3.3.2,0,question
+R00038,Woke up to a dead phone. The app was top of battery stats because of the smart lock.,3,2026-03-01,3.3.2,1,battery_drain
+R00039,Is there a way to get push notifications only for the garage sensor and not the other devices? Hope this gets fixed soon.,3,2026-05-01,3.2.1,0,question
+R00040,"Since 3.3.0, the app drains battery even in the background. living room bulb polling is out of control. Really disappointing.",4,2026-07-28,3.4.1,1,battery_drain
+R00041,Haven't seen a single crash since 3.2.0. The living room bulb controls are fast and reliable.,4,2026-08-15,3.3.0,0,praise
+R00042,The app keeps getting better. My smart lock has never been easier to manage.,5,2026-08-16,3.2.0,0,praise
+R00043,"Notification badges never clear for the bedroom speaker, even after I read everything. Really disappointing.",1,2026-06-23,3.4.0,1,ui_bug
+R00044,Toggle switches on the bedroom speaker page don't reflect the real state. Confusing. Support was no help.,2,2026-06-05,3.4.0,1,ui_bug
+R00045,"Two-factor code never arrives, so I'm locked out of controlling my living room bulb. Reinstalling didn't help.",2,2026-01-05,3.3.0,1,login_auth
+R00046,Intermittent connectivity: garage sensor responds maybe one time out of three. Really disappointing.,1,2026-04-24,3.4.0,1,connectivity
+R00047,Scrolling the living room bulb event history stutters and freezes the whole app. Really disappointing.,2,2026-06-25,3.2.0,1,performance
+R00048,Would love Apple Watch support to check the smart lock quickly.,3,2026-01-28,3.2.1,0,feature_request
+R00049,It would be great if the app supported widgets for the smart plug on the lock screen. Considering switching apps.,4,2026-07-20,3.3.2,0,feature_request
+R00050,"I love this app overall, but it crashes every time I open the video doorbell controls. Honestly pretty annoyed.",3,2026-04-05,3.4.1,1,crash
+R00051,The app looks beautiful but everything lags; opening the video doorbell takes forever.,4,2026-08-30,3.4.1,1,performance
+R00052,Battery saver mode does nothing -- the smoke detector stream keeps running in the background. Reinstalling didn't help.,2,2026-08-21,3.2.1,1,battery_drain
+R00053,No offline errors at all -- the smoke detector stays connected all day. Really disappointing.,4,2026-05-07,3.3.0,0,praise
+R00054,The app used 25% of my battery in 3 hours just syncing the smoke detector.,1,2026-03-23,3.2.1,1,battery_drain
+R00055,"Really like the design, but logging in has been broken for me since 3.3.0. Reinstalling didn't help.",1,2026-08-31,3.3.2,1,login_auth
+R00056,The thermostat works in the old app but this version 3.4.0 can't maintain a connection. Support was no help.,4,2026-09-06,3.2.0,1,connectivity
+R00057,The app keeps getting better. My smoke detector has never been easier to manage. Honestly pretty annoyed.,5,2026-09-11,3.2.1,0,praise
+R00058,Intermittent connectivity: bedroom speaker responds maybe one time out of three.,2,2026-09-01,3.2.1,1,connectivity
+R00059,The bedroom speaker schedules are flexible and the app never misses a beat. This started after the update.,2,2026-04-08,3.2.0,0,praise
+R00060,'Device offline' error all day for my bedroom speaker even though it's two feet from the router. Support was no help.,3,2026-05-14,3.2.0,1,connectivity
+R00061,App crashes when I try to view the video doorbell live feed. Was fine before 3.4.1.,1,2026-01-20,3.2.1,1,crash
+R00062,"Five stars for features, one star for the battery drain -- the garage sensor sync never sleeps.",1,2026-04-26,3.3.2,1,battery_drain
+R00063,Feature request: let me export video doorbell history to CSV for my energy audit. Hope this gets fixed soon.,4,2026-03-01,3.4.0,0,feature_request
+R00064,The back button from the smart lock settings dumps me to the login screen instead of home. Anyone else seeing this?,1,2026-05-09,3.2.0,1,ui_bug
+R00065,Everything about the kitchen plug integration feels polished. Highly recommend. Support was no help.,5,2026-07-13,3.2.0,0,praise
+R00066,Switching rooms with the kitchen plug takes ages -- the UI just hangs. This started after the update.,1,2026-03-24,3.3.2,1,performance
+R00067,The smoke detector status card shows yesterday's data until I force-refresh the app. This started after the update.,3,2026-08-16,3.4.1,1,ui_bug
+R00068,"Since 3.2.1, the app drains battery even in the background. garage sensor polling is out of control. This started after the update.",1,2026-07-18,3.3.0,1,battery_drain
+R00069,Opening the living room bulb tab makes the app freeze then crash. Please fix this. Hope this gets fixed soon.,1,2026-05-26,3.4.0,1,crash
+R00070,App force closes during smoke detector setup on the very last step. Unacceptable. Considering switching apps.,1,2026-09-05,3.4.1,1,crash
+R00071,"Battery use was high for a day after the update, then settled. The smart lock works flawlessly. Really disappointing.",4,2026-07-12,3.3.2,0,praise
+R00072,Biometric login crashes back to the password field on 3.3.0. Hope this gets fixed soon.,1,2026-05-13,3.2.1,1,login_auth
+R00073,The app won't stay open for more than a few seconds if the security camera is online. Honestly pretty annoyed.,4,2026-09-09,3.3.0,1,crash
+R00074,How do I reset the smart lock energy stats? They seem off this month. Honestly pretty annoyed.,5,2026-07-08,3.2.1,0,question
+R00075,App keeps crashing every time I open the smoke detector controls on version 3.3.0. Considering switching apps.,5,2026-03-10,3.4.1,1,crash
+R00076,"Clean design, fast, and the kitchen plug widgets are super handy.",5,2026-05-14,3.3.2,0,praise
+R00077,"Huge fan of the product, but the UI on the thermostat page is glitchy and unreadable.",1,2026-06-09,3.2.0,1,ui_bug
+R00078,Everything about the smoke detector integration feels polished. Highly recommend. This started after the update.,4,2026-08-19,3.3.0,0,praise
+R00079,How do I reset the thermostat energy stats? They seem off this month. Considering switching apps.,4,2026-02-24,3.2.1,0,question
+R00080,Never had the app crash on me once. The thermostat setup was smooth. This started after the update.,3,2026-09-02,3.3.0,0,praise
+R00081,Battery saver mode does nothing -- the smart lock stream keeps running in the background. Really disappointing.,1,2026-04-16,3.3.2,1,battery_drain
+R00082,The latest update crashes on launch whenever my video doorbell is connected.,3,2026-06-11,3.4.0,1,crash
+R00083,Would love Apple Watch support to check the garage sensor quickly. Hope this gets fixed soon.,4,2026-07-30,3.3.0,0,feature_request
+R00084,App keeps crashing every time I open the kitchen plug controls on version 3.4.0. Hope this gets fixed soon.,3,2026-01-18,3.2.0,1,crash
+R00085,Every tap has a delay on 3.4.0. The living room bulb controls feel like they're on dial-up.,4,2026-04-04,3.3.2,1,performance
+R00086,Phone battery dropped 15% during a 20-minute garage sensor live view. Fix the power usage. This started after the update.,1,2026-07-02,3.3.2,1,battery_drain
+R00087,Search in the garage sensor history times out on anything older than a week. Really disappointing.,1,2026-07-29,3.4.0,1,performance
+R00088,"Best smart home app I've used, if only the bedroom speaker page didn't lag so badly.",1,2026-08-29,3.3.2,1,performance
+R00089,Slider for the thermostat jumps around and won't land on the value I pick. Hope this gets fixed soon.,2,2026-03-13,3.3.0,1,ui_bug
+R00090,Tapping notifications for the smart lock crashes the app every single time.,2,2026-06-13,3.4.0,1,crash
+R00091,"Since 3.4.1, the app drains battery even in the background. video doorbell polling is out of control.",2,2026-09-17,3.4.1,1,battery_drain
+R00092,App disconnects from the smart lock whenever my phone switches between Wi-Fi and data. Reinstalling didn't help.,5,2026-03-20,3.3.2,1,connectivity
+R00093,Scrolling the living room bulb event history stutters and freezes the whole app. Otherwise I like the app.,3,2026-05-21,3.2.0,1,performance
+R00094,Intermittent connectivity: security camera responds maybe one time out of three. Reinstalling didn't help.,2,2026-09-09,3.3.0,1,connectivity
+R00095,'Device offline' error all day for my smart lock even though it's two feet from the router. Support was no help.,3,2026-05-04,3.3.2,1,connectivity
+R00096,The back button from the security camera settings dumps me to the login screen instead of home.,1,2026-03-10,3.4.0,1,ui_bug
+R00097,The new 3.2.0 update made the garage sensor controls so much snappier. Great work. Considering switching apps.,5,2026-03-19,3.3.2,0,praise
+R00098,Does the living room bulb work without Wi-Fi? Wondering about offline mode. Anyone else seeing this?,4,2026-07-27,3.4.1,0,question
+R00099,Icons for the kitchen plug are missing -- just empty boxes on 3.4.1. Considering switching apps.,1,2026-09-11,3.4.0,1,ui_bug
+R00100,"Best smart home app I've used, if only the video doorbell page didn't lag so badly.",5,2026-02-25,3.3.2,1,performance
+R00101,App crashes when I try to view the living room bulb live feed. Was fine before 3.3.0. Otherwise I like the app.,3,2026-08-13,3.2.1,1,crash
+R00102,Buttons on the video doorbell schedule screen overlap so I can't tap save. Support was no help.,1,2026-05-08,3.3.2,1,ui_bug
+R00103,Five stars. The garage sensor routines run perfectly every morning. Really disappointing.,5,2026-03-26,3.2.0,0,praise
+R00104,Intermittent connectivity: living room bulb responds maybe one time out of three. Hope this gets fixed soon.,4,2026-04-16,3.3.2,1,connectivity
+R00105,Five stars. The living room bulb routines run perfectly every morning. Really disappointing.,5,2026-07-26,3.3.0,0,praise
+R00106,App takes forever to load the garage sensor dashboard -- 20+ seconds of spinner. Honestly pretty annoyed.,4,2026-07-04,3.2.1,1,performance
+R00107,Feature request: let me export thermostat history to CSV for my energy audit. This started after the update.,4,2026-01-22,3.4.0,0,feature_request
+R00108,"Best smart home app I've used, if only the bedroom speaker page didn't lag so badly. Honestly pretty annoyed.",1,2026-03-13,3.4.0,1,performance
+R00109,Best smart home app I've tried. The garage sensor automations are rock solid. Considering switching apps.,4,2026-06-27,3.2.0,0,praise
+R00110,"Really like the design, but logging in has been broken for me since 3.4.0. Otherwise I like the app.",3,2026-02-20,3.3.2,1,login_auth
+R00111,Intermittent connectivity: living room bulb responds maybe one time out of three. Support was no help.,2,2026-07-14,3.2.0,1,connectivity
+R00112,Really impressed with how reliable the smart lock connection is.,5,2026-08-30,3.4.1,0,praise
+R00113,App keeps crashing every time I open the garage sensor controls on version 3.2.0.,1,2026-05-05,3.4.0,1,crash
+R00114,Icons for the security camera are missing -- just empty boxes on 3.3.2. Really disappointing.,1,2026-02-24,3.3.2,1,ui_bug
+R00115,Constant location polling for the garage sensor geofence is killing my battery. Honestly pretty annoyed.,1,2026-07-09,3.2.0,1,battery_drain
+R00116,Love this app! My smart lock setup took five minutes and everything just works. This started after the update.,4,2026-02-20,3.4.1,0,praise
+R00117,Can't log in since 3.2.1 -- 'invalid credentials' even though my password is right. Anyone else seeing this?,3,2026-04-20,3.2.0,1,login_auth
+R00118,Would love voice control shortcuts for the smart lock beyond the basics.,3,2026-01-06,3.3.0,0,feature_request
+R00119,Best smart home app I've tried. The thermostat automations are rock solid.,3,2026-07-07,3.2.1,0,praise
+R00120,"Really happy with the bedroom speaker itself, but the app UI shows the wrong status half the time.",1,2026-02-06,3.3.2,1,ui_bug
+R00121,App disconnects from the smart plug whenever my phone switches between Wi-Fi and data. Considering switching apps.,2,2026-06-08,3.3.2,1,connectivity
+R00122,The app keeps getting better. My garage sensor has never been easier to manage. This started after the update.,5,2026-02-11,3.2.0,0,praise
+R00123,"Five stars for the features, but the battery drain from the smart plug sync is brutal. Considering switching apps.",1,2026-06-20,3.3.2,1,battery_drain
+R00124,The new 3.4.1 update made the video doorbell controls so much snappier. Great work. Really disappointing.,5,2026-04-25,3.3.2,0,praise
+R00125,Battery saver mode does nothing -- the video doorbell stream keeps running in the background. Support was no help.,1,2026-06-14,3.4.1,1,battery_drain
+R00126,Slider for the video doorbell jumps around and won't land on the value I pick. Support was no help.,1,2026-02-23,3.4.1,1,ui_bug
+R00127,How do I share smoke detector access with my partner? Can't find the option in 3.4.0. Otherwise I like the app.,4,2026-03-08,3.3.2,0,question
+R00128,App takes forever to load the smart plug dashboard -- 20+ seconds of spinner. Otherwise I like the app.,4,2026-02-27,3.4.0,1,performance
+R00129,"Huge fan of the product, but the UI on the video doorbell page is glitchy and unreadable. Reinstalling didn't help.",1,2026-07-12,3.2.0,1,ui_bug
+R00130,It'd be nice to get a weekly summary email of my smart plug activity. Really disappointing.,5,2026-01-18,3.4.0,0,feature_request
+R00131,How do I reset the living room bulb energy stats? They seem off this month. Hope this gets fixed soon.,1,2026-06-27,3.3.0,0,question
+R00132,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Considering switching apps.",1,2026-04-25,3.3.2,1,connectivity
+R00133,Had to factory reset the smart plug three times this month because the app loses it.,1,2026-01-31,3.2.1,1,connectivity
+R00134,Toggle switches on the bedroom speaker page don't reflect the real state. Confusing. Anyone else seeing this?,1,2026-08-19,3.3.2,1,ui_bug
+R00135,Every time I adjust the smart plug settings the app force quits. So frustrating. Reinstalling didn't help.,1,2026-06-11,3.2.0,1,crash
+R00136,Opening the smart lock tab makes the app freeze then crash. Please fix this. Hope this gets fixed soon.,1,2026-06-02,3.3.0,1,crash
+R00137,Connection keeps dropping -- the smart lock goes 'unreachable' every few hours. Reinstalling didn't help.,1,2026-07-05,3.2.0,1,connectivity
+R00138,App disconnects from the kitchen plug whenever my phone switches between Wi-Fi and data. Support was no help.,4,2026-07-31,3.4.1,1,connectivity
+R00139,Best smart home app I've tried. The smart plug automations are rock solid. Considering switching apps.,5,2026-07-09,3.2.0,0,praise
+R00140,The app is great when it works -- sadly the smoke detector screen crashes on launch. Support was no help.,2,2026-06-12,3.4.1,1,crash
+R00141,The app won't stay open for more than a few seconds if the smoke detector is online. Honestly pretty annoyed.,2,2026-07-02,3.3.0,1,crash
+R00142,Question: can I rename the security camera after setup? Don't see an edit option. Honestly pretty annoyed.,3,2026-04-03,3.4.0,0,question
+R00143,Background crash loop drained my patience -- garage sensor alerts kill the app. Anyone else seeing this?,2,2026-08-22,3.4.1,1,crash
+R00144,Would love voice control shortcuts for the kitchen plug beyond the basics. This started after the update.,3,2026-02-08,3.3.2,0,feature_request
+R00145,This app eats my phone battery alive -- lost 40% overnight with the video doorbell idle. This started after the update.,1,2026-08-24,3.2.0,1,battery_drain
+R00146,Rotated my phone while on the video doorbell page and the app crashed instantly. Anyone else seeing this?,5,2026-07-20,3.3.2,1,crash
+R00147,The smart plug temperature shows in Fahrenheit even though I set Celsius in settings. Honestly pretty annoyed.,1,2026-06-18,3.4.0,1,ui_bug
+R00148,"I love this app overall, but it crashes every time I open the kitchen plug controls.",2,2026-09-20,3.4.1,1,crash
+R00149,App disconnects from the smart plug whenever my phone switches between Wi-Fi and data. Otherwise I like the app.,2,2026-07-14,3.3.0,1,connectivity
+R00150,The kitchen plug temperature shows in Fahrenheit even though I set Celsius in settings. Otherwise I like the app.,3,2026-02-22,3.4.0,1,ui_bug
+R00151,Everything about the kitchen plug integration feels polished. Highly recommend. Anyone else seeing this?,5,2026-03-18,3.3.0,0,praise
+R00152,Buttons on the video doorbell schedule screen overlap so I can't tap save. Reinstalling didn't help.,2,2026-07-16,3.4.1,1,ui_bug
+R00153,Does the bedroom speaker work without Wi-Fi? Wondering about offline mode. Otherwise I like the app.,4,2026-01-14,3.3.0,0,question
+R00154,Battery saver mode does nothing -- the security camera stream keeps running in the background.,1,2026-06-05,3.2.0,1,battery_drain
+R00155,Icons for the kitchen plug are missing -- just empty boxes on 3.4.0.,1,2026-07-16,3.2.1,1,ui_bug
+R00156,Scrolling the thermostat event history stutters and freezes the whole app. Otherwise I like the app.,2,2026-05-06,3.3.2,1,performance
+R00157,Live view from the living room bulb lags 10 seconds behind real time. Useless for a doorbell. Honestly pretty annoyed.,2,2026-07-12,3.4.1,1,performance
+R00158,Can the bedroom speaker trigger routines based on sunrise/sunset times? Reinstalling didn't help.,5,2026-08-07,3.2.1,0,question
+R00159,Question: can I rename the thermostat after setup? Don't see an edit option. This started after the update.,5,2026-07-14,3.4.0,0,question
+R00160,Please add a vacation mode that randomizes the living room bulb schedule.,5,2026-05-24,3.3.2,0,feature_request
+R00161,Setup for the kitchen plug was painless and the interface is beautiful. Support was no help.,5,2026-02-01,3.3.2,0,praise
+R00162,Password reset email never comes. Can't access my kitchen plug at all now. Considering switching apps.,1,2026-06-25,3.2.1,1,login_auth
+R00163,Scrolling the garage sensor event history stutters and freezes the whole app. Anyone else seeing this?,3,2026-01-07,3.2.0,1,performance
+R00164,App force closes during bedroom speaker setup on the very last step. Unacceptable. Hope this gets fixed soon.,2,2026-05-06,3.3.0,1,crash
+R00165,The video doorbell status card shows yesterday's data until I force-refresh the app. Anyone else seeing this?,2,2026-01-13,3.4.1,1,ui_bug
+R00166,Every time I adjust the kitchen plug settings the app force quits. So frustrating. Anyone else seeing this?,1,2026-08-06,3.2.1,1,crash
+R00167,Never had the app crash on me once. The smoke detector setup was smooth.,5,2026-07-23,3.3.2,0,praise
+R00168,Had to factory reset the video doorbell three times this month because the app loses it. Honestly pretty annoyed.,1,2026-02-27,3.4.0,1,connectivity
+R00169,"Saw a weird UI glitch on the security camera page yesterday, gone after the restart. Still five stars. This started after the update.",4,2026-09-07,3.4.1,0,praise
+R00170,"Huge fan of the product, but the UI on the smart lock page is glitchy and unreadable. Honestly pretty annoyed.",1,2026-01-26,3.3.0,1,ui_bug
+R00171,Five stars. The smart lock routines run perfectly every morning. Otherwise I like the app.,2,2026-01-29,3.4.1,0,praise
+R00172,"Love the automations, but the bedroom speaker live view buffers constantly. This started after the update.",1,2026-07-21,3.3.0,1,performance
+R00173,Switched from a competitor and the video doorbell experience here is miles ahead. Support was no help.,4,2026-02-14,3.3.2,0,praise
+R00174,'Device offline' error all day for my kitchen plug even though it's two feet from the router. Hope this gets fixed soon.,1,2026-06-10,3.3.2,1,connectivity
+R00175,Text is cut off on the kitchen plug details screen on my small phone. Support was no help.,1,2026-05-25,3.4.1,1,ui_bug
+R00176,Does the bedroom speaker work without Wi-Fi? Wondering about offline mode. Reinstalling didn't help.,4,2026-03-27,3.2.0,0,question
+R00177,App takes forever to load the smart lock dashboard -- 20+ seconds of spinner. Otherwise I like the app.,1,2026-07-09,3.3.2,1,performance
+R00178,Really impressed with how reliable the video doorbell connection is.,4,2026-07-11,3.3.2,0,praise
+R00179,Can't log in since 3.4.0 -- 'invalid credentials' even though my password is right. Support was no help.,2,2026-03-06,3.3.0,1,login_auth
+R00180,Can you add guest access for the living room bulb? I want my family to control it without my login. This started after the update.,5,2026-04-17,3.2.0,0,feature_request
+R00181,"Five stars for the features, but the battery drain from the garage sensor sync is brutal. Really disappointing.",3,2026-06-17,3.4.1,1,battery_drain
+R00182,"Best smart home app I've used, if only the security camera page didn't lag so badly. Considering switching apps.",3,2026-04-04,3.3.0,1,performance
+R00183,"Really like the design, but logging in has been broken for me since 3.3.2.",3,2026-07-08,3.4.0,1,login_auth
+R00184,"Two-factor code never arrives, so I'm locked out of controlling my video doorbell. Hope this gets fixed soon.",2,2026-07-27,3.4.1,1,login_auth
+R00185,The new 3.4.1 update made the kitchen plug controls so much snappier. Great work.,3,2026-08-23,3.3.2,0,praise
+R00186,The security camera schedules are flexible and the app never misses a beat. Reinstalling didn't help.,5,2026-02-02,3.2.0,0,praise
+R00187,"Crash report sent three times this week, all from the kitchen plug screen. Hope this gets fixed soon.",2,2026-02-14,3.3.0,1,crash
+R00188,The widget alone drains my battery keeping the smoke detector status updated. Reinstalling didn't help.,1,2026-04-01,3.4.0,1,battery_drain
+R00189,Everything about the smart plug integration feels polished. Highly recommend.,4,2026-02-15,3.2.0,0,praise
+R00190,Would love Apple Watch support to check the smart plug quickly. Anyone else seeing this?,4,2026-01-20,3.3.2,0,feature_request
+R00191,Setup for the bedroom speaker was painless and the interface is beautiful. This started after the update.,5,2026-02-11,3.4.1,0,praise
+R00192,"Since 3.3.0, the app loses connection to the security camera and never reconnects on its own. Considering switching apps.",1,2026-06-17,3.4.1,1,connectivity
+R00193,Switched from a competitor and the kitchen plug experience here is miles ahead. This started after the update.,5,2026-03-08,3.3.0,0,praise
+R00194,"I love this app overall, but it crashes every time I open the bedroom speaker controls. Support was no help.",1,2026-05-12,3.2.1,1,crash
+R00195,Does anyone know if the app supports the older security camera model from 2021? Reinstalling didn't help.,3,2026-09-01,3.3.2,0,question
+R00196,"Clean design, fast, and the smart lock widgets are super handy. Otherwise I like the app.",5,2026-01-29,3.2.0,0,praise
+R00197,Switching rooms with the thermostat takes ages -- the UI just hangs. Support was no help.,1,2026-03-14,3.3.0,1,performance
+R00198,Please add multi-home support -- I have a thermostat at two houses. Reinstalling didn't help.,2,2026-04-14,3.3.0,0,feature_request
+R00199,"Huge fan of the product, but the UI on the living room bulb page is glitchy and unreadable. Really disappointing.",3,2026-03-06,3.2.1,1,ui_bug
+R00200,Really impressed with how reliable the smart lock connection is. Reinstalling didn't help.,5,2026-07-29,3.4.0,0,praise
+R00201,"Great app when you're in, but I get logged out daily and can't reach my smoke detector.",3,2026-03-17,3.3.0,1,login_auth
+R00202,Five stars. The smoke detector routines run perfectly every morning. Reinstalling didn't help.,5,2026-09-12,3.4.1,0,praise
+R00203,App crashes when I try to view the bedroom speaker live feed. Was fine before 3.4.0. Hope this gets fixed soon.,2,2026-01-18,3.4.0,1,crash
+R00204,Every tap has a delay on 3.4.0. The thermostat controls feel like they're on dial-up. This started after the update.,2,2026-04-02,3.4.0,1,performance
+R00205,It'd be nice to get a weekly summary email of my smart lock activity. Anyone else seeing this?,3,2026-03-02,3.2.1,0,feature_request
+R00206,App force closes during smoke detector setup on the very last step. Unacceptable. This started after the update.,1,2026-02-05,3.4.1,1,crash
+R00207,The widget alone drains my battery keeping the bedroom speaker status updated.,2,2026-08-28,3.4.0,1,battery_drain
+R00208,The app is painfully slow to arm/disarm the smart lock. Takes three tries. Hope this gets fixed soon.,2,2026-06-06,3.2.1,1,performance
+R00209,How do I reset the garage sensor energy stats? They seem off this month. This started after the update.,4,2026-07-02,3.4.0,0,question
+R00210,Would love Apple Watch support to check the smart plug quickly. Reinstalling didn't help.,3,2026-07-18,3.3.2,0,feature_request
+R00211,Question: can I rename the living room bulb after setup? Don't see an edit option.,3,2026-07-01,3.3.2,0,question
+R00212,Can you add guest access for the smoke detector? I want my family to control it without my login. Reinstalling didn't help.,3,2026-05-24,3.2.1,0,feature_request
+R00213,This app eats my phone battery alive -- lost 40% overnight with the smoke detector idle. Really disappointing.,2,2026-05-04,3.2.0,1,battery_drain
+R00214,Intermittent connectivity: thermostat responds maybe one time out of three.,3,2026-08-01,3.4.1,1,connectivity
+R00215,Can the living room bulb trigger routines based on sunrise/sunset times? Hope this gets fixed soon.,4,2026-02-04,3.2.0,0,question
+R00216,Love this app! My security camera setup took five minutes and everything just works.,5,2026-01-23,3.3.2,0,praise
+R00217,Five stars. The thermostat routines run perfectly every morning. Anyone else seeing this?,5,2026-02-28,3.3.0,0,praise
+R00218,App disconnects from the security camera whenever my phone switches between Wi-Fi and data. This started after the update.,3,2026-05-24,3.2.1,1,connectivity
+R00219,"Simple, fast, reliable. Exactly what I want for my kitchen plug. Anyone else seeing this?",4,2026-04-13,3.2.1,0,praise
+R00220,"Sync fails repeatedly with the video doorbell. Spinning loader, then 'connection timeout'. Really disappointing.",2,2026-02-22,3.2.1,1,connectivity
+R00221,"No lag, no freezes, no battery drain. Really happy with the living room bulb integration. Hope this gets fixed soon.",4,2026-01-10,3.3.0,0,praise
+R00222,Please add a dark mode schedule for the garage sensor page. Would love auto-switching at sunset.,4,2026-07-31,3.4.1,0,feature_request
+R00223,Toggle switches on the living room bulb page don't reflect the real state. Confusing. Anyone else seeing this?,2,2026-04-28,3.2.1,1,ui_bug
+R00224,Really impressed with how reliable the smoke detector connection is. Reinstalling didn't help.,4,2026-04-26,3.2.1,0,praise
+R00225,It would be great if the app supported widgets for the smoke detector on the lock screen. Otherwise I like the app.,4,2026-02-13,3.4.0,0,feature_request
+R00226,"Login screen loops forever: enter password, spinner, back to login. Otherwise I like the app.",2,2026-08-19,3.2.0,1,login_auth
+R00227,Request: IFTTT-style custom triggers for the smoke detector. The presets are too limited.,3,2026-08-25,3.2.1,0,feature_request
+R00228,Instant crash when switching between the living room bulb and the dashboard.,2,2026-07-26,3.3.0,1,crash
+R00229,Would love voice control shortcuts for the bedroom speaker beyond the basics. Considering switching apps.,2,2026-02-06,3.4.0,0,feature_request
+R00230,Does the garage sensor work without Wi-Fi? Wondering about offline mode. Hope this gets fixed soon.,5,2026-08-02,3.2.1,0,question
+R00231,It'd be nice to get a weekly summary email of my bedroom speaker activity. Support was no help.,4,2026-07-16,3.2.0,0,feature_request
+R00232,Please add a vacation mode that randomizes the kitchen plug schedule.,3,2026-07-25,3.4.0,0,feature_request
+R00233,App takes forever to load the garage sensor dashboard -- 20+ seconds of spinner. Considering switching apps.,5,2026-08-10,3.4.0,1,performance
+R00234,Connection keeps dropping -- the video doorbell goes 'unreachable' every few hours. Really disappointing.,1,2026-08-07,3.4.0,1,connectivity
+R00235,How do I share video doorbell access with my partner? Can't find the option in 3.2.0. Anyone else seeing this?,3,2026-01-22,3.3.2,0,question
+R00236,App force closes during garage sensor setup on the very last step. Unacceptable. Reinstalling didn't help.,1,2026-04-26,3.2.0,1,crash
+R00237,Constant location polling for the smart plug geofence is killing my battery. Really disappointing.,2,2026-06-18,3.2.1,1,battery_drain
+R00238,"Really like the design, but logging in has been broken for me since 3.2.0. Reinstalling didn't help.",1,2026-04-04,3.4.1,1,login_auth
+R00239,Please add a dark mode schedule for the bedroom speaker page. Would love auto-switching at sunset. Otherwise I like the app.,5,2026-08-06,3.3.2,0,feature_request
+R00240,Switching rooms with the smart lock takes ages -- the UI just hangs. Considering switching apps.,1,2026-03-19,3.3.2,1,performance
+R00241,It'd be nice to get a weekly summary email of my security camera activity. Honestly pretty annoyed.,4,2026-05-15,3.2.1,0,feature_request
+R00242,"Huge fan of the product, but the UI on the video doorbell page is glitchy and unreadable. Considering switching apps.",3,2026-04-12,3.2.0,1,ui_bug
+R00243,Dark mode is broken on the smart plug page -- white text on a white background. Really disappointing.,1,2026-04-26,3.3.2,1,ui_bug
+R00244,This app eats my phone battery alive -- lost 40% overnight with the smart lock idle.,1,2026-09-07,3.2.1,1,battery_drain
+R00245,It'd be nice to get a weekly summary email of my smoke detector activity. Hope this gets fixed soon.,5,2026-07-18,3.3.2,0,feature_request
+R00246,Massive battery drain on 3.2.0. Had to uninstall to get through the day. Considering switching apps.,3,2026-09-02,3.3.0,1,battery_drain
+R00247,Setup for the thermostat was painless and the interface is beautiful. Reinstalling didn't help.,5,2026-08-06,3.3.0,0,praise
+R00248,"Since 3.3.0, the app loses connection to the kitchen plug and never reconnects on its own. This started after the update.",2,2026-09-13,3.3.2,1,connectivity
+R00249,App force closes during security camera setup on the very last step. Unacceptable. Really disappointing.,2,2026-02-04,3.4.0,1,crash
+R00250,Can't log in since 3.2.1 -- 'invalid credentials' even though my password is right. Really disappointing.,3,2026-05-03,3.2.0,1,login_auth
+R00251,Everything about the smart plug integration feels polished. Highly recommend. Really disappointing.,5,2026-09-11,3.2.0,0,praise
+R00252,The app won't stay open for more than a few seconds if the smoke detector is online.,2,2026-09-19,3.4.1,1,crash
+R00253,Question: can I rename the video doorbell after setup? Don't see an edit option.,2,2026-05-08,3.2.1,0,question
+R00254,Woke up to a dead phone. The app was top of battery stats because of the bedroom speaker. Anyone else seeing this?,1,2026-05-09,3.4.1,1,battery_drain
+R00255,App takes forever to load the bedroom speaker dashboard -- 20+ seconds of spinner. Reinstalling didn't help.,1,2026-09-05,3.2.0,1,performance
+R00256,It would be great if the app supported widgets for the bedroom speaker on the lock screen. Otherwise I like the app.,4,2026-02-22,3.4.0,0,feature_request
+R00257,Everything about the thermostat integration feels polished. Highly recommend. Really disappointing.,5,2026-05-28,3.4.0,0,praise
+R00258,"Great app when you're in, but I get logged out daily and can't reach my smart lock.",1,2026-07-27,3.2.0,1,login_auth
+R00259,"Sync fails repeatedly with the smoke detector. Spinning loader, then 'connection timeout'. Support was no help.",2,2026-03-17,3.4.1,1,connectivity
+R00260,"No lag, no freezes, no battery drain. Really happy with the video doorbell integration. Anyone else seeing this?",4,2026-07-27,3.3.0,0,praise
+R00261,Can't stay signed in on two phones -- the second login kicks out the first. Support was no help.,1,2026-04-10,3.4.1,1,login_auth
+R00262,The app is painfully slow to arm/disarm the video doorbell. Takes three tries. Hope this gets fixed soon.,3,2026-03-24,3.3.2,1,performance
+R00263,It'd be nice to get a weekly summary email of my video doorbell activity.,3,2026-06-11,3.3.2,0,feature_request
+R00264,Crash after crash. The app dies the moment I tap my smoke detector. Reinstalling didn't help.,1,2026-08-01,3.2.0,1,crash
+R00265,Crashes constantly since the 3.2.0 update. My bedroom speaker is basically bricked in the app. Hope this gets fixed soon.,3,2026-08-04,3.3.2,1,crash
+R00266,Please add a vacation mode that randomizes the smart lock schedule. Reinstalling didn't help.,5,2026-04-01,3.4.1,0,feature_request
+R00267,"Best smart home app I've used, if only the security camera page didn't lag so badly.",1,2026-08-15,3.3.0,1,performance
+R00268,The latest update crashes on launch whenever my garage sensor is connected. Anyone else seeing this?,4,2026-04-15,3.3.2,1,crash
+R00269,Password reset email never comes. Can't access my bedroom speaker at all now. This started after the update.,3,2026-06-25,3.3.2,1,login_auth
+R00270,Question: can I rename the smart plug after setup? Don't see an edit option. Honestly pretty annoyed.,3,2026-09-07,3.3.0,0,question
+R00271,Constant location polling for the garage sensor geofence is killing my battery. Honestly pretty annoyed.,2,2026-06-20,3.3.2,1,battery_drain
+R00272,The smoke detector works in the old app but this version 3.2.1 can't maintain a connection. Really disappointing.,1,2026-01-18,3.4.1,1,connectivity
+R00273,The video doorbell pairs fine in Bluetooth settings but the app says device not found. Really disappointing.,3,2026-09-17,3.2.1,1,connectivity
+R00274,The app keeps getting better. My smart plug has never been easier to manage. Anyone else seeing this?,3,2026-07-29,3.4.0,0,praise
+R00275,Icons for the kitchen plug are missing -- just empty boxes on 3.4.1. Reinstalling didn't help.,1,2026-02-17,3.2.0,1,ui_bug
+R00276,Please add multi-home support -- I have a smart plug at two houses. Anyone else seeing this?,3,2026-07-28,3.3.0,0,feature_request
+R00277,"Battery use was high for a day after the update, then settled. The smoke detector works flawlessly. Anyone else seeing this?",4,2026-04-28,3.3.2,0,praise
+R00278,Icons for the thermostat are missing -- just empty boxes on 3.3.2.,1,2026-06-05,3.3.2,1,ui_bug
+R00279,Really impressed with how reliable the garage sensor connection is. Reinstalling didn't help.,4,2026-09-09,3.3.0,0,praise
+R00280,Text is cut off on the thermostat details screen on my small phone.,1,2026-01-16,3.3.0,1,ui_bug
+R00281,Feature request: let me export smart lock history to CSV for my energy audit.,5,2026-03-27,3.3.0,0,feature_request
+R00282,Woke up to a dead phone. The app was top of battery stats because of the security camera. Really disappointing.,2,2026-08-14,3.3.2,1,battery_drain
+R00283,Crashes constantly since the 3.4.1 update. My thermostat is basically bricked in the app. Honestly pretty annoyed.,1,2026-04-20,3.3.0,1,crash
+R00284,Does the smoke detector work without Wi-Fi? Wondering about offline mode. Otherwise I like the app.,4,2026-06-20,3.2.1,0,question
+R00285,Video from the kitchen plug buffers constantly even on fast Wi-Fi. Support was no help.,4,2026-07-24,3.4.0,1,performance
+R00286,Connection keeps dropping -- the living room bulb goes 'unreachable' every few hours. Anyone else seeing this?,3,2026-02-17,3.4.1,1,connectivity
+R00287,"Best smart home app I've used, if only the kitchen plug page didn't lag so badly.",1,2026-07-22,3.3.2,1,performance
+R00288,App disconnects from the security camera whenever my phone switches between Wi-Fi and data.,2,2026-09-12,3.3.0,1,connectivity
+R00289,"My thermostat shows offline in the app constantly, but my Wi-Fi is fine.",3,2026-04-14,3.3.2,1,connectivity
+R00290,The app keeps getting better. My garage sensor has never been easier to manage.,5,2026-02-16,3.4.0,0,praise
+R00291,Background battery drain is ridiculous. Turned off living room bulb notifications and it still drains. This started after the update.,1,2026-09-15,3.4.0,1,battery_drain
+R00292,Massive battery drain on 3.4.0. Had to uninstall to get through the day.,3,2026-08-18,3.4.0,1,battery_drain
+R00293,"Notification badges never clear for the living room bulb, even after I read everything. This started after the update.",3,2026-05-19,3.3.0,1,ui_bug
+R00294,"No login issues, no connectivity drops -- the smart plug has been rock solid. Otherwise I like the app.",4,2026-08-12,3.2.1,0,praise
+R00295,App takes forever to load the smoke detector dashboard -- 20+ seconds of spinner. Anyone else seeing this?,2,2026-04-01,3.3.0,1,performance
+R00296,Switched from a competitor and the video doorbell experience here is miles ahead. Support was no help.,5,2026-02-04,3.3.0,0,praise
+R00297,No offline errors at all -- the smart lock stays connected all day. Support was no help.,4,2026-09-12,3.2.1,0,praise
+R00298,App disconnects from the video doorbell whenever my phone switches between Wi-Fi and data. Reinstalling didn't help.,1,2026-05-27,3.4.1,1,connectivity
+R00299,Love this app! My video doorbell setup took five minutes and everything just works. This started after the update.,5,2026-07-07,3.2.0,0,praise
+R00300,"Clean design, fast, and the living room bulb widgets are super handy. Reinstalling didn't help.",4,2026-03-12,3.4.0,0,praise
+R00301,Please add a dark mode schedule for the garage sensor page. Would love auto-switching at sunset.,2,2026-03-26,3.3.2,0,feature_request
+R00302,Had to factory reset the living room bulb three times this month because the app loses it. Hope this gets fixed soon.,4,2026-02-21,3.4.1,1,connectivity
+R00303,"Five stars for the features, but the battery drain from the living room bulb sync is brutal. Considering switching apps.",1,2026-05-04,3.3.2,1,battery_drain
+R00304,Please add a dark mode schedule for the video doorbell page. Would love auto-switching at sunset. Anyone else seeing this?,3,2026-04-30,3.4.0,0,feature_request
+R00305,The app keeps getting better. My garage sensor has never been easier to manage. Honestly pretty annoyed.,5,2026-07-20,3.2.0,0,praise
+R00306,Best smart home app I've tried. The security camera automations are rock solid. Really disappointing.,4,2026-03-19,3.2.0,0,praise
+R00307,"Five stars for features, one star for the battery drain -- the smart lock sync never sleeps. Considering switching apps.",1,2026-03-23,3.3.2,1,battery_drain
+R00308,"Crash report sent three times this week, all from the video doorbell screen. Considering switching apps.",1,2026-07-20,3.3.0,1,crash
+R00309,The new 3.4.0 update made the smart plug controls so much snappier. Great work. Considering switching apps.,4,2026-05-30,3.4.1,0,praise
+R00310,Live view from the smoke detector lags 10 seconds behind real time. Useless for a doorbell. Considering switching apps.,2,2026-07-24,3.3.0,1,performance
+R00311,Can you add guest access for the video doorbell? I want my family to control it without my login. This started after the update.,4,2026-02-10,3.4.0,0,feature_request
+R00312,The app keeps getting better. My smart plug has never been easier to manage. Otherwise I like the app.,5,2026-04-03,3.3.2,0,praise
+R00313,Please add a dark mode schedule for the thermostat page. Would love auto-switching at sunset. Honestly pretty annoyed.,4,2026-01-25,3.2.0,0,feature_request
+R00314,The app keeps getting better. My bedroom speaker has never been easier to manage. Really disappointing.,4,2026-03-24,3.3.0,0,praise
+R00315,"Really like the design, but logging in has been broken for me since 3.4.0. Otherwise I like the app.",5,2026-07-24,3.4.0,1,login_auth
+R00316,Does the bedroom speaker work without Wi-Fi? Wondering about offline mode. Honestly pretty annoyed.,3,2026-02-03,3.2.1,0,question
+R00317,The security camera works in the old app but this version 3.2.0 can't maintain a connection.,1,2026-03-16,3.4.1,1,connectivity
+R00318,Massive battery drain on 3.2.1. Had to uninstall to get through the day. Otherwise I like the app.,3,2026-03-10,3.4.1,1,battery_drain
+R00319,Love this app! My bedroom speaker setup took five minutes and everything just works. Reinstalling didn't help.,4,2026-02-06,3.3.0,0,praise
+R00320,It would be great if the app supported widgets for the smoke detector on the lock screen.,4,2026-09-17,3.4.0,0,feature_request
+R00321,Great app otherwise -- however my video doorbell keeps showing offline since 3.2.1. Considering switching apps.,3,2026-01-06,3.2.0,1,connectivity
+R00322,"Battery use was high for a day after the update, then settled. The security camera works flawlessly.",4,2026-08-07,3.2.1,0,praise
+R00323,Toggle switches on the smart plug page don't reflect the real state. Confusing.,3,2026-09-19,3.4.1,1,ui_bug
+R00324,The app keeps getting better. My garage sensor has never been easier to manage. Hope this gets fixed soon.,3,2026-06-21,3.2.0,0,praise
+R00325,The app looks beautiful but everything lags; opening the living room bulb takes forever. Anyone else seeing this?,1,2026-05-09,3.3.2,1,performance
+R00326,"Login screen loops forever: enter password, spinner, back to login.",2,2026-01-08,3.3.2,1,login_auth
+R00327,The thermostat temperature shows in Fahrenheit even though I set Celsius in settings. Support was no help.,4,2026-06-11,3.2.0,1,ui_bug
+R00328,"My security camera shows offline in the app constantly, but my Wi-Fi is fine. Hope this gets fixed soon.",5,2026-02-21,3.2.0,1,connectivity
+R00329,Where do I find the firmware version of my kitchen plug in the app? Considering switching apps.,4,2026-02-17,3.4.0,0,question
+R00330,The app is great when it works -- sadly the smart plug screen crashes on launch. Support was no help.,1,2026-03-12,3.2.1,1,crash
+R00331,App says my session expired in the middle of kitchen plug setup and lost my progress. This started after the update.,2,2026-05-24,3.2.1,1,login_auth
+R00332,Every tap has a delay on 3.2.1. The video doorbell controls feel like they're on dial-up. This started after the update.,1,2026-08-31,3.3.0,1,performance
+R00333,"Login screen loops forever: enter password, spinner, back to login.",2,2026-02-20,3.2.1,1,login_auth
+R00334,Setup for the kitchen plug was painless and the interface is beautiful.,5,2026-05-12,3.3.0,0,praise
+R00335,"Really happy with the security camera itself, but the app UI shows the wrong status half the time. Support was no help.",1,2026-08-24,3.4.0,1,ui_bug
+R00336,Best smart home app I've tried. The thermostat automations are rock solid.,3,2026-04-16,3.3.2,0,praise
+R00337,The video doorbell status card shows yesterday's data until I force-refresh the app.,2,2026-04-16,3.4.1,1,ui_bug
+R00338,"Love the automations, but the garage sensor live view buffers constantly.",1,2026-08-14,3.4.1,1,performance
+R00339,It crashed twice this week on the smart lock page. Still better than the competitor's app. Hope this gets fixed soon.,1,2026-05-28,3.3.2,1,crash
+R00340,Haven't seen a single crash since 3.3.2. The smoke detector controls are fast and reliable.,5,2026-02-18,3.3.0,0,praise
+R00341,Icons for the smoke detector are missing -- just empty boxes on 3.2.0. Support was no help.,1,2026-07-07,3.3.2,1,ui_bug
+R00342,Biometric login crashes back to the password field on 3.2.1.,1,2026-06-17,3.4.0,1,login_auth
+R00343,App takes forever to load the garage sensor dashboard -- 20+ seconds of spinner. Otherwise I like the app.,3,2026-05-04,3.2.1,1,performance
+R00344,Constant location polling for the smart lock geofence is killing my battery. Support was no help.,1,2026-07-05,3.2.1,1,battery_drain
+R00345,Search in the thermostat history times out on anything older than a week. Considering switching apps.,4,2026-07-04,3.4.0,1,performance
+R00346,Background crash loop drained my patience -- garage sensor alerts kill the app. Hope this gets fixed soon.,3,2026-04-04,3.3.2,1,crash
+R00347,The app looks beautiful but everything lags; opening the garage sensor takes forever. Otherwise I like the app.,1,2026-04-18,3.2.1,1,performance
+R00348,Search in the security camera history times out on anything older than a week. Considering switching apps.,1,2026-03-18,3.2.0,1,performance
+R00349,Does the bedroom speaker work without Wi-Fi? Wondering about offline mode.,3,2026-06-26,3.3.0,0,question
+R00350,The back button from the garage sensor settings dumps me to the login screen instead of home. Otherwise I like the app.,3,2026-04-04,3.4.1,1,ui_bug
+R00351,Would love voice control shortcuts for the smart lock beyond the basics. Anyone else seeing this?,5,2026-04-04,3.3.2,0,feature_request
+R00352,App force closes during smart plug setup on the very last step. Unacceptable. Anyone else seeing this?,1,2026-01-21,3.2.1,1,crash
+R00353,"Login screen loops forever: enter password, spinner, back to login.",2,2026-06-23,3.4.1,1,login_auth
+R00354,The widget alone drains my battery keeping the video doorbell status updated. Really disappointing.,3,2026-06-25,3.3.2,1,battery_drain
+R00355,Text is cut off on the video doorbell details screen on my small phone.,1,2026-01-29,3.3.2,1,ui_bug
+R00356,Every time I adjust the bedroom speaker settings the app force quits. So frustrating. Reinstalling didn't help.,2,2026-07-16,3.2.0,1,crash
+R00357,Would love voice control shortcuts for the smart lock beyond the basics. This started after the update.,4,2026-02-11,3.2.0,0,feature_request
+R00358,The app logs me out every day and I have to sign back in to see my bedroom speaker. Considering switching apps.,1,2026-02-12,3.4.0,1,login_auth
+R00359,Does anyone know if the app supports the older smart plug model from 2021? Considering switching apps.,4,2026-01-20,3.3.2,0,question
+R00360,Zero crashes so far and no battery drain. The smart lock just works. Considering switching apps.,4,2026-05-20,3.4.1,0,praise
+R00361,Crashes constantly since the 3.2.1 update. My garage sensor is basically bricked in the app.,2,2026-07-08,3.2.0,1,crash
+R00362,The video doorbell status card shows yesterday's data until I force-refresh the app. Honestly pretty annoyed.,2,2026-04-02,3.4.1,1,ui_bug
+R00363,Great app otherwise -- however my bedroom speaker keeps showing offline since 3.3.2. This started after the update.,1,2026-05-20,3.2.0,1,connectivity
+R00364,Best smart home app I've tried. The living room bulb automations are rock solid. This started after the update.,4,2026-05-19,3.2.1,0,praise
+R00365,Feature request: let me export video doorbell history to CSV for my energy audit. Really disappointing.,5,2026-06-30,3.4.0,0,feature_request
+R00366,This app eats my phone battery alive -- lost 40% overnight with the smoke detector idle. Reinstalling didn't help.,3,2026-09-05,3.4.0,1,battery_drain
+R00367,"Simple, fast, reliable. Exactly what I want for my smart plug. Anyone else seeing this?",2,2026-03-21,3.2.0,0,praise
+R00368,"No login issues, no connectivity drops -- the security camera has been rock solid. Support was no help.",5,2026-02-14,3.4.1,0,praise
+R00369,The video doorbell status card shows yesterday's data until I force-refresh the app. Support was no help.,1,2026-07-27,3.4.0,1,ui_bug
+R00370,"My smart plug shows offline in the app constantly, but my Wi-Fi is fine. Reinstalling didn't help.",3,2026-08-07,3.2.0,1,connectivity
+R00371,Great app otherwise -- however my smart plug keeps showing offline since 3.2.0. Hope this gets fixed soon.,4,2026-06-30,3.3.2,1,connectivity
+R00372,App disconnects from the living room bulb whenever my phone switches between Wi-Fi and data.,1,2026-07-29,3.2.0,1,connectivity
+R00373,The living room bulb temperature shows in Fahrenheit even though I set Celsius in settings.,2,2026-06-26,3.3.0,1,ui_bug
+R00374,Everything is sluggish since 3.2.1. Opening the smart lock feed lags badly. Hope this gets fixed soon.,5,2026-08-19,3.3.0,1,performance
+R00375,The bedroom speaker history graph renders blank after midnight. Graphs worked in the old version. This started after the update.,1,2026-07-15,3.2.0,1,ui_bug
+R00376,"Best smart home app I've used, if only the bedroom speaker page didn't lag so badly. Reinstalling didn't help.",2,2026-01-19,3.2.1,1,performance
+R00377,Live view from the thermostat lags 10 seconds behind real time. Useless for a doorbell. Considering switching apps.,1,2026-04-16,3.3.0,1,performance
+R00378,App can't find the smart lock half the time. Re-pairing works for a day then it drops again. This started after the update.,2,2026-08-21,3.2.1,1,connectivity
+R00379,Five stars. The video doorbell routines run perfectly every morning.,5,2026-07-21,3.2.0,0,praise
+R00380,"Login screen loops forever: enter password, spinner, back to login. Really disappointing.",2,2026-08-02,3.4.0,1,login_auth
+R00381,App takes forever to load the security camera dashboard -- 20+ seconds of spinner.,2,2026-01-09,3.2.1,1,performance
+R00382,Constant location polling for the bedroom speaker geofence is killing my battery. Otherwise I like the app.,2,2026-08-28,3.3.0,1,battery_drain
+R00383,The video doorbell works in the old app but this version 3.2.0 can't maintain a connection. Reinstalling didn't help.,1,2026-07-15,3.4.0,1,connectivity
+R00384,Would love Apple Watch support to check the garage sensor quickly. Otherwise I like the app.,5,2026-05-26,3.4.1,0,feature_request
+R00385,"Notification badges never clear for the security camera, even after I read everything. Honestly pretty annoyed.",1,2026-02-03,3.4.0,1,ui_bug
+R00386,App keeps crashing every time I open the living room bulb controls on version 3.3.0. Support was no help.,2,2026-07-31,3.3.2,1,crash
+R00387,Would love voice control shortcuts for the kitchen plug beyond the basics. Considering switching apps.,5,2026-04-28,3.4.1,0,feature_request
+R00388,Password reset email never comes. Can't access my security camera at all now. Reinstalling didn't help.,2,2026-04-07,3.3.0,1,login_auth
+R00389,"Best smart home app I've used, if only the smoke detector page didn't lag so badly. Really disappointing.",2,2026-06-25,3.4.1,1,performance
+R00390,The app is painfully slow to arm/disarm the kitchen plug. Takes three tries. Hope this gets fixed soon.,1,2026-06-04,3.3.2,1,performance
+R00391,Everything about the smart lock integration feels polished. Highly recommend.,3,2026-07-19,3.4.0,0,praise
+R00392,"Five stars for features, one star for the battery drain -- the smart lock sync never sleeps. Support was no help.",1,2026-08-27,3.2.1,1,battery_drain
+R00393,Switching rooms with the security camera takes ages -- the UI just hangs. Really disappointing.,1,2026-02-03,3.2.0,1,performance
+R00394,Every tap has a delay on 3.2.0. The garage sensor controls feel like they're on dial-up.,3,2026-08-15,3.4.1,1,performance
+R00395,"My smart lock shows offline in the app constantly, but my Wi-Fi is fine. Otherwise I like the app.",1,2026-01-12,3.3.0,1,connectivity
+R00396,"Had one crash right after the 3.2.1 update, but a reinstall fixed everything. Loving it now. Considering switching apps.",5,2026-06-30,3.3.0,0,praise
+R00397,Connection keeps dropping -- the thermostat goes 'unreachable' every few hours. Hope this gets fixed soon.,1,2026-08-26,3.4.1,1,connectivity
+R00398,Intermittent connectivity: kitchen plug responds maybe one time out of three. Otherwise I like the app.,5,2026-04-11,3.2.1,1,connectivity
+R00399,Where do I find the firmware version of my smart lock in the app?,1,2026-04-23,3.4.1,0,question
+R00400,App force closes during thermostat setup on the very last step. Unacceptable. Really disappointing.,2,2026-05-15,3.4.0,1,crash
+R00401,Please add a dark mode schedule for the thermostat page. Would love auto-switching at sunset. Considering switching apps.,4,2026-03-05,3.3.2,0,feature_request
+R00402,"Best smart home app I've used, if only the security camera page didn't lag so badly. Considering switching apps.",2,2026-01-09,3.3.0,1,performance
+R00403,"Best smart home app I've used, if only the security camera page didn't lag so badly.",2,2026-03-06,3.3.0,1,performance
+R00404,"Really like the design, but logging in has been broken for me since 3.4.0. Honestly pretty annoyed.",2,2026-07-07,3.4.1,1,login_auth
+R00405,"Since 3.3.0, the app loses connection to the garage sensor and never reconnects on its own. Honestly pretty annoyed.",2,2026-01-06,3.2.0,1,connectivity
+R00406,Can the video doorbell trigger routines based on sunrise/sunset times?,3,2026-02-25,3.3.0,0,question
+R00407,Love this app! My security camera setup took five minutes and everything just works. Hope this gets fixed soon.,3,2026-07-08,3.4.1,0,praise
+R00408,Background crash loop drained my patience -- thermostat alerts kill the app. Really disappointing.,3,2026-04-02,3.3.0,1,crash
+R00409,Dark mode is broken on the kitchen plug page -- white text on a white background.,1,2026-07-29,3.3.2,1,ui_bug
+R00410,The app keeps getting better. My security camera has never been easier to manage.,5,2026-02-04,3.2.1,0,praise
+R00411,The security camera works in the old app but this version 3.4.0 can't maintain a connection. Support was no help.,2,2026-07-07,3.4.0,1,connectivity
+R00412,Scrolling the garage sensor event history stutters and freezes the whole app. Support was no help.,2,2026-08-18,3.2.0,1,performance
+R00413,Rotated my phone while on the smart plug page and the app crashed instantly. Anyone else seeing this?,2,2026-04-29,3.4.1,1,crash
+R00414,The app keeps getting better. My smart lock has never been easier to manage. Otherwise I like the app.,5,2026-07-21,3.2.1,0,praise
+R00415,Would love voice control shortcuts for the security camera beyond the basics. This started after the update.,2,2026-09-15,3.2.1,0,feature_request
+R00416,Background battery drain is ridiculous. Turned off smart lock notifications and it still drains. Really disappointing.,1,2026-07-17,3.3.2,1,battery_drain
+R00417,The new 3.3.0 update made the garage sensor controls so much snappier. Great work.,5,2026-09-16,3.4.1,0,praise
+R00418,Love this app! My smart plug setup took five minutes and everything just works. Really disappointing.,5,2026-06-09,3.4.0,0,praise
+R00419,'Device offline' error all day for my thermostat even though it's two feet from the router. This started after the update.,1,2026-06-23,3.4.0,1,connectivity
+R00420,Please add multi-home support -- I have a video doorbell at two houses. Really disappointing.,5,2026-04-28,3.2.0,0,feature_request
+R00421,Face ID stopped working with the app on 3.4.1. Have to type the password each time.,2,2026-01-28,3.2.1,1,login_auth
+R00422,App startup is so slow now that the smart plug alerts arrive before the app opens. Honestly pretty annoyed.,1,2026-03-07,3.3.2,1,performance
+R00423,App crashes when I try to view the bedroom speaker live feed. Was fine before 3.2.0. Really disappointing.,1,2026-03-09,3.3.2,1,crash
+R00424,App disconnects from the thermostat whenever my phone switches between Wi-Fi and data. Support was no help.,1,2026-09-09,3.4.0,1,connectivity
+R00425,Question: can I rename the security camera after setup? Don't see an edit option. Support was no help.,4,2026-06-18,3.4.0,0,question
+R00426,Setup for the kitchen plug was painless and the interface is beautiful. This started after the update.,4,2026-03-14,3.2.1,0,praise
+R00427,The app is painfully slow to arm/disarm the smoke detector. Takes three tries. Considering switching apps.,3,2026-04-26,3.2.1,1,performance
+R00428,"Notification badges never clear for the security camera, even after I read everything. Reinstalling didn't help.",1,2026-06-19,3.4.1,1,ui_bug
+R00429,The bedroom speaker works in the old app but this version 3.4.1 can't maintain a connection. Considering switching apps.,4,2026-05-31,3.3.2,1,connectivity
+R00430,"The login screen glitched once, but support helped in minutes. Great app overall. Hope this gets fixed soon.",3,2026-03-28,3.3.0,0,praise
+R00431,Setup for the thermostat was painless and the interface is beautiful. This started after the update.,5,2026-02-26,3.4.0,0,praise
+R00432,Can you add guest access for the smoke detector? I want my family to control it without my login. Honestly pretty annoyed.,5,2026-06-01,3.4.1,0,feature_request
+R00433,Where do I find the firmware version of my kitchen plug in the app?,3,2026-01-11,3.4.1,0,question
+R00434,Switching rooms with the kitchen plug takes ages -- the UI just hangs. Reinstalling didn't help.,3,2026-04-15,3.4.1,1,performance
+R00435,Best smart home app I've tried. The smoke detector automations are rock solid. Support was no help.,5,2026-01-25,3.3.2,0,praise
+R00436,Rotated my phone while on the kitchen plug page and the app crashed instantly. Considering switching apps.,1,2026-03-25,3.2.0,1,crash
+R00437,"Crash report sent three times this week, all from the living room bulb screen. Anyone else seeing this?",2,2026-07-07,3.2.0,1,crash
+R00438,Zero crashes so far and no battery drain. The security camera just works. Reinstalling didn't help.,5,2026-07-30,3.2.0,0,praise
+R00439,Text is cut off on the smart lock details screen on my small phone. Reinstalling didn't help.,1,2026-09-05,3.4.0,1,ui_bug
+R00440,How do I share kitchen plug access with my partner? Can't find the option in 3.3.2. Honestly pretty annoyed.,2,2026-05-09,3.2.0,0,question
+R00441,The app keeps getting better. My living room bulb has never been easier to manage. Reinstalling didn't help.,4,2026-07-15,3.4.0,0,praise
+R00442,"The login screen glitched once, but support helped in minutes. Great app overall.",4,2026-01-08,3.4.1,0,praise
+R00443,App startup is so slow now that the smart lock alerts arrive before the app opens. Considering switching apps.,3,2026-08-15,3.4.1,1,performance
+R00444,No offline errors at all -- the video doorbell stays connected all day.,4,2026-04-06,3.3.0,0,praise
+R00445,Background battery drain is ridiculous. Turned off garage sensor notifications and it still drains. Support was no help.,1,2026-08-14,3.3.0,1,battery_drain
+R00446,Intermittent connectivity: video doorbell responds maybe one time out of three. Anyone else seeing this?,2,2026-01-28,3.4.1,1,connectivity
+R00447,The video doorbell schedules are flexible and the app never misses a beat. This started after the update.,4,2026-07-19,3.3.2,0,praise
+R00448,No offline errors at all -- the smoke detector stays connected all day. Really disappointing.,4,2026-03-19,3.3.0,0,praise
+R00449,Does anyone know if the app supports the older thermostat model from 2021? Reinstalling didn't help.,5,2026-03-18,3.2.0,0,question
+R00450,Firmware update for the living room bulb failed halfway and now the app won't connect at all. Considering switching apps.,4,2026-06-30,3.2.1,1,connectivity
+R00451,Connection keeps dropping -- the smart plug goes 'unreachable' every few hours. Honestly pretty annoyed.,1,2026-03-04,3.2.1,1,connectivity
+R00452,Please add a dark mode schedule for the smoke detector page. Would love auto-switching at sunset. Really disappointing.,5,2026-02-11,3.3.0,0,feature_request
+R00453,Really impressed with how reliable the smart lock connection is. Hope this gets fixed soon.,4,2026-02-09,3.2.1,0,praise
+R00454,Toggle switches on the security camera page don't reflect the real state. Confusing. Anyone else seeing this?,2,2026-07-10,3.3.0,1,ui_bug
+R00455,"Simple, fast, reliable. Exactly what I want for my bedroom speaker. Otherwise I like the app.",5,2026-03-14,3.4.1,0,praise
+R00456,Can the living room bulb trigger routines based on sunrise/sunset times? Reinstalling didn't help.,4,2026-03-01,3.2.1,0,question
+R00457,Switched from a competitor and the video doorbell experience here is miles ahead.,4,2026-01-14,3.4.0,0,praise
+R00458,Where do I find the firmware version of my smart lock in the app? Reinstalling didn't help.,5,2026-05-18,3.4.0,0,question
+R00459,"No lag, no freezes, no battery drain. Really happy with the smart plug integration. Hope this gets fixed soon.",4,2026-03-14,3.3.2,0,praise
+R00460,"Love the automations, but the smart lock live view buffers constantly. Really disappointing.",2,2026-03-30,3.4.0,1,performance
+R00461,"Five stars for the features, but the battery drain from the garage sensor sync is brutal.",2,2026-04-27,3.3.2,1,battery_drain
+R00462,The widget alone drains my battery keeping the kitchen plug status updated. This started after the update.,1,2026-08-25,3.2.0,1,battery_drain
+R00463,The app won't stay open for more than a few seconds if the living room bulb is online. Hope this gets fixed soon.,2,2026-04-04,3.3.2,1,crash
+R00464,Switched from a competitor and the smart lock experience here is miles ahead. Support was no help.,4,2026-07-04,3.3.0,0,praise
+R00465,Icons for the garage sensor are missing -- just empty boxes on 3.2.1. Honestly pretty annoyed.,3,2026-02-13,3.4.0,1,ui_bug
+R00466,"Simple, fast, reliable. Exactly what I want for my smart lock. Otherwise I like the app.",5,2026-03-04,3.3.2,0,praise
+R00467,The app keeps getting better. My thermostat has never been easier to manage. Anyone else seeing this?,2,2026-03-28,3.2.1,0,praise
+R00468,Haven't seen a single crash since 3.3.2. The smoke detector controls are fast and reliable. Anyone else seeing this?,5,2026-01-14,3.4.1,0,praise
+R00469,Does the smart plug work without Wi-Fi? Wondering about offline mode. This started after the update.,3,2026-04-02,3.2.1,0,question
+R00470,Would love voice control shortcuts for the security camera beyond the basics. Really disappointing.,5,2026-05-20,3.2.1,0,feature_request
+R00471,Setup for the security camera was painless and the interface is beautiful.,4,2026-04-18,3.4.0,0,praise
+R00472,Zero crashes so far and no battery drain. The smart plug just works.,4,2026-09-19,3.2.0,0,praise
+R00473,Biometric login crashes back to the password field on 3.4.0. Support was no help.,3,2026-07-13,3.2.0,1,login_auth
+R00474,The app keeps getting better. My smart plug has never been easier to manage. Support was no help.,4,2026-03-14,3.3.0,0,praise
+R00475,The app is painfully slow to arm/disarm the smoke detector. Takes three tries. Hope this gets fixed soon.,2,2026-04-11,3.2.0,1,performance
+R00476,Would love voice control shortcuts for the smoke detector beyond the basics. Support was no help.,4,2026-04-20,3.4.1,0,feature_request
+R00477,Everything about the smoke detector integration feels polished. Highly recommend. Anyone else seeing this?,4,2026-07-11,3.4.0,0,praise
+R00478,App startup is so slow now that the smoke detector alerts arrive before the app opens.,2,2026-07-13,3.4.0,1,performance
+R00479,The app used 25% of my battery in 3 hours just syncing the bedroom speaker.,3,2026-03-06,3.4.1,1,battery_drain
+R00480,The app logs me out every day and I have to sign back in to see my bedroom speaker. Reinstalling didn't help.,1,2026-01-31,3.2.1,1,login_auth
+R00481,Scrolling the smart plug event history stutters and freezes the whole app.,2,2026-02-06,3.3.0,1,performance
+R00482,"I love this app overall, but it crashes every time I open the bedroom speaker controls. Really disappointing.",2,2026-05-31,3.4.1,1,crash
+R00483,"No lag, no freezes, no battery drain. Really happy with the smart lock integration. Reinstalling didn't help.",4,2026-05-31,3.2.1,0,praise
+R00484,"Since 3.3.0, the app loses connection to the thermostat and never reconnects on its own. Honestly pretty annoyed.",2,2026-01-05,3.2.1,1,connectivity
+R00485,Intermittent connectivity: smart plug responds maybe one time out of three. Reinstalling didn't help.,1,2026-01-12,3.4.1,1,connectivity
+R00486,How do I reset the smoke detector energy stats? They seem off this month. Otherwise I like the app.,4,2026-07-01,3.3.0,0,question
+R00487,"Sync fails repeatedly with the living room bulb. Spinning loader, then 'connection timeout'. Support was no help.",2,2026-02-28,3.4.0,1,connectivity
+R00488,Biometric login crashes back to the password field on 3.4.0. Hope this gets fixed soon.,4,2026-08-19,3.3.2,1,login_auth
+R00489,Switching rooms with the smart plug takes ages -- the UI just hangs. This started after the update.,2,2026-03-05,3.3.0,1,performance
+R00490,"Login screen loops forever: enter password, spinner, back to login. Reinstalling didn't help.",3,2026-01-09,3.4.1,1,login_auth
+R00491,Really impressed with how reliable the security camera connection is. Otherwise I like the app.,3,2026-07-05,3.2.1,0,praise
+R00492,Setup for the smart lock was painless and the interface is beautiful. Considering switching apps.,5,2026-05-08,3.3.0,0,praise
+R00493,Phone battery dropped 15% during a 20-minute video doorbell live view. Fix the power usage.,1,2026-09-14,3.4.0,1,battery_drain
+R00494,Can't stay signed in on two phones -- the second login kicks out the first. Anyone else seeing this?,1,2026-05-25,3.3.2,1,login_auth
+R00495,"Sync fails repeatedly with the smart plug. Spinning loader, then 'connection timeout'.",1,2026-08-09,3.3.2,1,connectivity
+R00496,Best smart home app I've tried. The video doorbell automations are rock solid. Reinstalling didn't help.,5,2026-08-28,3.3.0,0,praise
+R00497,Really impressed with how reliable the living room bulb connection is. Reinstalling didn't help.,4,2026-05-19,3.2.1,0,praise
+R00498,Battery usage doubled after the update. The app keeps the smart lock connection awake nonstop. Considering switching apps.,2,2026-07-14,3.3.0,1,battery_drain
+R00499,Never had the app crash on me once. The video doorbell setup was smooth. Hope this gets fixed soon.,5,2026-05-05,3.4.0,0,praise
+R00500,App force closes during thermostat setup on the very last step. Unacceptable. Support was no help.,1,2026-09-17,3.2.1,1,crash
+R00501,Does anyone know if the app supports the older living room bulb model from 2021? Reinstalling didn't help.,5,2026-01-29,3.3.2,0,question
+R00502,The latest update crashes on launch whenever my video doorbell is connected. Considering switching apps.,2,2026-06-25,3.3.0,1,crash
+R00503,Face ID stopped working with the app on 3.2.0. Have to type the password each time. Otherwise I like the app.,1,2026-04-16,3.4.0,1,login_auth
+R00504,Background crash loop drained my patience -- kitchen plug alerts kill the app. Reinstalling didn't help.,1,2026-09-11,3.4.1,1,crash
+R00505,"Best smart home app I've used, if only the security camera page didn't lag so badly. Really disappointing.",2,2026-06-26,3.3.2,1,performance
+R00506,It would be great if the app supported widgets for the kitchen plug on the lock screen. Otherwise I like the app.,2,2026-06-16,3.4.1,0,feature_request
+R00507,Toggle switches on the kitchen plug page don't reflect the real state. Confusing. Anyone else seeing this?,3,2026-08-23,3.3.2,1,ui_bug
+R00508,Opening the video doorbell tab makes the app freeze then crash. Please fix this.,2,2026-07-27,3.2.0,1,crash
+R00509,"My bedroom speaker shows offline in the app constantly, but my Wi-Fi is fine.",1,2026-02-27,3.3.0,1,connectivity
+R00510,The app is great when it works -- sadly the smart lock screen crashes on launch. Hope this gets fixed soon.,1,2026-08-19,3.4.1,1,crash
+R00511,App keeps crashing every time I open the kitchen plug controls on version 3.3.2. This started after the update.,2,2026-05-24,3.4.0,1,crash
+R00512,Buttons on the garage sensor schedule screen overlap so I can't tap save. Considering switching apps.,2,2026-08-15,3.4.0,1,ui_bug
+R00513,Setup for the garage sensor was painless and the interface is beautiful. Otherwise I like the app.,5,2026-08-04,3.3.0,0,praise
+R00514,"Five stars for features, one star for the battery drain -- the garage sensor sync never sleeps.",1,2026-09-13,3.3.2,1,battery_drain
+R00515,Every tap has a delay on 3.4.0. The thermostat controls feel like they're on dial-up. Otherwise I like the app.,1,2026-04-11,3.3.2,1,performance
+R00516,The bedroom speaker schedules are flexible and the app never misses a beat. Hope this gets fixed soon.,4,2026-02-14,3.3.2,0,praise
+R00517,"Simple, fast, reliable. Exactly what I want for my living room bulb. Considering switching apps.",5,2026-05-22,3.3.2,0,praise
+R00518,"Five stars for the features, but the battery drain from the garage sensor sync is brutal. This started after the update.",1,2026-05-24,3.4.1,1,battery_drain
+R00519,"Had one crash right after the 3.2.1 update, but a reinstall fixed everything. Loving it now.",5,2026-05-29,3.3.0,0,praise
+R00520,garage sensor screen just force-closes the app. Completely unusable since 3.2.1. Otherwise I like the app.,1,2026-08-08,3.3.0,1,crash
+R00521,Love this app! My security camera setup took five minutes and everything just works. Hope this gets fixed soon.,4,2026-07-24,3.2.0,0,praise
+R00522,Face ID stopped working with the app on 3.2.0. Have to type the password each time. Considering switching apps.,3,2026-05-12,3.3.2,1,login_auth
+R00523,"No lag, no freezes, no battery drain. Really happy with the video doorbell integration. Really disappointing.",5,2026-04-21,3.3.2,0,praise
+R00524,"Two-factor code never arrives, so I'm locked out of controlling my thermostat. Reinstalling didn't help.",2,2026-03-08,3.3.0,1,login_auth
+R00525,"My smart lock shows offline in the app constantly, but my Wi-Fi is fine. Honestly pretty annoyed.",3,2026-08-15,3.3.0,1,connectivity
+R00526,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Anyone else seeing this?",3,2026-09-05,3.4.1,1,connectivity
+R00527,Crash after crash. The app dies the moment I tap my smart plug. Really disappointing.,2,2026-02-04,3.2.0,1,crash
+R00528,Great app otherwise -- however my smart lock keeps showing offline since 3.3.0. Reinstalling didn't help.,1,2026-07-01,3.3.2,1,connectivity
+R00529,Five stars. The garage sensor routines run perfectly every morning. This started after the update.,5,2026-06-04,3.4.0,0,praise
+R00530,"Simple, fast, reliable. Exactly what I want for my smart plug.",5,2026-02-09,3.4.0,0,praise
+R00531,The app used 25% of my battery in 3 hours just syncing the smoke detector. Considering switching apps.,2,2026-04-09,3.2.0,1,battery_drain
+R00532,Text is cut off on the smoke detector details screen on my small phone. Honestly pretty annoyed.,2,2026-09-16,3.4.0,1,ui_bug
+R00533,'Device offline' error all day for my smoke detector even though it's two feet from the router.,1,2026-01-27,3.2.1,1,connectivity
+R00534,"Love the new dashboard design, but my video doorbell won't stay connected since 3.2.0. Anyone else seeing this?",2,2026-07-22,3.4.1,1,connectivity
+R00535,"My smart plug shows offline in the app constantly, but my Wi-Fi is fine.",1,2026-01-11,3.2.1,1,connectivity
+R00536,Does the thermostat work without Wi-Fi? Wondering about offline mode. Reinstalling didn't help.,4,2026-08-05,3.3.0,0,question
+R00537,"Simple, fast, reliable. Exactly what I want for my living room bulb. Honestly pretty annoyed.",3,2026-02-23,3.2.0,0,praise
+R00538,Setup for the security camera was painless and the interface is beautiful. Considering switching apps.,5,2026-08-05,3.4.1,0,praise
+R00539,Battery saver mode does nothing -- the bedroom speaker stream keeps running in the background.,2,2026-04-07,3.4.0,1,battery_drain
+R00540,Crashes constantly since the 3.3.0 update. My kitchen plug is basically bricked in the app. Reinstalling didn't help.,1,2026-06-20,3.3.0,1,crash
+R00541,Search in the smart plug history times out on anything older than a week. Honestly pretty annoyed.,2,2026-07-16,3.4.0,1,performance
+R00542,The app keeps getting better. My thermostat has never been easier to manage. Anyone else seeing this?,1,2026-01-13,3.4.0,0,praise
+R00543,Opening the kitchen plug tab makes the app freeze then crash. Please fix this. Considering switching apps.,1,2026-05-26,3.4.0,1,crash
+R00544,App can't find the kitchen plug half the time. Re-pairing works for a day then it drops again.,1,2026-05-20,3.3.0,1,connectivity
+R00545,Everything about the smart lock integration feels polished. Highly recommend.,4,2026-06-20,3.3.2,0,praise
+R00546,The video doorbell status card shows yesterday's data until I force-refresh the app. Really disappointing.,3,2026-06-07,3.2.0,1,ui_bug
+R00547,It would be great if the app supported widgets for the kitchen plug on the lock screen. Support was no help.,5,2026-08-06,3.2.0,0,feature_request
+R00548,Love this app! My bedroom speaker setup took five minutes and everything just works. Hope this gets fixed soon.,5,2026-01-26,3.3.0,0,praise
+R00549,"Really like the design, but logging in has been broken for me since 3.3.2. Anyone else seeing this?",1,2026-09-20,3.2.0,1,login_auth
+R00550,Connection keeps dropping -- the garage sensor goes 'unreachable' every few hours. Considering switching apps.,1,2026-01-30,3.4.0,1,connectivity
+R00551,The app is great when it works -- sadly the security camera screen crashes on launch. This started after the update.,3,2026-04-16,3.3.2,1,crash
+R00552,Had to factory reset the smart lock three times this month because the app loses it. Hope this gets fixed soon.,2,2026-08-13,3.3.0,1,connectivity
+R00553,It would be great if the app supported widgets for the bedroom speaker on the lock screen. Otherwise I like the app.,4,2026-04-12,3.3.0,0,feature_request
+R00554,Scrolling the smart plug event history stutters and freezes the whole app. Anyone else seeing this?,5,2026-03-20,3.3.2,1,performance
+R00555,App crashes when I try to view the video doorbell live feed. Was fine before 3.2.0. Considering switching apps.,1,2026-02-01,3.2.1,1,crash
+R00556,How do I reset the video doorbell energy stats? They seem off this month. This started after the update.,1,2026-09-03,3.2.0,0,question
+R00557,The app won't stay open for more than a few seconds if the living room bulb is online. This started after the update.,2,2026-03-18,3.4.1,1,crash
+R00558,Love this app! My thermostat setup took five minutes and everything just works. Honestly pretty annoyed.,4,2026-05-23,3.2.0,0,praise
+R00559,Tapping notifications for the kitchen plug crashes the app every single time.,1,2026-06-03,3.4.1,1,crash
+R00560,Had to factory reset the kitchen plug three times this month because the app loses it. Anyone else seeing this?,1,2026-02-19,3.2.1,1,connectivity
+R00561,Had to factory reset the smart lock three times this month because the app loses it. Hope this gets fixed soon.,1,2026-06-24,3.3.2,1,connectivity
+R00562,"Love the automations, but the kitchen plug live view buffers constantly. Hope this gets fixed soon.",2,2026-05-05,3.4.0,1,performance
+R00563,"Best smart home app I've used, if only the thermostat page didn't lag so badly. Hope this gets fixed soon.",3,2026-04-30,3.2.1,1,performance
+R00564,App force closes during smart plug setup on the very last step. Unacceptable. Really disappointing.,1,2026-05-01,3.3.2,1,crash
+R00565,"Best smart home app I've used, if only the kitchen plug page didn't lag so badly. Reinstalling didn't help.",4,2026-03-13,3.2.1,1,performance
+R00566,Can you add guest access for the living room bulb? I want my family to control it without my login. Considering switching apps.,5,2026-03-15,3.3.2,0,feature_request
+R00567,Question: can I rename the smart plug after setup? Don't see an edit option. Otherwise I like the app.,4,2026-02-08,3.4.0,0,question
+R00568,Rotated my phone while on the thermostat page and the app crashed instantly. Support was no help.,3,2026-08-03,3.3.0,1,crash
+R00569,Face ID stopped working with the app on 3.2.0. Have to type the password each time.,1,2026-04-09,3.2.0,1,login_auth
+R00570,Would love Apple Watch support to check the smart plug quickly. Anyone else seeing this?,4,2026-05-03,3.2.1,0,feature_request
+R00571,Switched from a competitor and the garage sensor experience here is miles ahead. Really disappointing.,5,2026-07-15,3.2.1,0,praise
+R00572,Zero crashes so far and no battery drain. The thermostat just works. Support was no help.,4,2026-04-28,3.4.1,0,praise
+R00573,"No lag, no freezes, no battery drain. Really happy with the garage sensor integration. Otherwise I like the app.",5,2026-08-27,3.2.1,0,praise
+R00574,The back button from the bedroom speaker settings dumps me to the login screen instead of home. Considering switching apps.,2,2026-01-24,3.4.0,1,ui_bug
+R00575,Live view from the bedroom speaker lags 10 seconds behind real time. Useless for a doorbell.,2,2026-07-22,3.4.0,1,performance
+R00576,Is there a way to get push notifications only for the bedroom speaker and not the other devices? Hope this gets fixed soon.,3,2026-08-29,3.2.1,0,question
+R00577,The app won't stay open for more than a few seconds if the garage sensor is online. This started after the update.,4,2026-02-20,3.4.1,1,crash
+R00578,Had to factory reset the bedroom speaker three times this month because the app loses it. Otherwise I like the app.,2,2026-08-23,3.2.0,1,connectivity
+R00579,The video doorbell history graph renders blank after midnight. Graphs worked in the old version. Otherwise I like the app.,3,2026-03-29,3.4.1,1,ui_bug
+R00580,The new 3.4.1 update made the bedroom speaker controls so much snappier. Great work. Reinstalling didn't help.,5,2026-03-27,3.3.2,0,praise
+R00581,"Five stars for features, one star for the battery drain -- the smart plug sync never sleeps.",4,2026-03-29,3.2.1,1,battery_drain
+R00582,The garage sensor pairs fine in Bluetooth settings but the app says device not found. Really disappointing.,2,2026-04-07,3.2.0,1,connectivity
+R00583,How do I share living room bulb access with my partner? Can't find the option in 3.2.0. This started after the update.,4,2026-09-16,3.3.2,0,question
+R00584,"Setup was a breeze and I love the widgets, but the smart plug drops offline every night. This started after the update.",1,2026-08-25,3.3.2,1,connectivity
+R00585,"Crash report sent three times this week, all from the smart plug screen. Reinstalling didn't help.",2,2026-04-21,3.2.0,1,crash
+R00586,"Great app when you're in, but I get logged out daily and can't reach my thermostat. Anyone else seeing this?",1,2026-06-06,3.3.0,1,login_auth
+R00587,No offline errors at all -- the smart plug stays connected all day. Reinstalling didn't help.,4,2026-04-05,3.3.2,0,praise
+R00588,"Battery use was high for a day after the update, then settled. The bedroom speaker works flawlessly. Support was no help.",4,2026-02-07,3.3.0,0,praise
+R00589,"Best smart home app I've used, if only the bedroom speaker page didn't lag so badly. Honestly pretty annoyed.",1,2026-04-22,3.4.0,1,performance
+R00590,Biometric login crashes back to the password field on 3.4.1. Considering switching apps.,5,2026-06-01,3.3.2,1,login_auth
+R00591,The security camera works in the old app but this version 3.4.0 can't maintain a connection. Anyone else seeing this?,1,2026-09-16,3.4.0,1,connectivity
+R00592,Setup for the smart lock was painless and the interface is beautiful.,5,2026-01-17,3.3.2,0,praise
+R00593,The app keeps getting better. My kitchen plug has never been easier to manage. Reinstalling didn't help.,4,2026-04-23,3.2.0,0,praise
+R00594,Would love Apple Watch support to check the living room bulb quickly. Reinstalling didn't help.,5,2026-06-19,3.2.0,0,feature_request
+R00595,The thermostat works in the old app but this version 3.2.1 can't maintain a connection. Honestly pretty annoyed.,2,2026-06-23,3.3.0,1,connectivity
+R00596,"No login issues, no connectivity drops -- the garage sensor has been rock solid. Otherwise I like the app.",5,2026-08-29,3.3.2,0,praise
+R00597,The smoke detector schedules are flexible and the app never misses a beat. Honestly pretty annoyed.,4,2026-06-23,3.3.0,0,praise
+R00598,"I love this app overall, but it crashes every time I open the bedroom speaker controls. Reinstalling didn't help.",1,2026-03-30,3.4.0,1,crash
+R00599,Background crash loop drained my patience -- kitchen plug alerts kill the app.,3,2026-05-24,3.3.2,1,crash
+R00600,The living room bulb pairs fine in Bluetooth settings but the app says device not found.,1,2026-07-15,3.2.0,1,connectivity
+R00601,Can the garage sensor trigger routines based on sunrise/sunset times?,4,2026-04-12,3.3.0,0,question
+R00602,Please add a vacation mode that randomizes the kitchen plug schedule.,3,2026-03-13,3.2.1,0,feature_request
+R00603,Love this app! My thermostat setup took five minutes and everything just works. Anyone else seeing this?,4,2026-02-18,3.3.0,0,praise
+R00604,"Really happy with the living room bulb itself, but the app UI shows the wrong status half the time. Honestly pretty annoyed.",1,2026-06-18,3.2.1,1,ui_bug
+R00605,Battery saver mode does nothing -- the living room bulb stream keeps running in the background.,2,2026-05-25,3.2.0,1,battery_drain
+R00606,"Since 3.3.0, the app loses connection to the smoke detector and never reconnects on its own. Hope this gets fixed soon.",2,2026-03-18,3.4.1,1,connectivity
+R00607,Feature request: let me export smart plug history to CSV for my energy audit. Reinstalling didn't help.,2,2026-08-20,3.2.0,0,feature_request
+R00608,Dark mode is broken on the video doorbell page -- white text on a white background. Support was no help.,1,2026-04-06,3.4.1,1,ui_bug
+R00609,Switching rooms with the living room bulb takes ages -- the UI just hangs. Honestly pretty annoyed.,2,2026-02-14,3.3.2,1,performance
+R00610,"Huge fan of the product, but the UI on the living room bulb page is glitchy and unreadable. Really disappointing.",1,2026-08-31,3.3.2,1,ui_bug
+R00611,Every tap has a delay on 3.3.2. The kitchen plug controls feel like they're on dial-up.,1,2026-06-23,3.3.0,1,performance
+R00612,"Setup was a breeze and I love the widgets, but the garage sensor drops offline every night.",1,2026-05-29,3.3.0,1,connectivity
+R00613,Great app otherwise -- however my video doorbell keeps showing offline since 3.3.0. Reinstalling didn't help.,1,2026-02-10,3.3.0,1,connectivity
+R00614,The security camera works in the old app but this version 3.3.2 can't maintain a connection. Support was no help.,1,2026-02-07,3.3.0,1,connectivity
+R00615,"Sync fails repeatedly with the kitchen plug. Spinning loader, then 'connection timeout'. Considering switching apps.",2,2026-05-05,3.2.1,1,connectivity
+R00616,"Clean design, fast, and the smart plug widgets are super handy. Otherwise I like the app.",3,2026-02-23,3.3.2,0,praise
+R00617,smart plug screen just force-closes the app. Completely unusable since 3.3.2. Otherwise I like the app.,2,2026-09-15,3.4.1,1,crash
+R00618,The security camera schedules are flexible and the app never misses a beat.,5,2026-08-24,3.4.0,0,praise
+R00619,"Since 3.3.0, the app loses connection to the kitchen plug and never reconnects on its own. Anyone else seeing this?",2,2026-06-09,3.3.2,1,connectivity
+R00620,Does the smart plug work without Wi-Fi? Wondering about offline mode. Support was no help.,4,2026-03-11,3.3.0,0,question
+R00621,Can't log in since 3.2.0 -- 'invalid credentials' even though my password is right. Hope this gets fixed soon.,2,2026-01-20,3.2.1,1,login_auth
+R00622,The back button from the bedroom speaker settings dumps me to the login screen instead of home. Honestly pretty annoyed.,1,2026-04-03,3.3.2,1,ui_bug
+R00623,Search in the security camera history times out on anything older than a week. Really disappointing.,3,2026-03-10,3.2.1,1,performance
+R00624,"Crash report sent three times this week, all from the bedroom speaker screen.",2,2026-03-16,3.4.1,1,crash
+R00625,Where do I find the firmware version of my garage sensor in the app? Support was no help.,4,2026-08-23,3.3.2,0,question
+R00626,The smart lock status card shows yesterday's data until I force-refresh the app. Reinstalling didn't help.,2,2026-05-22,3.3.2,1,ui_bug
+R00627,Please add a dark mode schedule for the smart plug page. Would love auto-switching at sunset. Considering switching apps.,5,2026-07-12,3.2.0,0,feature_request
+R00628,App force closes during living room bulb setup on the very last step. Unacceptable. Reinstalling didn't help.,2,2026-02-14,3.4.0,1,crash
+R00629,The smoke detector schedules are flexible and the app never misses a beat. Hope this gets fixed soon.,3,2026-02-01,3.3.0,0,praise
+R00630,"Setup was a breeze and I love the widgets, but the garage sensor drops offline every night. Considering switching apps.",2,2026-06-23,3.3.2,1,connectivity
+R00631,Battery usage doubled after the update. The app keeps the smart plug connection awake nonstop. Hope this gets fixed soon.,1,2026-05-18,3.2.0,1,battery_drain
+R00632,Would love voice control shortcuts for the living room bulb beyond the basics. Anyone else seeing this?,2,2026-01-18,3.3.0,0,feature_request
+R00633,Great app otherwise -- however my living room bulb keeps showing offline since 3.3.0.,3,2026-05-28,3.3.0,1,connectivity
+R00634,Never had the app crash on me once. The garage sensor setup was smooth.,5,2026-05-18,3.4.1,0,praise
+R00635,"My video doorbell shows offline in the app constantly, but my Wi-Fi is fine. Anyone else seeing this?",1,2026-03-24,3.3.2,1,connectivity
+R00636,"Simple, fast, reliable. Exactly what I want for my smart lock. Considering switching apps.",5,2026-06-30,3.2.0,0,praise
+R00637,It would be great if the app supported widgets for the garage sensor on the lock screen. This started after the update.,2,2026-06-08,3.3.2,0,feature_request
+R00638,Please add a vacation mode that randomizes the bedroom speaker schedule. Hope this gets fixed soon.,3,2026-03-20,3.4.0,0,feature_request
+R00639,The smoke detector schedules are flexible and the app never misses a beat.,4,2026-02-23,3.4.0,0,praise
+R00640,Where do I find the firmware version of my living room bulb in the app? Hope this gets fixed soon.,4,2026-05-21,3.2.0,0,question
+R00641,Intermittent connectivity: smart plug responds maybe one time out of three. Reinstalling didn't help.,2,2026-06-26,3.4.1,1,connectivity
+R00642,The new 3.4.0 update made the video doorbell controls so much snappier. Great work.,1,2026-08-21,3.3.0,0,praise
+R00643,App keeps crashing every time I open the thermostat controls on version 3.4.0. Really disappointing.,2,2026-04-26,3.4.0,1,crash
+R00644,It would be great if the app supported widgets for the smart plug on the lock screen. Support was no help.,3,2026-04-09,3.2.0,0,feature_request
+R00645,The living room bulb schedules are flexible and the app never misses a beat. Considering switching apps.,5,2026-06-19,3.3.0,0,praise
+R00646,"I love this app overall, but it crashes every time I open the kitchen plug controls. Hope this gets fixed soon.",1,2026-05-20,3.2.1,1,crash
+R00647,"'Account not found' error on login, but the website works fine with the same email.",1,2026-08-13,3.2.1,1,login_auth
+R00648,"Huge fan of the product, but the UI on the video doorbell page is glitchy and unreadable.",2,2026-02-10,3.4.0,1,ui_bug
+R00649,Please add a dark mode schedule for the security camera page. Would love auto-switching at sunset. Really disappointing.,5,2026-01-05,3.2.0,0,feature_request
+R00650,Everything about the garage sensor integration feels polished. Highly recommend. Support was no help.,1,2026-07-30,3.4.1,0,praise
+R00651,Please add a vacation mode that randomizes the bedroom speaker schedule. This started after the update.,3,2026-03-08,3.4.0,0,feature_request
+R00652,Background battery drain is ridiculous. Turned off video doorbell notifications and it still drains. Reinstalling didn't help.,1,2026-06-28,3.2.0,1,battery_drain
+R00653,Would love Apple Watch support to check the security camera quickly.,4,2026-07-20,3.4.1,0,feature_request
+R00654,Password reset email never comes. Can't access my garage sensor at all now. Honestly pretty annoyed.,2,2026-03-17,3.2.0,1,login_auth
+R00655,App disconnects from the smoke detector whenever my phone switches between Wi-Fi and data. Hope this gets fixed soon.,1,2026-09-17,3.4.0,1,connectivity
+R00656,How do I share thermostat access with my partner? Can't find the option in 3.3.0. Considering switching apps.,1,2026-01-26,3.3.2,0,question
+R00657,Slider for the smoke detector jumps around and won't land on the value I pick. Considering switching apps.,4,2026-05-04,3.2.0,1,ui_bug
+R00658,"I love this app overall, but it crashes every time I open the smart plug controls. Honestly pretty annoyed.",2,2026-03-12,3.2.0,1,crash
+R00659,"Really happy with the video doorbell itself, but the app UI shows the wrong status half the time. Anyone else seeing this?",3,2026-04-02,3.4.0,1,ui_bug
+R00660,Crashes constantly since the 3.2.0 update. My smart lock is basically bricked in the app. Honestly pretty annoyed.,3,2026-08-11,3.3.0,1,crash
+R00661,Where do I find the firmware version of my smart plug in the app?,3,2026-06-18,3.2.1,0,question
+R00662,Please add multi-home support -- I have a living room bulb at two houses. Support was no help.,2,2026-04-01,3.4.1,0,feature_request
+R00663,Phone battery dropped 15% during a 20-minute video doorbell live view. Fix the power usage. Anyone else seeing this?,1,2026-07-16,3.2.1,1,battery_drain
+R00664,Crash after crash. The app dies the moment I tap my smart plug. Support was no help.,4,2026-09-05,3.4.1,1,crash
+R00665,"Best smart home app I've used, if only the bedroom speaker page didn't lag so badly.",2,2026-01-24,3.4.0,1,performance
+R00666,Face ID stopped working with the app on 3.4.0. Have to type the password each time. Honestly pretty annoyed.,1,2026-04-13,3.2.0,1,login_auth
+R00667,Does anyone know if the app supports the older smoke detector model from 2021? Honestly pretty annoyed.,5,2026-08-30,3.4.1,0,question
+R00668,The garage sensor schedules are flexible and the app never misses a beat.,5,2026-03-27,3.4.1,0,praise
+R00669,Haven't seen a single crash since 3.2.0. The garage sensor controls are fast and reliable.,4,2026-01-31,3.4.0,0,praise
+R00670,App can't find the smart lock half the time. Re-pairing works for a day then it drops again. This started after the update.,1,2026-06-20,3.3.2,1,connectivity
+R00671,"Since 3.2.1, the app drains battery even in the background. video doorbell polling is out of control. Considering switching apps.",1,2026-08-04,3.2.1,1,battery_drain
+R00672,App disconnects from the bedroom speaker whenever my phone switches between Wi-Fi and data. Honestly pretty annoyed.,1,2026-08-25,3.2.1,1,connectivity
+R00673,"Really like the design, but logging in has been broken for me since 3.2.1. Otherwise I like the app.",2,2026-03-11,3.2.0,1,login_auth
+R00674,"Clean design, fast, and the kitchen plug widgets are super handy. Hope this gets fixed soon.",4,2026-03-26,3.4.1,0,praise
+R00675,Is there a way to get push notifications only for the smoke detector and not the other devices? Honestly pretty annoyed.,2,2026-09-04,3.3.2,0,question
+R00676,The bedroom speaker history graph renders blank after midnight. Graphs worked in the old version. Honestly pretty annoyed.,1,2026-03-22,3.4.0,1,ui_bug
+R00677,App froze once during smoke detector setup; restarting my phone fixed it. Smooth ever since. Support was no help.,5,2026-07-25,3.3.2,0,praise
+R00678,It would be great if the app supported widgets for the smart lock on the lock screen. Reinstalling didn't help.,4,2026-01-11,3.4.1,0,feature_request
+R00679,Question: can I rename the smart lock after setup? Don't see an edit option.,3,2026-01-13,3.3.2,0,question
+R00680,Everything about the garage sensor integration feels polished. Highly recommend.,2,2026-07-31,3.2.1,0,praise
+R00681,The kitchen plug schedules are flexible and the app never misses a beat.,3,2026-06-05,3.3.2,0,praise
+R00682,Would love voice control shortcuts for the smart lock beyond the basics.,4,2026-06-25,3.4.1,0,feature_request
+R00683,Love this app! My kitchen plug setup took five minutes and everything just works. Anyone else seeing this?,3,2026-01-25,3.3.0,0,praise
+R00684,Icons for the smart lock are missing -- just empty boxes on 3.2.1. Otherwise I like the app.,2,2026-05-07,3.4.0,1,ui_bug
+R00685,"'Account not found' error on login, but the website works fine with the same email. Honestly pretty annoyed.",3,2026-06-18,3.3.0,1,login_auth
+R00686,Haven't seen a single crash since 3.4.0. The garage sensor controls are fast and reliable. Reinstalling didn't help.,4,2026-03-08,3.3.2,0,praise
+R00687,Please add a vacation mode that randomizes the garage sensor schedule. Otherwise I like the app.,5,2026-02-07,3.2.1,0,feature_request
+R00688,Five stars. The video doorbell routines run perfectly every morning.,5,2026-05-26,3.2.0,0,praise
+R00689,The bedroom speaker schedules are flexible and the app never misses a beat. Reinstalling didn't help.,2,2026-03-13,3.3.2,0,praise
+R00690,Toggle switches on the thermostat page don't reflect the real state. Confusing. Reinstalling didn't help.,1,2026-06-25,3.3.2,1,ui_bug
+R00691,Switching rooms with the smoke detector takes ages -- the UI just hangs. This started after the update.,2,2026-08-27,3.3.0,1,performance
+R00692,Background battery drain is ridiculous. Turned off kitchen plug notifications and it still drains.,1,2026-03-21,3.3.0,1,battery_drain
+R00693,Buttons on the living room bulb schedule screen overlap so I can't tap save.,2,2026-03-24,3.2.1,1,ui_bug
+R00694,"Great app when you're in, but I get logged out daily and can't reach my garage sensor. Otherwise I like the app.",2,2026-04-09,3.2.1,1,login_auth
+R00695,"Great app when you're in, but I get logged out daily and can't reach my security camera. This started after the update.",5,2026-03-29,3.4.0,1,login_auth
+R00696,App disconnects from the garage sensor whenever my phone switches between Wi-Fi and data.,3,2026-01-07,3.4.1,1,connectivity
+R00697,Toggle switches on the living room bulb page don't reflect the real state. Confusing. Really disappointing.,2,2026-03-21,3.4.0,1,ui_bug
+R00698,Does anyone know if the app supports the older garage sensor model from 2021?,4,2026-03-05,3.3.0,0,question
+R00699,The app used 25% of my battery in 3 hours just syncing the thermostat. Really disappointing.,1,2026-04-14,3.4.0,1,battery_drain
+R00700,Live view from the smoke detector lags 10 seconds behind real time. Useless for a doorbell. Really disappointing.,1,2026-02-18,3.4.0,1,performance
+R00701,Icons for the kitchen plug are missing -- just empty boxes on 3.3.2.,4,2026-08-11,3.3.0,1,ui_bug
+R00702,"Great app when you're in, but I get logged out daily and can't reach my garage sensor.",1,2026-04-25,3.4.1,1,login_auth
+R00703,It'd be nice to get a weekly summary email of my living room bulb activity. Considering switching apps.,5,2026-08-10,3.4.1,0,feature_request
+R00704,"No login issues, no connectivity drops -- the smoke detector has been rock solid.",4,2026-07-16,3.2.0,0,praise
+R00705,Battery usage doubled after the update. The app keeps the smart plug connection awake nonstop. Honestly pretty annoyed.,2,2026-04-10,3.3.2,1,battery_drain
+R00706,The app is painfully slow to arm/disarm the living room bulb. Takes three tries. Reinstalling didn't help.,3,2026-08-30,3.2.1,1,performance
+R00707,"Really happy with the garage sensor itself, but the app UI shows the wrong status half the time. Really disappointing.",1,2026-06-01,3.3.2,1,ui_bug
+R00708,The living room bulb temperature shows in Fahrenheit even though I set Celsius in settings.,1,2026-07-09,3.4.0,1,ui_bug
+R00709,The widget alone drains my battery keeping the video doorbell status updated. Reinstalling didn't help.,2,2026-01-13,3.3.0,1,battery_drain
+R00710,"Great app when you're in, but I get logged out daily and can't reach my security camera.",2,2026-02-01,3.3.0,1,login_auth
+R00711,Can't log in since 3.4.1 -- 'invalid credentials' even though my password is right.,1,2026-04-14,3.4.1,1,login_auth
+R00712,"Five stars for the features, but the battery drain from the kitchen plug sync is brutal. Hope this gets fixed soon.",2,2026-05-23,3.4.1,1,battery_drain
+R00713,Best smart home app I've tried. The smoke detector automations are rock solid. Otherwise I like the app.,1,2026-09-10,3.3.2,0,praise
+R00714,Crash after crash. The app dies the moment I tap my smart lock. Anyone else seeing this?,2,2026-03-04,3.3.2,1,crash
+R00715,"Five stars for the features, but the battery drain from the garage sensor sync is brutal. Hope this gets fixed soon.",4,2026-07-09,3.2.1,1,battery_drain
+R00716,Does anyone know if the app supports the older living room bulb model from 2021? Considering switching apps.,3,2026-03-06,3.2.1,0,question
+R00717,Toggle switches on the security camera page don't reflect the real state. Confusing. Support was no help.,1,2026-03-03,3.2.0,1,ui_bug
+R00718,"Since 3.4.0, the app loses connection to the smoke detector and never reconnects on its own.",1,2026-09-02,3.2.0,1,connectivity
+R00719,Zero crashes so far and no battery drain. The smart plug just works. Anyone else seeing this?,5,2026-04-17,3.2.1,0,praise
+R00720,Five stars. The kitchen plug routines run perfectly every morning.,5,2026-09-18,3.4.1,0,praise
+R00721,Rotated my phone while on the thermostat page and the app crashed instantly. Honestly pretty annoyed.,2,2026-04-13,3.3.0,1,crash
+R00722,App force closes during smart lock setup on the very last step. Unacceptable. Considering switching apps.,1,2026-09-05,3.3.0,1,crash
+R00723,Haven't seen a single crash since 3.2.1. The bedroom speaker controls are fast and reliable. Reinstalling didn't help.,5,2026-05-01,3.3.2,0,praise
+R00724,garage sensor screen just force-closes the app. Completely unusable since 3.3.0. Considering switching apps.,2,2026-06-01,3.4.0,1,crash
+R00725,"Clean design, fast, and the living room bulb widgets are super handy. This started after the update.",5,2026-04-30,3.4.0,0,praise
+R00726,App can't find the garage sensor half the time. Re-pairing works for a day then it drops again. Otherwise I like the app.,3,2026-04-06,3.2.0,1,connectivity
+R00727,The video doorbell schedules are flexible and the app never misses a beat. Support was no help.,5,2026-07-29,3.4.1,0,praise
+R00728,"Five stars for the features, but the battery drain from the smart lock sync is brutal. Honestly pretty annoyed.",1,2026-07-30,3.2.0,1,battery_drain
+R00729,Had to factory reset the smart plug three times this month because the app loses it. Really disappointing.,3,2026-07-28,3.3.0,1,connectivity
+R00730,App disconnects from the security camera whenever my phone switches between Wi-Fi and data.,2,2026-03-08,3.3.0,1,connectivity
+R00731,Can't log in since 3.2.0 -- 'invalid credentials' even though my password is right. This started after the update.,1,2026-01-18,3.2.1,1,login_auth
+R00732,Crashes constantly since the 3.4.1 update. My video doorbell is basically bricked in the app. Reinstalling didn't help.,2,2026-09-14,3.3.2,1,crash
+R00733,The smoke detector pairs fine in Bluetooth settings but the app says device not found.,2,2026-01-21,3.3.2,1,connectivity
+R00734,"Clean design, fast, and the thermostat widgets are super handy. Reinstalling didn't help.",5,2026-06-09,3.4.1,0,praise
+R00735,Woke up to a dead phone. The app was top of battery stats because of the video doorbell. Really disappointing.,2,2026-09-13,3.4.1,1,battery_drain
+R00736,Firmware update for the smoke detector failed halfway and now the app won't connect at all. Support was no help.,3,2026-05-19,3.3.2,1,connectivity
+R00737,Toggle switches on the thermostat page don't reflect the real state. Confusing.,1,2026-03-11,3.3.0,1,ui_bug
+R00738,"Crash report sent three times this week, all from the bedroom speaker screen. Support was no help.",2,2026-06-30,3.3.0,1,crash
+R00739,The app looks beautiful but everything lags; opening the living room bulb takes forever.,1,2026-02-07,3.3.0,1,performance
+R00740,"My bedroom speaker shows offline in the app constantly, but my Wi-Fi is fine. Reinstalling didn't help.",2,2026-08-08,3.3.0,1,connectivity
+R00741,App crashes when I try to view the bedroom speaker live feed. Was fine before 3.3.0. Anyone else seeing this?,1,2026-02-24,3.3.2,1,crash
+R00742,Massive battery drain on 3.2.1. Had to uninstall to get through the day. Anyone else seeing this?,3,2026-06-07,3.3.0,1,battery_drain
+R00743,The new 3.2.1 update made the smoke detector controls so much snappier. Great work. Hope this gets fixed soon.,5,2026-05-20,3.2.0,0,praise
+R00744,Every tap has a delay on 3.4.1. The video doorbell controls feel like they're on dial-up. Anyone else seeing this?,2,2026-02-22,3.4.0,1,performance
+R00745,"Huge fan of the product, but the UI on the kitchen plug page is glitchy and unreadable. Really disappointing.",1,2026-06-08,3.4.0,1,ui_bug
+R00746,"No lag, no freezes, no battery drain. Really happy with the smoke detector integration. Really disappointing.",4,2026-04-07,3.2.0,0,praise
+R00747,The garage sensor schedules are flexible and the app never misses a beat. Really disappointing.,5,2026-08-15,3.4.0,0,praise
+R00748,Setup for the living room bulb was painless and the interface is beautiful. Support was no help.,4,2026-06-17,3.2.0,0,praise
+R00749,How do I reset the security camera energy stats? They seem off this month. Really disappointing.,5,2026-05-05,3.3.2,0,question
+R00750,"I love this app overall, but it crashes every time I open the living room bulb controls. This started after the update.",1,2026-08-16,3.3.2,1,crash
+R00751,Haven't seen a single crash since 3.4.1. The living room bulb controls are fast and reliable. Reinstalling didn't help.,5,2026-04-05,3.4.1,0,praise
+R00752,Can the thermostat trigger routines based on sunrise/sunset times? Otherwise I like the app.,5,2026-06-06,3.2.0,0,question
+R00753,The new 3.2.1 update made the security camera controls so much snappier. Great work.,4,2026-09-18,3.2.0,0,praise
+R00754,Biometric login crashes back to the password field on 3.2.1. Anyone else seeing this?,1,2026-03-08,3.3.0,1,login_auth
+R00755,Had to factory reset the bedroom speaker three times this month because the app loses it.,2,2026-02-28,3.2.1,1,connectivity
+R00756,The smoke detector works in the old app but this version 3.3.0 can't maintain a connection. Considering switching apps.,1,2026-03-03,3.3.0,1,connectivity
+R00757,Background battery drain is ridiculous. Turned off security camera notifications and it still drains. This started after the update.,3,2026-07-12,3.3.0,1,battery_drain
+R00758,"Notification badges never clear for the thermostat, even after I read everything. Really disappointing.",3,2026-05-07,3.3.0,1,ui_bug
+R00759,Password reset email never comes. Can't access my video doorbell at all now. Honestly pretty annoyed.,4,2026-08-19,3.3.2,1,login_auth
+R00760,Face ID stopped working with the app on 3.3.0. Have to type the password each time. Honestly pretty annoyed.,1,2026-03-28,3.3.2,1,login_auth
+R00761,Where do I find the firmware version of my living room bulb in the app? This started after the update.,5,2026-09-03,3.4.1,0,question
+R00762,Dark mode is broken on the living room bulb page -- white text on a white background.,3,2026-07-04,3.3.2,1,ui_bug
+R00763,Slider for the thermostat jumps around and won't land on the value I pick. Really disappointing.,2,2026-04-09,3.4.1,1,ui_bug
+R00764,Opening the kitchen plug tab makes the app freeze then crash. Please fix this.,2,2026-03-02,3.2.1,1,crash
+R00765,Scrolling the bedroom speaker event history stutters and freezes the whole app. This started after the update.,3,2026-09-06,3.4.1,1,performance
+R00766,'Device offline' error all day for my smart lock even though it's two feet from the router. Support was no help.,3,2026-07-12,3.2.1,1,connectivity
+R00767,Every tap has a delay on 3.4.0. The thermostat controls feel like they're on dial-up. Really disappointing.,1,2026-05-02,3.2.0,1,performance
+R00768,"No lag, no freezes, no battery drain. Really happy with the smart plug integration.",5,2026-02-19,3.3.0,0,praise
+R00769,The app won't stay open for more than a few seconds if the garage sensor is online. This started after the update.,1,2026-03-06,3.2.1,1,crash
+R00770,Five stars. The bedroom speaker routines run perfectly every morning. Support was no help.,5,2026-04-20,3.4.0,0,praise
+R00771,The bedroom speaker history graph renders blank after midnight. Graphs worked in the old version.,1,2026-06-02,3.3.0,1,ui_bug
+R00772,Phone battery dropped 15% during a 20-minute garage sensor live view. Fix the power usage.,2,2026-09-02,3.2.1,1,battery_drain
+R00773,Where do I find the firmware version of my bedroom speaker in the app? Support was no help.,4,2026-05-16,3.2.0,0,question
+R00774,"Great app when you're in, but I get logged out daily and can't reach my garage sensor. Anyone else seeing this?",4,2026-01-28,3.2.0,1,login_auth
+R00775,Woke up to a dead phone. The app was top of battery stats because of the security camera.,2,2026-04-06,3.3.0,1,battery_drain
+R00776,Battery saver mode does nothing -- the kitchen plug stream keeps running in the background. Reinstalling didn't help.,1,2026-08-14,3.2.1,1,battery_drain
+R00777,Can't stay signed in on two phones -- the second login kicks out the first. Otherwise I like the app.,3,2026-08-13,3.3.0,1,login_auth
+R00778,Switched from a competitor and the security camera experience here is miles ahead. Considering switching apps.,4,2026-09-13,3.2.1,0,praise
+R00779,Slider for the security camera jumps around and won't land on the value I pick. Honestly pretty annoyed.,1,2026-04-08,3.2.0,1,ui_bug
+R00780,App can't find the garage sensor half the time. Re-pairing works for a day then it drops again. This started after the update.,5,2026-07-06,3.4.1,1,connectivity
+R00781,App force closes during video doorbell setup on the very last step. Unacceptable.,3,2026-04-19,3.3.0,1,crash
+R00782,The smart plug pairs fine in Bluetooth settings but the app says device not found. Anyone else seeing this?,2,2026-01-07,3.4.0,1,connectivity
+R00783,"No lag, no freezes, no battery drain. Really happy with the kitchen plug integration. Hope this gets fixed soon.",5,2026-03-08,3.3.2,0,praise
+R00784,App crashes when I try to view the video doorbell live feed. Was fine before 3.3.2. Considering switching apps.,1,2026-09-07,3.3.2,1,crash
+R00785,Love this app! My garage sensor setup took five minutes and everything just works. Considering switching apps.,5,2026-03-12,3.2.1,0,praise
+R00786,How do I reset the thermostat energy stats? They seem off this month.,3,2026-07-19,3.2.0,0,question
+R00787,App says my session expired in the middle of smart lock setup and lost my progress. Support was no help.,1,2026-07-30,3.3.0,1,login_auth
+R00788,Question: can I rename the garage sensor after setup? Don't see an edit option. Considering switching apps.,2,2026-06-12,3.4.1,0,question
+R00789,App crashes when I try to view the garage sensor live feed. Was fine before 3.3.2. Support was no help.,2,2026-09-05,3.3.0,1,crash
+R00790,Search in the bedroom speaker history times out on anything older than a week. Support was no help.,2,2026-02-21,3.2.0,1,performance
+R00791,"Notification badges never clear for the security camera, even after I read everything. Reinstalling didn't help.",2,2026-02-16,3.3.0,1,ui_bug
+R00792,"Huge fan of the product, but the UI on the security camera page is glitchy and unreadable. Hope this gets fixed soon.",1,2026-05-12,3.4.0,1,ui_bug
+R00793,"My smoke detector shows offline in the app constantly, but my Wi-Fi is fine. Support was no help.",2,2026-02-22,3.3.2,1,connectivity
+R00794,Would love Apple Watch support to check the smart plug quickly. Reinstalling didn't help.,4,2026-01-13,3.2.0,0,feature_request
+R00795,Love this app! My living room bulb setup took five minutes and everything just works. Anyone else seeing this?,3,2026-08-25,3.4.1,0,praise
+R00796,Battery usage doubled after the update. The app keeps the video doorbell connection awake nonstop. Anyone else seeing this?,1,2026-05-17,3.4.1,1,battery_drain
+R00797,garage sensor screen just force-closes the app. Completely unusable since 3.3.2. Considering switching apps.,1,2026-07-31,3.4.1,1,crash
+R00798,Request: IFTTT-style custom triggers for the smart plug. The presets are too limited. Considering switching apps.,3,2026-07-26,3.3.0,0,feature_request
+R00799,"Really like the design, but logging in has been broken for me since 3.4.1. Honestly pretty annoyed.",1,2026-01-18,3.2.1,1,login_auth
+R00800,"Really like the design, but logging in has been broken for me since 3.2.1.",1,2026-06-08,3.3.2,1,login_auth
+R00801,"Crash report sent three times this week, all from the garage sensor screen. This started after the update.",1,2026-01-15,3.3.2,1,crash
+R00802,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Really disappointing.",1,2026-08-14,3.3.2,1,connectivity
+R00803,Would love voice control shortcuts for the living room bulb beyond the basics. This started after the update.,5,2026-07-28,3.3.2,0,feature_request
+R00804,Can't stay signed in on two phones -- the second login kicks out the first.,1,2026-08-09,3.4.0,1,login_auth
+R00805,The app is great when it works -- sadly the video doorbell screen crashes on launch. Anyone else seeing this?,3,2026-07-01,3.3.2,1,crash
+R00806,Haven't seen a single crash since 3.2.1. The smoke detector controls are fast and reliable. Anyone else seeing this?,4,2026-06-27,3.4.0,0,praise
+R00807,Request: IFTTT-style custom triggers for the living room bulb. The presets are too limited. Considering switching apps.,3,2026-07-23,3.3.2,0,feature_request
+R00808,Please add multi-home support -- I have a security camera at two houses. Honestly pretty annoyed.,5,2026-05-29,3.4.1,0,feature_request
+R00809,Feature request: let me export security camera history to CSV for my energy audit. This started after the update.,3,2026-02-25,3.3.2,0,feature_request
+R00810,Love this app! My living room bulb setup took five minutes and everything just works. Really disappointing.,4,2026-03-27,3.2.1,0,praise
+R00811,How do I share kitchen plug access with my partner? Can't find the option in 3.3.2.,5,2026-05-01,3.2.0,0,question
+R00812,Password reset email never comes. Can't access my smoke detector at all now.,3,2026-02-27,3.4.1,1,login_auth
+R00813,Everything is sluggish since 3.4.0. Opening the smart plug feed lags badly.,5,2026-01-26,3.4.0,1,performance
+R00814,Search in the living room bulb history times out on anything older than a week. This started after the update.,1,2026-09-17,3.4.1,1,performance
+R00815,The new 3.3.2 update made the garage sensor controls so much snappier. Great work.,5,2026-05-10,3.3.2,0,praise
+R00816,App crashes when I try to view the bedroom speaker live feed. Was fine before 3.3.0. Really disappointing.,2,2026-05-10,3.2.1,1,crash
+R00817,"No lag, no freezes, no battery drain. Really happy with the bedroom speaker integration. Reinstalling didn't help.",4,2026-07-09,3.2.0,0,praise
+R00818,Icons for the video doorbell are missing -- just empty boxes on 3.3.0. Otherwise I like the app.,4,2026-07-29,3.2.1,1,ui_bug
+R00819,"Crash report sent three times this week, all from the smart plug screen. Really disappointing.",2,2026-06-05,3.3.2,1,crash
+R00820,The kitchen plug pairs fine in Bluetooth settings but the app says device not found.,2,2026-05-28,3.4.0,1,connectivity
+R00821,The app is great when it works -- sadly the smart lock screen crashes on launch. Anyone else seeing this?,1,2026-08-19,3.4.1,1,crash
+R00822,The video doorbell history graph renders blank after midnight. Graphs worked in the old version. Reinstalling didn't help.,3,2026-06-25,3.3.2,1,ui_bug
+R00823,Feature request: let me export smoke detector history to CSV for my energy audit. Honestly pretty annoyed.,4,2026-02-21,3.4.0,0,feature_request
+R00824,Scrolling the smoke detector event history stutters and freezes the whole app. Hope this gets fixed soon.,1,2026-05-08,3.3.0,1,performance
+R00825,Does the kitchen plug work without Wi-Fi? Wondering about offline mode. Really disappointing.,4,2026-07-05,3.2.0,0,question
+R00826,The latest update crashes on launch whenever my thermostat is connected. Otherwise I like the app.,2,2026-05-05,3.4.1,1,crash
+R00827,Please add a vacation mode that randomizes the smart lock schedule. Hope this gets fixed soon.,5,2026-05-30,3.4.1,0,feature_request
+R00828,Feature request: let me export smoke detector history to CSV for my energy audit. Honestly pretty annoyed.,5,2026-02-27,3.3.0,0,feature_request
+R00829,Switching rooms with the bedroom speaker takes ages -- the UI just hangs.,1,2026-02-21,3.2.0,1,performance
+R00830,"Really like the design, but logging in has been broken for me since 3.4.1. Reinstalling didn't help.",1,2026-07-30,3.4.0,1,login_auth
+R00831,Every tap has a delay on 3.3.2. The bedroom speaker controls feel like they're on dial-up. Considering switching apps.,2,2026-09-12,3.4.1,1,performance
+R00832,Question: can I rename the garage sensor after setup? Don't see an edit option. This started after the update.,4,2026-03-12,3.4.1,0,question
+R00833,Slider for the security camera jumps around and won't land on the value I pick. Otherwise I like the app.,2,2026-03-06,3.4.0,1,ui_bug
+R00834,Switched from a competitor and the kitchen plug experience here is miles ahead. Otherwise I like the app.,4,2026-06-09,3.3.0,0,praise
+R00835,Crashes constantly since the 3.3.0 update. My living room bulb is basically bricked in the app. Honestly pretty annoyed.,1,2026-04-08,3.4.1,1,crash
+R00836,"Love the automations, but the thermostat live view buffers constantly. This started after the update.",1,2026-06-12,3.4.0,1,performance
+R00837,Had to factory reset the security camera three times this month because the app loses it. Reinstalling didn't help.,3,2026-08-28,3.3.2,1,connectivity
+R00838,Never had the app crash on me once. The bedroom speaker setup was smooth. Honestly pretty annoyed.,5,2026-07-26,3.3.0,0,praise
+R00839,Face ID stopped working with the app on 3.4.1. Have to type the password each time.,2,2026-06-12,3.4.0,1,login_auth
+R00840,It would be great if the app supported widgets for the smart plug on the lock screen. Anyone else seeing this?,3,2026-02-01,3.4.0,0,feature_request
+R00841,"My smoke detector shows offline in the app constantly, but my Wi-Fi is fine.",1,2026-05-25,3.2.1,1,connectivity
+R00842,Can't stay signed in on two phones -- the second login kicks out the first. Otherwise I like the app.,1,2026-07-29,3.4.0,1,login_auth
+R00843,Every time I adjust the thermostat settings the app force quits. So frustrating. Otherwise I like the app.,1,2026-07-19,3.3.0,1,crash
+R00844,The living room bulb pairs fine in Bluetooth settings but the app says device not found.,1,2026-06-11,3.3.2,1,connectivity
+R00845,No offline errors at all -- the bedroom speaker stays connected all day. Otherwise I like the app.,3,2026-03-18,3.3.2,0,praise
+R00846,Love this app! My smart plug setup took five minutes and everything just works. Honestly pretty annoyed.,4,2026-09-14,3.4.0,0,praise
+R00847,"No lag, no freezes, no battery drain. Really happy with the video doorbell integration.",5,2026-08-01,3.4.1,0,praise
+R00848,Phone battery dropped 15% during a 20-minute smart lock live view. Fix the power usage. Really disappointing.,2,2026-03-10,3.3.0,1,battery_drain
+R00849,Video from the security camera buffers constantly even on fast Wi-Fi. Reinstalling didn't help.,1,2026-04-01,3.2.1,1,performance
+R00850,Can't stay signed in on two phones -- the second login kicks out the first. Hope this gets fixed soon.,1,2026-03-31,3.2.0,1,login_auth
+R00851,Background battery drain is ridiculous. Turned off bedroom speaker notifications and it still drains. Really disappointing.,3,2026-04-23,3.4.0,1,battery_drain
+R00852,The new 3.4.1 update made the bedroom speaker controls so much snappier. Great work.,4,2026-03-17,3.4.1,0,praise
+R00853,The kitchen plug works in the old app but this version 3.4.1 can't maintain a connection. Otherwise I like the app.,2,2026-05-18,3.4.1,1,connectivity
+R00854,Password reset email never comes. Can't access my smart plug at all now.,1,2026-03-14,3.4.1,1,login_auth
+R00855,Please add a dark mode schedule for the security camera page. Would love auto-switching at sunset. Reinstalling didn't help.,5,2026-09-12,3.3.2,0,feature_request
+R00856,Dark mode is broken on the garage sensor page -- white text on a white background.,2,2026-07-04,3.3.2,1,ui_bug
+R00857,"Simple, fast, reliable. Exactly what I want for my video doorbell. Otherwise I like the app.",5,2026-04-13,3.3.2,0,praise
+R00858,Search in the smart plug history times out on anything older than a week. Hope this gets fixed soon.,1,2026-04-28,3.2.1,1,performance
+R00859,How do I share smart plug access with my partner? Can't find the option in 3.2.1.,3,2026-04-15,3.4.1,0,question
+R00860,App disconnects from the smart lock whenever my phone switches between Wi-Fi and data. Considering switching apps.,1,2026-04-04,3.2.0,1,connectivity
+R00861,"Crash report sent three times this week, all from the smart lock screen. Considering switching apps.",2,2026-05-25,3.2.1,1,crash
+R00862,Everything about the smoke detector integration feels polished. Highly recommend.,4,2026-08-11,3.4.1,0,praise
+R00863,Please add multi-home support -- I have a bedroom speaker at two houses.,4,2026-08-31,3.3.2,0,feature_request
+R00864,"Login screen loops forever: enter password, spinner, back to login. This started after the update.",1,2026-06-15,3.2.0,1,login_auth
+R00865,Can't log in since 3.4.1 -- 'invalid credentials' even though my password is right. Support was no help.,5,2026-02-12,3.2.1,1,login_auth
+R00866,Tapping notifications for the garage sensor crashes the app every single time.,1,2026-06-25,3.3.0,1,crash
+R00867,Can't log in since 3.2.1 -- 'invalid credentials' even though my password is right.,3,2026-08-17,3.2.0,1,login_auth
+R00868,It would be great if the app supported widgets for the thermostat on the lock screen. Otherwise I like the app.,5,2026-02-07,3.2.1,0,feature_request
+R00869,Crashes constantly since the 3.2.0 update. My video doorbell is basically bricked in the app. Really disappointing.,2,2026-02-02,3.4.0,1,crash
+R00870,The smart lock works in the old app but this version 3.4.0 can't maintain a connection. Really disappointing.,3,2026-01-10,3.3.2,1,connectivity
+R00871,Every tap has a delay on 3.3.2. The thermostat controls feel like they're on dial-up. Reinstalling didn't help.,1,2026-06-22,3.4.0,1,performance
+R00872,Great app otherwise -- however my smart lock keeps showing offline since 3.4.0.,2,2026-05-16,3.3.0,1,connectivity
+R00873,"Since 3.2.0, the app loses connection to the thermostat and never reconnects on its own.",1,2026-06-13,3.4.0,1,connectivity
+R00874,The app is painfully slow to arm/disarm the smoke detector. Takes three tries.,2,2026-09-02,3.3.0,1,performance
+R00875,Biometric login crashes back to the password field on 3.2.0. Honestly pretty annoyed.,2,2026-02-01,3.3.2,1,login_auth
+R00876,The kitchen plug history graph renders blank after midnight. Graphs worked in the old version. Really disappointing.,3,2026-09-05,3.4.1,1,ui_bug
+R00877,Everything about the smart plug integration feels polished. Highly recommend. Support was no help.,5,2026-06-22,3.2.1,0,praise
+R00878,Can't stay signed in on two phones -- the second login kicks out the first. Honestly pretty annoyed.,1,2026-05-02,3.3.2,1,login_auth
+R00879,Really impressed with how reliable the bedroom speaker connection is. Support was no help.,5,2026-04-09,3.2.0,0,praise
+R00880,"I love this app overall, but it crashes every time I open the security camera controls. This started after the update.",2,2026-04-14,3.4.1,1,crash
+R00881,App keeps crashing every time I open the living room bulb controls on version 3.2.1. Honestly pretty annoyed.,1,2026-05-19,3.4.1,1,crash
+R00882,My phone gets hot and the battery tanks whenever the living room bulb is armed.,1,2026-03-16,3.3.2,1,battery_drain
+R00883,Does anyone know if the app supports the older living room bulb model from 2021? Honestly pretty annoyed.,5,2026-07-13,3.3.0,0,question
+R00884,Where do I find the firmware version of my video doorbell in the app?,5,2026-03-12,3.2.1,0,question
+R00885,The smart lock works in the old app but this version 3.2.0 can't maintain a connection. Anyone else seeing this?,1,2026-04-11,3.4.0,1,connectivity
+R00886,"Really like the design, but logging in has been broken for me since 3.2.1. Reinstalling didn't help.",1,2026-09-12,3.2.1,1,login_auth
+R00887,Would love voice control shortcuts for the smoke detector beyond the basics. Really disappointing.,2,2026-07-15,3.3.2,0,feature_request
+R00888,Icons for the garage sensor are missing -- just empty boxes on 3.3.2. Hope this gets fixed soon.,2,2026-07-29,3.4.1,1,ui_bug
+R00889,Please add a dark mode schedule for the smart lock page. Would love auto-switching at sunset. Honestly pretty annoyed.,3,2026-07-26,3.2.1,0,feature_request
+R00890,'Device offline' error all day for my video doorbell even though it's two feet from the router.,1,2026-06-05,3.3.2,1,connectivity
+R00891,The app won't stay open for more than a few seconds if the bedroom speaker is online. This started after the update.,2,2026-08-14,3.3.2,1,crash
+R00892,This app eats my phone battery alive -- lost 40% overnight with the smart lock idle. Really disappointing.,1,2026-02-12,3.3.0,1,battery_drain
+R00893,The new 3.2.0 update made the smart lock controls so much snappier. Great work.,5,2026-02-10,3.3.0,0,praise
+R00894,App crashes when I try to view the living room bulb live feed. Was fine before 3.2.1. Considering switching apps.,1,2026-03-16,3.4.1,1,crash
+R00895,How do I share living room bulb access with my partner? Can't find the option in 3.3.0. Support was no help.,5,2026-07-31,3.4.0,0,question
+R00896,Best smart home app I've tried. The smart lock automations are rock solid. Considering switching apps.,5,2026-04-22,3.3.2,0,praise
+R00897,App disconnects from the garage sensor whenever my phone switches between Wi-Fi and data.,2,2026-06-14,3.2.1,1,connectivity
+R00898,App disconnects from the smoke detector whenever my phone switches between Wi-Fi and data. Otherwise I like the app.,1,2026-03-17,3.4.0,1,connectivity
+R00899,The kitchen plug schedules are flexible and the app never misses a beat. Support was no help.,5,2026-08-10,3.4.1,0,praise
+R00900,Please add a vacation mode that randomizes the smart plug schedule. Anyone else seeing this?,3,2026-01-21,3.2.1,0,feature_request
+R00901,The widget alone drains my battery keeping the smart plug status updated. Support was no help.,3,2026-07-19,3.2.1,1,battery_drain
+R00902,Really impressed with how reliable the garage sensor connection is. Hope this gets fixed soon.,5,2026-02-21,3.2.1,0,praise
+R00903,App force closes during thermostat setup on the very last step. Unacceptable. Honestly pretty annoyed.,2,2026-02-09,3.3.2,1,crash
+R00904,Dark mode is broken on the kitchen plug page -- white text on a white background.,2,2026-04-02,3.3.0,1,ui_bug
+R00905,Never had the app crash on me once. The video doorbell setup was smooth. Honestly pretty annoyed.,4,2026-03-12,3.2.1,0,praise
+R00906,Buttons on the living room bulb schedule screen overlap so I can't tap save. Honestly pretty annoyed.,2,2026-09-19,3.4.1,1,ui_bug
+R00907,"The login screen glitched once, but support helped in minutes. Great app overall. Honestly pretty annoyed.",4,2026-06-22,3.4.0,0,praise
+R00908,Five stars. The garage sensor routines run perfectly every morning. Considering switching apps.,5,2026-06-06,3.3.2,0,praise
+R00909,Opening the smart plug tab makes the app freeze then crash. Please fix this. Support was no help.,1,2026-08-27,3.3.2,1,crash
+R00910,Love this app! My security camera setup took five minutes and everything just works. Really disappointing.,4,2026-06-03,3.4.1,0,praise
+R00911,Can you add guest access for the bedroom speaker? I want my family to control it without my login.,5,2026-07-12,3.2.0,0,feature_request
+R00912,Best smart home app I've tried. The smoke detector automations are rock solid. This started after the update.,4,2026-01-18,3.2.0,0,praise
+R00913,Request: IFTTT-style custom triggers for the bedroom speaker. The presets are too limited. Support was no help.,4,2026-01-24,3.2.0,0,feature_request
+R00914,Tapping notifications for the garage sensor crashes the app every single time.,2,2026-02-16,3.4.0,1,crash
+R00915,Request: IFTTT-style custom triggers for the living room bulb. The presets are too limited.,3,2026-01-14,3.4.0,0,feature_request
+R00916,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Hope this gets fixed soon.",1,2026-03-24,3.3.2,1,connectivity
+R00917,Tapping notifications for the garage sensor crashes the app every single time.,2,2026-02-26,3.3.2,1,crash
+R00918,"No lag, no freezes, no battery drain. Really happy with the smart lock integration. Honestly pretty annoyed.",5,2026-04-17,3.2.0,0,praise
+R00919,The app crashes on my smart lock screen. Support was great though and sent a workaround. Really disappointing.,1,2026-02-06,3.2.1,1,crash
+R00920,"Simple, fast, reliable. Exactly what I want for my bedroom speaker.",4,2026-06-21,3.3.0,0,praise
+R00921,The app won't stay open for more than a few seconds if the bedroom speaker is online. Honestly pretty annoyed.,1,2026-04-24,3.2.0,1,crash
+R00922,'Device offline' error all day for my smart lock even though it's two feet from the router. Honestly pretty annoyed.,1,2026-02-07,3.4.1,1,connectivity
+R00923,Please add multi-home support -- I have a smart lock at two houses. Hope this gets fixed soon.,2,2026-09-17,3.2.0,0,feature_request
+R00924,Would love voice control shortcuts for the video doorbell beyond the basics. Otherwise I like the app.,3,2026-07-22,3.4.1,0,feature_request
+R00925,Feature request: let me export kitchen plug history to CSV for my energy audit. This started after the update.,4,2026-02-08,3.3.0,0,feature_request
+R00926,Firmware update for the smart lock failed halfway and now the app won't connect at all. Anyone else seeing this?,2,2026-01-11,3.2.1,1,connectivity
+R00927,Opening the smart lock tab makes the app freeze then crash. Please fix this.,2,2026-02-04,3.2.1,1,crash
+R00928,Opening the smart lock tab makes the app freeze then crash. Please fix this. Anyone else seeing this?,2,2026-08-20,3.4.1,1,crash
+R00929,Love this app! My bedroom speaker setup took five minutes and everything just works. Hope this gets fixed soon.,5,2026-01-17,3.2.1,0,praise
+R00930,The smart lock schedules are flexible and the app never misses a beat. Support was no help.,5,2026-06-18,3.2.1,0,praise
+R00931,"Setup was a breeze and I love the widgets, but the smart lock drops offline every night. Really disappointing.",1,2026-03-18,3.2.1,1,connectivity
+R00932,"Since 3.3.2, the app loses connection to the video doorbell and never reconnects on its own. Considering switching apps.",1,2026-09-01,3.3.0,1,connectivity
+R00933,The living room bulb works in the old app but this version 3.4.0 can't maintain a connection. This started after the update.,1,2026-04-18,3.3.0,1,connectivity
+R00934,The app keeps getting better. My garage sensor has never been easier to manage. Reinstalling didn't help.,4,2026-08-14,3.2.1,0,praise
+R00935,Please add a dark mode schedule for the bedroom speaker page. Would love auto-switching at sunset. Hope this gets fixed soon.,5,2026-03-24,3.4.0,0,feature_request
+R00936,The app keeps getting better. My garage sensor has never been easier to manage. Otherwise I like the app.,5,2026-03-15,3.4.1,0,praise
+R00937,"Really like the design, but logging in has been broken for me since 3.4.1. Considering switching apps.",1,2026-07-15,3.3.2,1,login_auth
+R00938,Had to factory reset the garage sensor three times this month because the app loses it. Really disappointing.,1,2026-02-10,3.3.2,1,connectivity
+R00939,Does the smart plug work without Wi-Fi? Wondering about offline mode. Honestly pretty annoyed.,3,2026-08-16,3.3.0,0,question
+R00940,Please add multi-home support -- I have a garage sensor at two houses. Considering switching apps.,4,2026-07-12,3.4.1,0,feature_request
+R00941,"Since 3.3.0, the app loses connection to the thermostat and never reconnects on its own. Really disappointing.",1,2026-01-19,3.4.1,1,connectivity
+R00942,Best smart home app I've tried. The smart plug automations are rock solid. Really disappointing.,4,2026-03-28,3.2.0,0,praise
+R00943,The app is great when it works -- sadly the smart plug screen crashes on launch. Reinstalling didn't help.,1,2026-04-11,3.3.2,1,crash
+R00944,Icons for the bedroom speaker are missing -- just empty boxes on 3.4.0. Hope this gets fixed soon.,4,2026-08-03,3.4.1,1,ui_bug
+R00945,Best smart home app I've tried. The smart lock automations are rock solid. Support was no help.,4,2026-06-11,3.2.0,0,praise
+R00946,How do I share bedroom speaker access with my partner? Can't find the option in 3.4.0. Support was no help.,2,2026-06-01,3.4.1,0,question
+R00947,Crash after crash. The app dies the moment I tap my security camera.,1,2026-08-23,3.4.0,1,crash
+R00948,"The login screen glitched once, but support helped in minutes. Great app overall. Support was no help.",5,2026-08-18,3.4.1,0,praise
+R00949,Zero crashes so far and no battery drain. The living room bulb just works. Otherwise I like the app.,4,2026-01-20,3.4.0,0,praise
+R00950,App takes forever to load the thermostat dashboard -- 20+ seconds of spinner. Anyone else seeing this?,1,2026-01-26,3.2.0,1,performance
+R00951,Firmware update for the living room bulb failed halfway and now the app won't connect at all. This started after the update.,5,2026-06-26,3.4.0,1,connectivity
+R00952,Password reset email never comes. Can't access my kitchen plug at all now. Support was no help.,3,2026-07-17,3.4.0,1,login_auth
+R00953,"Since 3.4.1, the app drains battery even in the background. bedroom speaker polling is out of control.",1,2026-01-18,3.4.0,1,battery_drain
+R00954,"Login screen loops forever: enter password, spinner, back to login. Really disappointing.",1,2026-09-05,3.4.0,1,login_auth
+R00955,Password reset email never comes. Can't access my kitchen plug at all now. Considering switching apps.,1,2026-06-20,3.4.1,1,login_auth
+R00956,The kitchen plug works in the old app but this version 3.3.2 can't maintain a connection. This started after the update.,3,2026-02-25,3.4.1,1,connectivity
+R00957,Icons for the smoke detector are missing -- just empty boxes on 3.2.0.,3,2026-09-16,3.2.0,1,ui_bug
+R00958,App disconnects from the garage sensor whenever my phone switches between Wi-Fi and data. This started after the update.,1,2026-05-08,3.2.1,1,connectivity
+R00959,Dark mode is broken on the thermostat page -- white text on a white background. Otherwise I like the app.,1,2026-07-20,3.3.0,1,ui_bug
+R00960,Intermittent connectivity: security camera responds maybe one time out of three. Really disappointing.,1,2026-09-13,3.2.0,1,connectivity
+R00961,Everything about the kitchen plug integration feels polished. Highly recommend. Considering switching apps.,3,2026-07-19,3.4.1,0,praise
+R00962,It'd be nice to get a weekly summary email of my smart lock activity.,5,2026-06-02,3.2.0,0,feature_request
+R00963,"Since 3.4.0, the app loses connection to the video doorbell and never reconnects on its own. Otherwise I like the app.",2,2026-03-11,3.3.0,1,connectivity
+R00964,Please add a dark mode schedule for the smart plug page. Would love auto-switching at sunset. Honestly pretty annoyed.,3,2026-07-22,3.3.2,0,feature_request
+R00965,Buttons on the smart plug schedule screen overlap so I can't tap save. Honestly pretty annoyed.,2,2026-02-28,3.3.2,1,ui_bug
+R00966,Background battery drain is ridiculous. Turned off garage sensor notifications and it still drains. This started after the update.,3,2026-03-21,3.4.0,1,battery_drain
+R00967,App takes forever to load the living room bulb dashboard -- 20+ seconds of spinner. Considering switching apps.,2,2026-03-09,3.3.0,1,performance
+R00968,Request: IFTTT-style custom triggers for the smart lock. The presets are too limited. Hope this gets fixed soon.,4,2026-07-16,3.2.0,0,feature_request
+R00969,No offline errors at all -- the smart lock stays connected all day. Considering switching apps.,5,2026-01-31,3.2.1,0,praise
+R00970,Would love Apple Watch support to check the security camera quickly. Reinstalling didn't help.,5,2026-07-24,3.3.0,0,feature_request
+R00971,Woke up to a dead phone. The app was top of battery stats because of the smoke detector. Hope this gets fixed soon.,1,2026-05-29,3.4.1,1,battery_drain
+R00972,Please add a vacation mode that randomizes the security camera schedule. Anyone else seeing this?,4,2026-02-01,3.4.1,0,feature_request
+R00973,App disconnects from the living room bulb whenever my phone switches between Wi-Fi and data. Honestly pretty annoyed.,2,2026-04-26,3.4.1,1,connectivity
+R00974,The security camera works in the old app but this version 3.3.2 can't maintain a connection. Support was no help.,1,2026-04-01,3.2.0,1,connectivity
+R00975,App keeps crashing every time I open the smoke detector controls on version 3.4.1. Otherwise I like the app.,1,2026-08-15,3.2.1,1,crash
+R00976,"The login screen glitched once, but support helped in minutes. Great app overall. Anyone else seeing this?",4,2026-04-03,3.4.1,0,praise
+R00977,It would be great if the app supported widgets for the bedroom speaker on the lock screen. Really disappointing.,5,2026-08-20,3.3.0,0,feature_request
+R00978,Great app otherwise -- however my smoke detector keeps showing offline since 3.2.1.,2,2026-09-07,3.3.0,1,connectivity
+R00979,The living room bulb schedules are flexible and the app never misses a beat.,5,2026-02-24,3.3.0,0,praise
+R00980,Scrolling the thermostat event history stutters and freezes the whole app. Reinstalling didn't help.,1,2026-09-12,3.2.0,1,performance
+R00981,"Notification badges never clear for the smart lock, even after I read everything.",1,2026-04-07,3.4.0,1,ui_bug
+R00982,Love this app! My smart lock setup took five minutes and everything just works.,3,2026-02-18,3.4.0,0,praise
+R00983,kitchen plug screen just force-closes the app. Completely unusable since 3.4.0.,2,2026-08-09,3.4.1,1,crash
+R00984,Biometric login crashes back to the password field on 3.4.1. Reinstalling didn't help.,4,2026-08-20,3.2.1,1,login_auth
+R00985,'Device offline' error all day for my smoke detector even though it's two feet from the router. Considering switching apps.,2,2026-02-24,3.4.1,1,connectivity
+R00986,Setup for the smart plug was painless and the interface is beautiful. Honestly pretty annoyed.,5,2026-07-07,3.3.0,0,praise
+R00987,The latest update crashes on launch whenever my security camera is connected. This started after the update.,1,2026-02-16,3.3.0,1,crash
+R00988,Question: can I rename the video doorbell after setup? Don't see an edit option. Considering switching apps.,4,2026-05-22,3.4.1,0,question
+R00989,Switched from a competitor and the bedroom speaker experience here is miles ahead. Otherwise I like the app.,5,2026-08-15,3.3.2,0,praise
+R00990,smoke detector screen just force-closes the app. Completely unusable since 3.3.2.,2,2026-06-22,3.4.1,1,crash
+R00991,Scrolling the smart lock event history stutters and freezes the whole app.,3,2026-02-24,3.3.2,1,performance
+R00992,The new 3.4.0 update made the living room bulb controls so much snappier. Great work. This started after the update.,4,2026-02-22,3.4.0,0,praise
+R00993,Background battery drain is ridiculous. Turned off thermostat notifications and it still drains. Otherwise I like the app.,2,2026-07-23,3.2.1,1,battery_drain
+R00994,Biometric login crashes back to the password field on 3.3.2. Anyone else seeing this?,2,2026-03-11,3.3.0,1,login_auth
+R00995,Crash after crash. The app dies the moment I tap my smart plug. Hope this gets fixed soon.,1,2026-02-01,3.4.1,1,crash
+R00996,The app keeps getting better. My security camera has never been easier to manage. Otherwise I like the app.,5,2026-09-01,3.4.0,0,praise
+R00997,Had to factory reset the smart lock three times this month because the app loses it. Really disappointing.,3,2026-02-18,3.3.0,1,connectivity
+R00998,smart lock screen just force-closes the app. Completely unusable since 3.2.0.,1,2026-02-03,3.2.0,1,crash
+R00999,Request: IFTTT-style custom triggers for the thermostat. The presets are too limited. Really disappointing.,5,2026-03-15,3.3.2,0,feature_request
+R01000,Icons for the bedroom speaker are missing -- just empty boxes on 3.2.0. Anyone else seeing this?,2,2026-04-12,3.4.1,1,ui_bug
+R01001,'Device offline' error all day for my smoke detector even though it's two feet from the router. Anyone else seeing this?,1,2026-01-26,3.4.0,1,connectivity
+R01002,Biometric login crashes back to the password field on 3.2.0. Otherwise I like the app.,4,2026-03-14,3.4.0,1,login_auth
+R01003,"Setup was a breeze and I love the widgets, but the kitchen plug drops offline every night. Otherwise I like the app.",1,2026-05-12,3.4.0,1,connectivity
+R01004,How do I reset the living room bulb energy stats? They seem off this month. Honestly pretty annoyed.,3,2026-01-06,3.4.1,0,question
+R01005,The thermostat schedules are flexible and the app never misses a beat. Anyone else seeing this?,5,2026-09-11,3.2.0,0,praise
+R01006,The app used 25% of my battery in 3 hours just syncing the kitchen plug.,1,2026-07-29,3.3.0,1,battery_drain
+R01007,The app won't stay open for more than a few seconds if the security camera is online.,2,2026-09-11,3.2.0,1,crash
+R01008,Woke up to a dead phone. The app was top of battery stats because of the kitchen plug.,1,2026-05-22,3.2.0,1,battery_drain
+R01009,Request: IFTTT-style custom triggers for the kitchen plug. The presets are too limited. Support was no help.,3,2026-01-07,3.3.0,0,feature_request
+R01010,It would be great if the app supported widgets for the thermostat on the lock screen. Support was no help.,3,2026-08-08,3.4.1,0,feature_request
+R01011,The app looks beautiful but everything lags; opening the living room bulb takes forever. Support was no help.,4,2026-09-12,3.4.0,1,performance
+R01012,Background crash loop drained my patience -- bedroom speaker alerts kill the app. Considering switching apps.,3,2026-07-23,3.2.1,1,crash
+R01013,"I love this app overall, but it crashes every time I open the kitchen plug controls.",1,2026-05-06,3.2.0,1,crash
+R01014,The app keeps getting better. My living room bulb has never been easier to manage.,5,2026-08-12,3.2.1,0,praise
+R01015,The latest update crashes on launch whenever my living room bulb is connected. Honestly pretty annoyed.,3,2026-08-12,3.2.1,1,crash
+R01016,App force closes during security camera setup on the very last step. Unacceptable. Anyone else seeing this?,2,2026-03-22,3.2.1,1,crash
+R01017,My phone gets hot and the battery tanks whenever the bedroom speaker is armed. Anyone else seeing this?,4,2026-04-17,3.2.0,1,battery_drain
+R01018,Setup for the bedroom speaker was painless and the interface is beautiful.,4,2026-08-11,3.4.1,0,praise
+R01019,"Love the automations, but the kitchen plug live view buffers constantly. Support was no help.",1,2026-05-11,3.3.0,1,performance
+R01020,"Battery use was high for a day after the update, then settled. The garage sensor works flawlessly. Anyone else seeing this?",4,2026-02-25,3.3.2,0,praise
+R01021,The thermostat pairs fine in Bluetooth settings but the app says device not found. Reinstalling didn't help.,1,2026-03-12,3.3.0,1,connectivity
+R01022,Every tap has a delay on 3.2.1. The kitchen plug controls feel like they're on dial-up. Really disappointing.,2,2026-05-26,3.2.1,1,performance
+R01023,Great app otherwise -- however my smart plug keeps showing offline since 3.2.0.,1,2026-04-12,3.2.1,1,connectivity
+R01024,Does the smart plug work without Wi-Fi? Wondering about offline mode. Hope this gets fixed soon.,5,2026-09-04,3.2.1,0,question
+R01025,"Five stars for the features, but the battery drain from the smoke detector sync is brutal. Hope this gets fixed soon.",1,2026-07-01,3.3.0,1,battery_drain
+R01026,The app logs me out every day and I have to sign back in to see my smoke detector.,2,2026-03-31,3.4.0,1,login_auth
+R01027,Phone battery dropped 15% during a 20-minute smart lock live view. Fix the power usage. Support was no help.,1,2026-09-15,3.4.1,1,battery_drain
+R01028,Instant crash when switching between the bedroom speaker and the dashboard. Support was no help.,3,2026-07-29,3.4.0,1,crash
+R01029,Opening the thermostat tab makes the app freeze then crash. Please fix this. This started after the update.,2,2026-09-19,3.4.1,1,crash
+R01030,Five stars. The security camera routines run perfectly every morning.,5,2026-05-06,3.3.0,0,praise
+R01031,"Best smart home app I've used, if only the living room bulb page didn't lag so badly. Really disappointing.",4,2026-05-12,3.2.1,1,performance
+R01032,"Great app when you're in, but I get logged out daily and can't reach my kitchen plug.",2,2026-05-20,3.4.1,1,login_auth
+R01033,This app eats my phone battery alive -- lost 40% overnight with the thermostat idle. Honestly pretty annoyed.,2,2026-05-28,3.2.1,1,battery_drain
+R01034,"Love the new dashboard design, but my bedroom speaker won't stay connected since 3.4.1. Hope this gets fixed soon.",2,2026-04-20,3.3.2,1,connectivity
+R01035,"Sync fails repeatedly with the smart lock. Spinning loader, then 'connection timeout'. Considering switching apps.",1,2026-08-15,3.3.0,1,connectivity
+R01036,App disconnects from the security camera whenever my phone switches between Wi-Fi and data. Anyone else seeing this?,1,2026-09-13,3.4.1,1,connectivity
+R01037,Battery usage doubled after the update. The app keeps the smart plug connection awake nonstop.,3,2026-03-19,3.2.0,1,battery_drain
+R01038,The back button from the smoke detector settings dumps me to the login screen instead of home. Considering switching apps.,1,2026-01-11,3.4.0,1,ui_bug
+R01039,App keeps crashing every time I open the thermostat controls on version 3.2.1. Honestly pretty annoyed.,3,2026-02-16,3.3.0,1,crash
+R01040,App keeps crashing every time I open the video doorbell controls on version 3.4.0. Considering switching apps.,4,2026-06-27,3.4.1,1,crash
+R01041,"Huge fan of the product, but the UI on the living room bulb page is glitchy and unreadable. This started after the update.",3,2026-03-25,3.2.1,1,ui_bug
+R01042,Dark mode is broken on the thermostat page -- white text on a white background. Reinstalling didn't help.,1,2026-06-05,3.2.0,1,ui_bug
+R01043,"Crash report sent three times this week, all from the smart lock screen. Support was no help.",1,2026-03-21,3.3.0,1,crash
+R01044,"Simple, fast, reliable. Exactly what I want for my video doorbell.",5,2026-03-02,3.2.1,0,praise
+R01045,Phone battery dropped 15% during a 20-minute kitchen plug live view. Fix the power usage.,1,2026-03-23,3.2.1,1,battery_drain
+R01046,Every time I adjust the living room bulb settings the app force quits. So frustrating. Hope this gets fixed soon.,1,2026-07-02,3.2.0,1,crash
+R01047,The video doorbell pairs fine in Bluetooth settings but the app says device not found.,3,2026-03-21,3.3.0,1,connectivity
+R01048,Switching rooms with the video doorbell takes ages -- the UI just hangs. Support was no help.,3,2026-05-27,3.2.1,1,performance
+R01049,Every time I adjust the garage sensor settings the app force quits. So frustrating. This started after the update.,1,2026-08-04,3.4.0,1,crash
+R01050,Setup for the smoke detector was painless and the interface is beautiful. Reinstalling didn't help.,4,2026-09-14,3.4.0,0,praise
+R01051,App force closes during smart plug setup on the very last step. Unacceptable. Considering switching apps.,1,2026-04-27,3.4.1,1,crash
+R01052,Rotated my phone while on the smoke detector page and the app crashed instantly.,1,2026-03-02,3.2.0,1,crash
+R01053,Best smart home app I've tried. The security camera automations are rock solid. Support was no help.,4,2026-05-09,3.2.1,0,praise
+R01054,"Simple, fast, reliable. Exactly what I want for my thermostat. Support was no help.",3,2026-07-14,3.2.0,0,praise
+R01055,It would be great if the app supported widgets for the smart plug on the lock screen.,4,2026-03-21,3.3.0,0,feature_request
+R01056,Rotated my phone while on the security camera page and the app crashed instantly. This started after the update.,3,2026-03-17,3.4.1,1,crash
+R01057,Had to factory reset the thermostat three times this month because the app loses it.,1,2026-03-25,3.2.0,1,connectivity
+R01058,Love this app! My bedroom speaker setup took five minutes and everything just works. This started after the update.,4,2026-05-17,3.4.0,0,praise
+R01059,Connection keeps dropping -- the video doorbell goes 'unreachable' every few hours. Support was no help.,1,2026-03-10,3.4.1,1,connectivity
+R01060,Crash after crash. The app dies the moment I tap my smoke detector.,3,2026-09-01,3.3.2,1,crash
+R01061,Scrolling the kitchen plug event history stutters and freezes the whole app. Support was no help.,1,2026-04-14,3.3.0,1,performance
+R01062,"Love the automations, but the living room bulb live view buffers constantly. Reinstalling didn't help.",1,2026-02-28,3.2.0,1,performance
+R01063,"Really happy with the smart lock itself, but the app UI shows the wrong status half the time.",1,2026-05-08,3.3.0,1,ui_bug
+R01064,Background crash loop drained my patience -- thermostat alerts kill the app.,2,2026-06-12,3.2.0,1,crash
+R01065,It'd be nice to get a weekly summary email of my kitchen plug activity. Considering switching apps.,4,2026-07-06,3.2.1,0,feature_request
+R01066,The new 3.2.0 update made the security camera controls so much snappier. Great work. Anyone else seeing this?,5,2026-07-19,3.3.2,0,praise
+R01067,Battery usage doubled after the update. The app keeps the video doorbell connection awake nonstop.,2,2026-05-03,3.2.1,1,battery_drain
+R01068,Feature request: let me export smoke detector history to CSV for my energy audit. Considering switching apps.,5,2026-06-28,3.3.2,0,feature_request
+R01069,The app keeps getting better. My bedroom speaker has never been easier to manage. Honestly pretty annoyed.,2,2026-02-12,3.2.1,0,praise
+R01070,App keeps crashing every time I open the living room bulb controls on version 3.4.0.,1,2026-09-17,3.2.0,1,crash
+R01071,"Since 3.3.0, the app drains battery even in the background. kitchen plug polling is out of control.",1,2026-02-10,3.2.1,1,battery_drain
+R01072,"Clean design, fast, and the security camera widgets are super handy. Anyone else seeing this?",5,2026-09-11,3.2.0,0,praise
+R01073,The security camera works in the old app but this version 3.3.2 can't maintain a connection. Otherwise I like the app.,4,2026-06-14,3.3.0,1,connectivity
+R01074,Intermittent connectivity: thermostat responds maybe one time out of three. Honestly pretty annoyed.,1,2026-01-09,3.2.1,1,connectivity
+R01075,The new 3.4.1 update made the garage sensor controls so much snappier. Great work.,4,2026-07-02,3.3.2,0,praise
+R01076,Everything is sluggish since 3.3.2. Opening the video doorbell feed lags badly. Support was no help.,1,2026-04-17,3.3.2,1,performance
+R01077,Can't stay signed in on two phones -- the second login kicks out the first. Hope this gets fixed soon.,1,2026-08-25,3.2.0,1,login_auth
+R01078,Opening the thermostat tab makes the app freeze then crash. Please fix this. Support was no help.,1,2026-02-05,3.3.0,1,crash
+R01079,Is there a way to get push notifications only for the thermostat and not the other devices? Support was no help.,2,2026-05-23,3.3.0,0,question
+R01080,Five stars. The garage sensor routines run perfectly every morning. Reinstalling didn't help.,5,2026-04-24,3.4.1,0,praise
+R01081,App froze once during living room bulb setup; restarting my phone fixed it. Smooth ever since. Honestly pretty annoyed.,4,2026-07-02,3.3.2,0,praise
+R01082,App startup is so slow now that the smart plug alerts arrive before the app opens.,1,2026-04-16,3.2.0,1,performance
+R01083,Feature request: let me export kitchen plug history to CSV for my energy audit.,3,2026-08-27,3.2.1,0,feature_request
+R01084,App startup is so slow now that the thermostat alerts arrive before the app opens.,1,2026-08-23,3.4.1,1,performance
+R01085,The app keeps getting better. My security camera has never been easier to manage. Support was no help.,5,2026-04-25,3.3.0,0,praise
+R01086,The kitchen plug temperature shows in Fahrenheit even though I set Celsius in settings. Hope this gets fixed soon.,1,2026-06-11,3.4.0,1,ui_bug
+R01087,The app keeps getting better. My kitchen plug has never been easier to manage. Support was no help.,4,2026-06-25,3.2.0,0,praise
+R01088,Best smart home app I've tried. The bedroom speaker automations are rock solid. Really disappointing.,5,2026-08-16,3.4.1,0,praise
+R01089,The app logs me out every day and I have to sign back in to see my video doorbell. Really disappointing.,5,2026-01-13,3.4.0,1,login_auth
+R01090,Switched from a competitor and the garage sensor experience here is miles ahead. Anyone else seeing this?,3,2026-01-21,3.4.1,0,praise
+R01091,Battery saver mode does nothing -- the video doorbell stream keeps running in the background. This started after the update.,2,2026-03-09,3.3.0,1,battery_drain
+R01092,Where do I find the firmware version of my bedroom speaker in the app? Otherwise I like the app.,5,2026-04-29,3.4.0,0,question
+R01093,Woke up to a dead phone. The app was top of battery stats because of the thermostat.,2,2026-01-12,3.2.0,1,battery_drain
+R01094,Every tap has a delay on 3.4.0. The security camera controls feel like they're on dial-up. Support was no help.,1,2026-05-08,3.4.0,1,performance
+R01095,Everything about the bedroom speaker integration feels polished. Highly recommend.,4,2026-07-30,3.3.0,0,praise
+R01096,Background crash loop drained my patience -- video doorbell alerts kill the app. Anyone else seeing this?,1,2026-07-24,3.4.1,1,crash
+R01097,Question: can I rename the smart lock after setup? Don't see an edit option.,5,2026-01-18,3.3.2,0,question
+R01098,Crashes constantly since the 3.4.0 update. My video doorbell is basically bricked in the app. Support was no help.,2,2026-01-17,3.4.1,1,crash
+R01099,Does anyone know if the app supports the older smart lock model from 2021? Honestly pretty annoyed.,3,2026-05-10,3.4.1,0,question
+R01100,Would love Apple Watch support to check the living room bulb quickly.,4,2026-01-16,3.4.1,0,feature_request
+R01101,Does the smart plug work without Wi-Fi? Wondering about offline mode.,4,2026-03-18,3.3.0,0,question
+R01102,Rotated my phone while on the smart lock page and the app crashed instantly.,1,2026-09-13,3.2.0,1,crash
+R01103,The bedroom speaker history graph renders blank after midnight. Graphs worked in the old version. Really disappointing.,2,2026-08-23,3.2.1,1,ui_bug
+R01104,"Five stars for features, one star for the battery drain -- the smart plug sync never sleeps.",2,2026-06-29,3.3.0,1,battery_drain
+R01105,Connection keeps dropping -- the living room bulb goes 'unreachable' every few hours. Honestly pretty annoyed.,2,2026-01-20,3.4.0,1,connectivity
+R01106,Rotated my phone while on the smart lock page and the app crashed instantly. Otherwise I like the app.,1,2026-03-16,3.2.1,1,crash
+R01107,The latest update crashes on launch whenever my video doorbell is connected. Considering switching apps.,2,2026-06-04,3.3.2,1,crash
+R01108,Setup for the smart lock was painless and the interface is beautiful. Considering switching apps.,4,2026-05-28,3.3.2,0,praise
+R01109,Connection keeps dropping -- the garage sensor goes 'unreachable' every few hours. This started after the update.,3,2026-08-09,3.4.0,1,connectivity
+R01110,Does the bedroom speaker work without Wi-Fi? Wondering about offline mode. Anyone else seeing this?,4,2026-07-04,3.3.0,0,question
+R01111,Can the thermostat trigger routines based on sunrise/sunset times? Hope this gets fixed soon.,3,2026-08-02,3.3.0,0,question
+R01112,Biometric login crashes back to the password field on 3.2.0.,1,2026-06-19,3.3.2,1,login_auth
+R01113,Really impressed with how reliable the kitchen plug connection is.,3,2026-06-17,3.4.1,0,praise
+R01114,'Device offline' error all day for my smoke detector even though it's two feet from the router. Support was no help.,3,2026-05-30,3.4.0,1,connectivity
+R01115,Had to factory reset the video doorbell three times this month because the app loses it. Really disappointing.,2,2026-08-08,3.4.1,1,connectivity
+R01116,"No lag, no freezes, no battery drain. Really happy with the living room bulb integration.",5,2026-03-09,3.3.2,0,praise
+R01117,The thermostat works in the old app but this version 3.4.1 can't maintain a connection. Anyone else seeing this?,1,2026-01-07,3.3.2,1,connectivity
+R01118,Firmware update for the thermostat failed halfway and now the app won't connect at all. Really disappointing.,4,2026-01-13,3.2.0,1,connectivity
+R01119,The kitchen plug pairs fine in Bluetooth settings but the app says device not found.,1,2026-06-14,3.3.2,1,connectivity
+R01120,Slider for the video doorbell jumps around and won't land on the value I pick. Anyone else seeing this?,2,2026-02-26,3.2.0,1,ui_bug
+R01121,App crashes when I try to view the bedroom speaker live feed. Was fine before 3.2.1.,3,2026-02-19,3.2.1,1,crash
+R01122,How do I share thermostat access with my partner? Can't find the option in 3.3.0.,5,2026-03-02,3.2.0,0,question
+R01123,The app keeps getting better. My security camera has never been easier to manage. Anyone else seeing this?,4,2026-08-28,3.2.0,0,praise
+R01124,App startup is so slow now that the video doorbell alerts arrive before the app opens. Reinstalling didn't help.,2,2026-05-08,3.4.0,1,performance
+R01125,Constant location polling for the video doorbell geofence is killing my battery. Hope this gets fixed soon.,2,2026-02-16,3.3.0,1,battery_drain
+R01126,The video doorbell history graph renders blank after midnight. Graphs worked in the old version.,2,2026-04-23,3.2.0,1,ui_bug
+R01127,Really impressed with how reliable the smart plug connection is. Reinstalling didn't help.,4,2026-06-14,3.3.0,0,praise
+R01128,Please add a vacation mode that randomizes the security camera schedule. Otherwise I like the app.,3,2026-07-21,3.3.2,0,feature_request
+R01129,Haven't seen a single crash since 3.4.0. The living room bulb controls are fast and reliable. Really disappointing.,4,2026-02-26,3.2.1,0,praise
+R01130,Great app otherwise -- however my garage sensor keeps showing offline since 3.2.1. Hope this gets fixed soon.,1,2026-01-19,3.3.2,1,connectivity
+R01131,The new 3.2.1 update made the smart lock controls so much snappier. Great work. Support was no help.,4,2026-09-19,3.3.2,0,praise
+R01132,"Really happy with the thermostat itself, but the app UI shows the wrong status half the time. Support was no help.",1,2026-08-09,3.2.1,1,ui_bug
+R01133,Firmware update for the smoke detector failed halfway and now the app won't connect at all.,2,2026-01-30,3.4.1,1,connectivity
+R01134,Great app otherwise -- however my thermostat keeps showing offline since 3.4.0. Hope this gets fixed soon.,1,2026-05-07,3.2.0,1,connectivity
+R01135,App says my session expired in the middle of video doorbell setup and lost my progress. Considering switching apps.,1,2026-05-22,3.3.2,1,login_auth
+R01136,Background battery drain is ridiculous. Turned off living room bulb notifications and it still drains.,2,2026-02-22,3.2.1,1,battery_drain
+R01137,The smart lock pairs fine in Bluetooth settings but the app says device not found. Otherwise I like the app.,3,2026-02-09,3.2.1,1,connectivity
+R01138,App keeps crashing every time I open the bedroom speaker controls on version 3.3.0.,2,2026-04-05,3.3.0,1,crash
+R01139,Haven't seen a single crash since 3.2.0. The smart plug controls are fast and reliable. This started after the update.,5,2026-05-11,3.3.2,0,praise
+R01140,The smoke detector pairs fine in Bluetooth settings but the app says device not found.,3,2026-03-21,3.2.0,1,connectivity
+R01141,Battery saver mode does nothing -- the smoke detector stream keeps running in the background. Really disappointing.,2,2026-09-11,3.3.0,1,battery_drain
+R01142,"Great app when you're in, but I get logged out daily and can't reach my kitchen plug. Really disappointing.",1,2026-09-09,3.2.0,1,login_auth
+R01143,Buttons on the smart lock schedule screen overlap so I can't tap save.,5,2026-07-06,3.3.2,1,ui_bug
+R01144,The back button from the video doorbell settings dumps me to the login screen instead of home. Support was no help.,1,2026-03-01,3.3.0,1,ui_bug
+R01145,Request: IFTTT-style custom triggers for the smoke detector. The presets are too limited. Hope this gets fixed soon.,5,2026-07-02,3.3.0,0,feature_request
+R01146,Face ID stopped working with the app on 3.4.0. Have to type the password each time. Considering switching apps.,1,2026-06-29,3.4.0,1,login_auth
+R01147,'Device offline' error all day for my thermostat even though it's two feet from the router. Really disappointing.,1,2026-03-21,3.3.2,1,connectivity
+R01148,Best smart home app I've tried. The living room bulb automations are rock solid. Hope this gets fixed soon.,4,2026-01-12,3.3.2,0,praise
+R01149,"My thermostat shows offline in the app constantly, but my Wi-Fi is fine. Otherwise I like the app.",2,2026-01-05,3.2.0,1,connectivity
+R01150,Massive battery drain on 3.2.1. Had to uninstall to get through the day.,2,2026-05-23,3.2.1,1,battery_drain
+R01151,"No login issues, no connectivity drops -- the kitchen plug has been rock solid. Really disappointing.",2,2026-07-21,3.3.2,0,praise
+R01152,Face ID stopped working with the app on 3.4.0. Have to type the password each time. Support was no help.,2,2026-06-19,3.4.0,1,login_auth
+R01153,Woke up to a dead phone. The app was top of battery stats because of the living room bulb.,2,2026-06-06,3.4.0,1,battery_drain
+R01154,The app keeps getting better. My smoke detector has never been easier to manage. Considering switching apps.,3,2026-06-14,3.4.0,0,praise
+R01155,Request: IFTTT-style custom triggers for the garage sensor. The presets are too limited. Support was no help.,4,2026-08-29,3.2.0,0,feature_request
+R01156,"No login issues, no connectivity drops -- the living room bulb has been rock solid. Anyone else seeing this?",5,2026-07-15,3.2.1,0,praise
+R01157,How do I reset the bedroom speaker energy stats? They seem off this month. Support was no help.,2,2026-01-08,3.3.2,0,question
+R01158,Can the video doorbell trigger routines based on sunrise/sunset times? Hope this gets fixed soon.,5,2026-02-28,3.3.0,0,question
+R01159,Had to factory reset the thermostat three times this month because the app loses it. Considering switching apps.,1,2026-02-01,3.4.1,1,connectivity
+R01160,"Huge fan of the product, but the UI on the security camera page is glitchy and unreadable. Really disappointing.",1,2026-06-13,3.4.1,1,ui_bug
+R01161,The new 3.4.0 update made the security camera controls so much snappier. Great work.,3,2026-02-23,3.2.1,0,praise
+R01162,Switching rooms with the video doorbell takes ages -- the UI just hangs. Support was no help.,1,2026-09-09,3.2.1,1,performance
+R01163,How do I reset the garage sensor energy stats? They seem off this month. Anyone else seeing this?,5,2026-03-09,3.3.2,0,question
+R01164,"Five stars for features, one star for the battery drain -- the smart lock sync never sleeps. Reinstalling didn't help.",3,2026-04-17,3.3.2,1,battery_drain
+R01165,Crashes constantly since the 3.3.2 update. My living room bulb is basically bricked in the app. Support was no help.,2,2026-02-28,3.3.2,1,crash
+R01166,Instant crash when switching between the bedroom speaker and the dashboard. Anyone else seeing this?,1,2026-06-09,3.2.0,1,crash
+R01167,Can the kitchen plug trigger routines based on sunrise/sunset times? This started after the update.,1,2026-08-27,3.3.0,0,question
+R01168,"Really like the design, but logging in has been broken for me since 3.3.2. Reinstalling didn't help.",1,2026-02-06,3.2.1,1,login_auth
+R01169,"Simple, fast, reliable. Exactly what I want for my security camera. Really disappointing.",5,2026-06-09,3.3.2,0,praise
+R01170,App disconnects from the security camera whenever my phone switches between Wi-Fi and data. Considering switching apps.,2,2026-05-17,3.2.1,1,connectivity
+R01171,Would love voice control shortcuts for the smart plug beyond the basics.,4,2026-01-28,3.2.0,0,feature_request
+R01172,No offline errors at all -- the smart lock stays connected all day. Honestly pretty annoyed.,5,2026-02-27,3.2.1,0,praise
+R01173,Love this app! My video doorbell setup took five minutes and everything just works. Considering switching apps.,5,2026-02-11,3.3.2,0,praise
+R01174,Please add a dark mode schedule for the kitchen plug page. Would love auto-switching at sunset. Considering switching apps.,5,2026-08-23,3.3.2,0,feature_request
+R01175,"Since 3.4.1, the app loses connection to the garage sensor and never reconnects on its own. Hope this gets fixed soon.",1,2026-04-30,3.2.1,1,connectivity
+R01176,The new 3.2.1 update made the video doorbell controls so much snappier. Great work.,5,2026-03-17,3.2.0,0,praise
+R01177,App can't find the smoke detector half the time. Re-pairing works for a day then it drops again. Honestly pretty annoyed.,1,2026-04-21,3.4.0,1,connectivity
+R01178,Best smart home app I've tried. The garage sensor automations are rock solid. Really disappointing.,5,2026-07-16,3.2.0,0,praise
+R01179,"Best smart home app I've used, if only the garage sensor page didn't lag so badly.",1,2026-06-23,3.2.0,1,performance
+R01180,Face ID stopped working with the app on 3.2.0. Have to type the password each time.,1,2026-06-01,3.2.0,1,login_auth
+R01181,The bedroom speaker works in the old app but this version 3.4.0 can't maintain a connection.,2,2026-03-02,3.4.0,1,connectivity
+R01182,This app eats my phone battery alive -- lost 40% overnight with the bedroom speaker idle. Honestly pretty annoyed.,1,2026-06-25,3.2.0,1,battery_drain
+R01183,"Notification badges never clear for the thermostat, even after I read everything. This started after the update.",4,2026-02-11,3.4.0,1,ui_bug
+R01184,Please add a dark mode schedule for the video doorbell page. Would love auto-switching at sunset. Anyone else seeing this?,4,2026-02-15,3.4.0,0,feature_request
+R01185,"I love this app overall, but it crashes every time I open the garage sensor controls. Honestly pretty annoyed.",1,2026-07-03,3.3.2,1,crash
+R01186,Live view from the thermostat lags 10 seconds behind real time. Useless for a doorbell. Honestly pretty annoyed.,1,2026-07-18,3.4.1,1,performance
+R01187,The app keeps getting better. My bedroom speaker has never been easier to manage. Support was no help.,5,2026-03-16,3.2.0,0,praise
+R01188,Password reset email never comes. Can't access my kitchen plug at all now.,1,2026-05-06,3.2.1,1,login_auth
+R01189,It crashed twice this week on the smoke detector page. Still better than the competitor's app.,2,2026-01-12,3.4.1,1,crash
+R01190,The app crashes on my security camera screen. Support was great though and sent a workaround.,1,2026-06-14,3.3.0,1,crash
+R01191,"Two-factor code never arrives, so I'm locked out of controlling my garage sensor.",2,2026-02-13,3.2.0,1,login_auth
+R01192,Had to factory reset the smart lock three times this month because the app loses it. Considering switching apps.,3,2026-06-08,3.3.0,1,connectivity
+R01193,Five stars. The smoke detector routines run perfectly every morning.,4,2026-02-01,3.3.0,0,praise
+R01194,Would love voice control shortcuts for the video doorbell beyond the basics.,4,2026-05-03,3.3.0,0,feature_request
+R01195,Best smart home app I've tried. The smart lock automations are rock solid. This started after the update.,2,2026-08-25,3.2.0,0,praise
+R01196,Phone battery dropped 15% during a 20-minute video doorbell live view. Fix the power usage. Hope this gets fixed soon.,1,2026-07-20,3.3.2,1,battery_drain
+R01197,"Since 3.4.1, the app loses connection to the security camera and never reconnects on its own. Support was no help.",1,2026-01-31,3.4.1,1,connectivity
+R01198,This app eats my phone battery alive -- lost 40% overnight with the kitchen plug idle. Anyone else seeing this?,4,2026-04-25,3.2.0,1,battery_drain
+R01199,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Reinstalling didn't help.",3,2026-07-22,3.4.1,1,connectivity
+R01200,The app keeps getting better. My smart plug has never been easier to manage. Hope this gets fixed soon.,5,2026-03-29,3.3.2,0,praise
+R01201,This app eats my phone battery alive -- lost 40% overnight with the living room bulb idle. Honestly pretty annoyed.,1,2026-06-05,3.3.0,1,battery_drain
+R01202,"Really happy with the living room bulb itself, but the app UI shows the wrong status half the time. Anyone else seeing this?",1,2026-01-11,3.2.0,1,ui_bug
+R01203,Scrolling the thermostat event history stutters and freezes the whole app.,1,2026-08-31,3.2.0,1,performance
+R01204,Zero crashes so far and no battery drain. The video doorbell just works. Anyone else seeing this?,5,2026-06-14,3.2.0,0,praise
+R01205,The app is painfully slow to arm/disarm the security camera. Takes three tries. Really disappointing.,3,2026-04-04,3.2.1,1,performance
+R01206,Can you add guest access for the thermostat? I want my family to control it without my login. Really disappointing.,3,2026-08-18,3.4.0,0,feature_request
+R01207,Constant location polling for the living room bulb geofence is killing my battery. Really disappointing.,5,2026-07-04,3.4.0,1,battery_drain
+R01208,Please add multi-home support -- I have a smoke detector at two houses.,3,2026-02-13,3.2.1,0,feature_request
+R01209,App startup is so slow now that the bedroom speaker alerts arrive before the app opens.,1,2026-01-17,3.3.0,1,performance
+R01210,Password reset email never comes. Can't access my living room bulb at all now.,2,2026-03-28,3.3.0,1,login_auth
+R01211,Can't log in since 3.3.0 -- 'invalid credentials' even though my password is right. Reinstalling didn't help.,1,2026-06-30,3.2.1,1,login_auth
+R01212,Buttons on the video doorbell schedule screen overlap so I can't tap save. Honestly pretty annoyed.,1,2026-09-19,3.4.0,1,ui_bug
+R01213,Please add a vacation mode that randomizes the smoke detector schedule. Anyone else seeing this?,5,2026-09-03,3.4.1,0,feature_request
+R01214,Phone battery dropped 15% during a 20-minute smart lock live view. Fix the power usage. Honestly pretty annoyed.,1,2026-07-09,3.2.1,1,battery_drain
+R01215,Opening the bedroom speaker tab makes the app freeze then crash. Please fix this.,1,2026-07-04,3.4.0,1,crash
+R01216,The bedroom speaker status card shows yesterday's data until I force-refresh the app. Anyone else seeing this?,1,2026-03-10,3.4.0,1,ui_bug
+R01217,"Notification badges never clear for the living room bulb, even after I read everything. Otherwise I like the app.",1,2026-06-14,3.2.0,1,ui_bug
+R01218,"'Account not found' error on login, but the website works fine with the same email. This started after the update.",2,2026-01-12,3.2.1,1,login_auth
+R01219,App disconnects from the security camera whenever my phone switches between Wi-Fi and data. Support was no help.,2,2026-01-17,3.4.1,1,connectivity
+R01220,The app is great when it works -- sadly the kitchen plug screen crashes on launch. Support was no help.,4,2026-05-08,3.4.1,1,crash
+R01221,Search in the smart plug history times out on anything older than a week. Considering switching apps.,2,2026-01-28,3.2.0,1,performance
+R01222,"Clean design, fast, and the bedroom speaker widgets are super handy. This started after the update.",5,2026-03-14,3.4.1,0,praise
+R01223,Biometric login crashes back to the password field on 3.4.0. Anyone else seeing this?,1,2026-07-13,3.4.1,1,login_auth
+R01224,Everything about the video doorbell integration feels polished. Highly recommend. Hope this gets fixed soon.,4,2026-09-14,3.3.0,0,praise
+R01225,Firmware update for the bedroom speaker failed halfway and now the app won't connect at all. Otherwise I like the app.,3,2026-07-20,3.3.0,1,connectivity
+R01226,How do I share smart lock access with my partner? Can't find the option in 3.3.2. Reinstalling didn't help.,5,2026-05-27,3.4.0,0,question
+R01227,Haven't seen a single crash since 3.2.1. The garage sensor controls are fast and reliable.,4,2026-06-01,3.3.0,0,praise
+R01228,Can you add guest access for the security camera? I want my family to control it without my login. Honestly pretty annoyed.,4,2026-04-01,3.2.0,0,feature_request
+R01229,The app looks beautiful but everything lags; opening the thermostat takes forever. Honestly pretty annoyed.,1,2026-05-29,3.4.0,1,performance
+R01230,Instant crash when switching between the video doorbell and the dashboard. Considering switching apps.,1,2026-03-07,3.3.2,1,crash
+R01231,Haven't seen a single crash since 3.3.0. The video doorbell controls are fast and reliable.,5,2026-04-28,3.4.1,0,praise
+R01232,"Love the automations, but the smoke detector live view buffers constantly.",1,2026-06-15,3.2.0,1,performance
+R01233,Search in the smoke detector history times out on anything older than a week. Really disappointing.,1,2026-01-23,3.4.1,1,performance
+R01234,Setup for the living room bulb was painless and the interface is beautiful.,5,2026-09-10,3.2.1,0,praise
+R01235,Switched from a competitor and the smart lock experience here is miles ahead. Support was no help.,5,2026-02-08,3.3.2,0,praise
+R01236,Every time I adjust the smart plug settings the app force quits. So frustrating. Really disappointing.,2,2026-05-05,3.4.1,1,crash
+R01237,Face ID stopped working with the app on 3.4.1. Have to type the password each time. This started after the update.,3,2026-09-12,3.4.1,1,login_auth
+R01238,App can't find the living room bulb half the time. Re-pairing works for a day then it drops again. This started after the update.,1,2026-06-20,3.2.1,1,connectivity
+R01239,The new 3.4.1 update made the bedroom speaker controls so much snappier. Great work.,4,2026-09-09,3.3.2,0,praise
+R01240,The latest update crashes on launch whenever my bedroom speaker is connected. Reinstalling didn't help.,2,2026-06-19,3.3.0,1,crash
+R01241,Five stars. The living room bulb routines run perfectly every morning. Considering switching apps.,5,2026-04-27,3.3.0,0,praise
+R01242,"No login issues, no connectivity drops -- the video doorbell has been rock solid. Anyone else seeing this?",5,2026-06-22,3.2.1,0,praise
+R01243,The app crashes on my video doorbell screen. Support was great though and sent a workaround. Otherwise I like the app.,3,2026-07-04,3.4.0,1,crash
+R01244,The app looks beautiful but everything lags; opening the smart lock takes forever. Reinstalling didn't help.,1,2026-07-26,3.4.1,1,performance
+R01245,Password reset email never comes. Can't access my smoke detector at all now. Honestly pretty annoyed.,1,2026-01-11,3.2.0,1,login_auth
+R01246,Please add a vacation mode that randomizes the bedroom speaker schedule.,3,2026-03-26,3.3.0,0,feature_request
+R01247,Live view from the video doorbell lags 10 seconds behind real time. Useless for a doorbell. Really disappointing.,1,2026-07-29,3.2.1,1,performance
+R01248,Does the smoke detector work without Wi-Fi? Wondering about offline mode. Considering switching apps.,2,2026-08-05,3.2.0,0,question
+R01249,Buttons on the smart plug schedule screen overlap so I can't tap save. Honestly pretty annoyed.,1,2026-06-13,3.3.0,1,ui_bug
+R01250,Battery saver mode does nothing -- the living room bulb stream keeps running in the background. Anyone else seeing this?,1,2026-09-03,3.3.2,1,battery_drain
+R01251,The app is great when it works -- sadly the garage sensor screen crashes on launch. Considering switching apps.,2,2026-05-10,3.3.2,1,crash
+R01252,'Device offline' error all day for my video doorbell even though it's two feet from the router. Honestly pretty annoyed.,3,2026-01-17,3.3.2,1,connectivity
+R01253,Haven't seen a single crash since 3.2.0. The video doorbell controls are fast and reliable. Reinstalling didn't help.,4,2026-04-01,3.2.1,0,praise
+R01254,Never had the app crash on me once. The smoke detector setup was smooth. Anyone else seeing this?,5,2026-05-04,3.2.0,0,praise
+R01255,Best smart home app I've tried. The smart plug automations are rock solid. Support was no help.,2,2026-01-07,3.3.0,0,praise
+R01256,Request: IFTTT-style custom triggers for the kitchen plug. The presets are too limited. Honestly pretty annoyed.,4,2026-06-18,3.3.2,0,feature_request
+R01257,The new 3.4.1 update made the bedroom speaker controls so much snappier. Great work.,5,2026-07-16,3.2.1,0,praise
+R01258,"No lag, no freezes, no battery drain. Really happy with the video doorbell integration. Support was no help.",5,2026-09-15,3.2.1,0,praise
+R01259,The app keeps getting better. My living room bulb has never been easier to manage. Support was no help.,4,2026-06-04,3.4.1,0,praise
+R01260,Please add a vacation mode that randomizes the kitchen plug schedule. Really disappointing.,3,2026-03-30,3.2.1,0,feature_request
+R01261,Search in the living room bulb history times out on anything older than a week. This started after the update.,2,2026-04-22,3.3.0,1,performance
+R01262,Feature request: let me export garage sensor history to CSV for my energy audit. Otherwise I like the app.,3,2026-08-06,3.2.1,0,feature_request
+R01263,"I love this app overall, but it crashes every time I open the smart lock controls. Considering switching apps.",1,2026-02-22,3.4.0,1,crash
+R01264,"Huge fan of the product, but the UI on the video doorbell page is glitchy and unreadable. Really disappointing.",2,2026-04-30,3.3.0,1,ui_bug
+R01265,How do I reset the bedroom speaker energy stats? They seem off this month. Considering switching apps.,3,2026-06-10,3.3.0,0,question
+R01266,The smart plug schedules are flexible and the app never misses a beat.,4,2026-04-25,3.3.0,0,praise
+R01267,The app won't stay open for more than a few seconds if the bedroom speaker is online. Anyone else seeing this?,2,2026-05-26,3.4.1,1,crash
+R01268,Request: IFTTT-style custom triggers for the thermostat. The presets are too limited. Honestly pretty annoyed.,3,2026-02-20,3.4.0,0,feature_request
+R01269,Search in the thermostat history times out on anything older than a week. Reinstalling didn't help.,1,2026-08-18,3.3.2,1,performance
+R01270,Never had the app crash on me once. The bedroom speaker setup was smooth. This started after the update.,4,2026-07-05,3.3.0,0,praise
+R01271,Setup for the living room bulb was painless and the interface is beautiful.,5,2026-08-16,3.4.0,0,praise
+R01272,"Since 3.4.1, the app drains battery even in the background. bedroom speaker polling is out of control. Otherwise I like the app.",2,2026-04-06,3.2.0,1,battery_drain
+R01273,Does anyone know if the app supports the older smart lock model from 2021? Reinstalling didn't help.,4,2026-04-12,3.3.2,0,question
+R01274,"Login screen loops forever: enter password, spinner, back to login.",1,2026-06-12,3.3.0,1,login_auth
+R01275,This app eats my phone battery alive -- lost 40% overnight with the thermostat idle. Hope this gets fixed soon.,2,2026-09-07,3.3.2,1,battery_drain
+R01276,The widget alone drains my battery keeping the smart plug status updated. Considering switching apps.,1,2026-09-03,3.4.0,1,battery_drain
+R01277,Switched from a competitor and the thermostat experience here is miles ahead.,5,2026-03-24,3.4.1,0,praise
+R01278,Question: can I rename the video doorbell after setup? Don't see an edit option. This started after the update.,2,2026-02-05,3.3.0,0,question
+R01279,"Login screen loops forever: enter password, spinner, back to login. Really disappointing.",2,2026-06-16,3.4.1,1,login_auth
+R01280,Text is cut off on the bedroom speaker details screen on my small phone. Really disappointing.,2,2026-02-05,3.2.0,1,ui_bug
+R01281,The latest update crashes on launch whenever my garage sensor is connected. Hope this gets fixed soon.,1,2026-04-16,3.4.1,1,crash
+R01282,App takes forever to load the smoke detector dashboard -- 20+ seconds of spinner.,1,2026-06-28,3.3.2,1,performance
+R01283,App disconnects from the video doorbell whenever my phone switches between Wi-Fi and data. Considering switching apps.,1,2026-02-18,3.2.1,1,connectivity
+R01284,Crash after crash. The app dies the moment I tap my smart lock. Otherwise I like the app.,3,2026-08-28,3.2.0,1,crash
+R01285,How do I reset the smart lock energy stats? They seem off this month. Considering switching apps.,5,2026-03-13,3.3.0,0,question
+R01286,Crash after crash. The app dies the moment I tap my bedroom speaker. Honestly pretty annoyed.,2,2026-05-24,3.2.1,1,crash
+R01287,Toggle switches on the kitchen plug page don't reflect the real state. Confusing. Otherwise I like the app.,1,2026-07-02,3.4.1,1,ui_bug
+R01288,Buttons on the smart plug schedule screen overlap so I can't tap save.,1,2026-04-22,3.4.1,1,ui_bug
+R01289,Toggle switches on the smoke detector page don't reflect the real state. Confusing. Considering switching apps.,1,2026-05-22,3.2.0,1,ui_bug
+R01290,The latest update crashes on launch whenever my video doorbell is connected. Really disappointing.,1,2026-04-10,3.3.2,1,crash
+R01291,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Considering switching apps.",2,2026-02-27,3.4.1,1,connectivity
+R01292,Instant crash when switching between the video doorbell and the dashboard. Otherwise I like the app.,1,2026-06-10,3.2.1,1,crash
+R01293,Background crash loop drained my patience -- smart plug alerts kill the app. Considering switching apps.,2,2026-08-15,3.4.1,1,crash
+R01294,The app used 25% of my battery in 3 hours just syncing the garage sensor. Support was no help.,2,2026-06-07,3.2.0,1,battery_drain
+R01295,Does the living room bulb work without Wi-Fi? Wondering about offline mode. Support was no help.,3,2026-01-19,3.2.1,0,question
+R01296,Biometric login crashes back to the password field on 3.2.1.,1,2026-06-24,3.2.0,1,login_auth
+R01297,"Clean design, fast, and the garage sensor widgets are super handy. Really disappointing.",4,2026-03-21,3.2.1,0,praise
+R01298,"No login issues, no connectivity drops -- the smart lock has been rock solid. Really disappointing.",4,2026-07-15,3.2.0,0,praise
+R01299,Intermittent connectivity: smart lock responds maybe one time out of three. Really disappointing.,1,2026-07-16,3.3.2,1,connectivity

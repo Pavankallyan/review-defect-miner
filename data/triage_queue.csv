@@ -1,0 +1,801 @@
+rank,review_id,triage_score,severity_weight,category,star_rating,date,app_version,text
+1,R01070,5.160626083293361,5.0,crash,1,2026-09-17,3.2.0,App keeps crashing every time I open the living room bulb controls on version 3.4.0.
+2,R00500,5.160626083293361,5.0,crash,1,2026-09-17,3.2.1,App force closes during thermostat setup on the very last step. Unacceptable. Support was no help.
+3,R01102,5.004068916272116,5.0,crash,1,2026-09-13,3.2.0,Rotated my phone while on the smart lock page and the app crashed instantly.
+4,R00504,4.927580486553763,5.0,crash,1,2026-09-11,3.4.1,Background crash loop drained my patience -- kitchen plug alerts kill the app. Reinstalling didn't help.
+5,R00784,4.778093190091527,5.0,crash,1,2026-09-07,3.3.2,App crashes when I try to view the video doorbell live feed. Was fine before 3.3.2. Considering switching apps.
+6,R00070,4.705058855178667,5.0,crash,1,2026-09-05,3.4.1,App force closes during smoke detector setup on the very last step. Unacceptable. Considering switching apps.
+7,R00722,4.705058855178667,5.0,crash,1,2026-09-05,3.3.0,App force closes during smart lock setup on the very last step. Unacceptable. Considering switching apps.
+8,R00909,4.389975139004098,5.0,crash,1,2026-08-27,3.3.2,Opening the smart plug tab makes the app freeze then crash. Please fix this. Support was no help.
+9,R00655,4.348361859532394,4.0,connectivity,1,2026-09-17,3.4.0,App disconnects from the smoke detector whenever my phone switches between Wi-Fi and data. Hope this gets fixed soon.
+10,R00591,4.315000993677895,4.0,connectivity,1,2026-09-16,3.4.0,The security camera works in the old app but this version 3.4.0 can't maintain a connection. Anyone else seeing this?
+11,R00947,4.256797098207627,5.0,crash,1,2026-08-23,3.4.0,Crash after crash. The app dies the moment I tap my security camera.
+12,R00148,4.225,5.0,crash,2,2026-09-20,3.4.1,"I love this app overall, but it crashes every time I open the kitchen plug controls."
+13,R00960,4.216446234776032,4.0,connectivity,1,2026-09-13,3.2.0,Intermittent connectivity: security camera responds maybe one time out of three. Really disappointing.
+14,R01036,4.216446234776032,4.0,connectivity,1,2026-09-13,3.4.1,App disconnects from the security camera whenever my phone switches between Wi-Fi and data. Anyone else seeing this?
+15,R01029,4.192585572960936,5.0,crash,2,2026-09-19,3.4.1,Opening the thermostat tab makes the app freeze then crash. Please fix this. This started after the update.
+16,R00252,4.192585572960936,5.0,crash,2,2026-09-19,3.4.1,The app won't stay open for more than a few seconds if the smoke detector is online.
+17,R00510,4.127659260371031,5.0,crash,1,2026-08-19,3.4.1,The app is great when it works -- sadly the smart lock screen crashes on launch. Hope this gets fixed soon.
+18,R00821,4.127659260371031,5.0,crash,1,2026-08-19,3.4.1,The app is great when it works -- sadly the smart lock screen crashes on launch. Anyone else seeing this?
+19,R00424,4.08853251524674,4.0,connectivity,1,2026-09-09,3.4.0,App disconnects from the thermostat whenever my phone switches between Wi-Fi and data. Support was no help.
+20,R00617,4.0653957108777625,5.0,crash,2,2026-09-15,3.4.1,smart plug screen just force-closes the app. Completely unusable since 3.3.2. Otherwise I like the app.
+21,R00732,4.03420577652151,5.0,crash,2,2026-09-14,3.3.2,Crashes constantly since the 3.4.1 update. My video doorbell is basically bricked in the app. Reinstalling didn't help.
+22,R00750,4.03338339257148,5.0,crash,1,2026-08-16,3.3.2,"I love this app overall, but it crashes every time I open the living room bulb controls. This started after the update."
+23,R00975,4.00243905844152,5.0,crash,1,2026-08-15,3.2.1,App keeps crashing every time I open the smoke detector controls on version 3.4.1. Otherwise I like the app.
+24,R01007,3.942064389243011,5.0,crash,2,2026-09-11,3.2.0,The app won't stay open for more than a few seconds if the security camera is online.
+25,R00034,3.8810176436652535,5.0,crash,1,2026-08-11,3.4.0,The latest update crashes on launch whenever my garage sensor is connected. Considering switching apps.
+26,R00718,3.8739500066677524,4.0,connectivity,1,2026-09-02,3.2.0,"Since 3.4.0, the app loses connection to the smoke detector and never reconnects on its own."
+27,R00932,3.844228854041927,4.0,connectivity,1,2026-09-01,3.3.0,"Since 3.3.2, the app loses connection to the video doorbell and never reconnects on its own. Considering switching apps."
+28,R00520,3.7923750781766907,5.0,crash,1,2026-08-08,3.3.0,garage sensor screen just force-closes the app. Completely unusable since 3.2.1. Otherwise I like the app.
+29,R00789,3.764047084142933,5.0,crash,2,2026-09-05,3.3.0,App crashes when I try to view the garage sensor live feed. Was fine before 3.3.2. Support was no help.
+30,R00166,3.734407688141454,5.0,crash,1,2026-08-06,3.2.1,Every time I adjust the kitchen plug settings the app force quits. So frustrating. Anyone else seeing this?
+31,R01049,3.677326343984652,5.0,crash,1,2026-08-04,3.4.0,Every time I adjust the garage sensor settings the app force quits. So frustrating. This started after the update.
+32,R00397,3.670629644792096,4.0,connectivity,1,2026-08-26,3.4.1,Connection keeps dropping -- the thermostat goes 'unreachable' every few hours. Hope this gets fixed soon.
+33,R00672,3.6424683769084187,4.0,connectivity,1,2026-08-25,3.2.1,App disconnects from the bedroom speaker whenever my phone switches between Wi-Fi and data. Honestly pretty annoyed.
+34,R00584,3.6424683769084187,4.0,connectivity,1,2026-08-25,3.3.2,"Setup was a breeze and I love the widgets, but the smart plug drops offline every night. This started after the update."
+35,R00264,3.5933360942104637,5.0,crash,1,2026-08-01,3.2.0,Crash after crash. The app dies the moment I tap my smoke detector. Reinstalling didn't help.
+36,R00797,3.5657678266003767,5.0,crash,1,2026-07-31,3.4.1,garage sensor screen just force-closes the app. Completely unusable since 3.3.2. Considering switching apps.
+37,R00022,3.4779803472002064,4.0,connectivity,1,2026-08-19,3.4.0,"Sync fails repeatedly with the garage sensor. Spinning loader, then 'connection timeout'."
+38,R00143,3.379310977697944,5.0,crash,2,2026-08-22,3.4.1,Background crash loop drained my patience -- garage sensor alerts kill the app. Anyone else seeing this?
+39,R01096,3.378622095854982,5.0,crash,1,2026-07-24,3.4.1,Background crash loop drained my patience -- video doorbell alerts kill the app. Anyone else seeing this?
+40,R00248,3.3731569878208254,4.0,connectivity,2,2026-09-13,3.3.2,"Since 3.3.0, the app loses connection to the kitchen plug and never reconnects on its own. This started after the update."
+41,R01035,3.3724693604856357,4.0,connectivity,1,2026-08-15,3.3.0,"Sync fails repeatedly with the smart lock. Spinning loader, then 'connection timeout'. Considering switching apps."
+42,R00288,3.3472779461467366,4.0,connectivity,2,2026-09-12,3.3.0,App disconnects from the security camera whenever my phone switches between Wi-Fi and data.
+43,R00802,3.346595594325414,4.0,connectivity,1,2026-08-14,3.3.2,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Really disappointing."
+44,R00928,3.327657374492443,5.0,crash,2,2026-08-20,3.4.1,Opening the smart lock tab makes the app freeze then crash. Please fix this. Anyone else seeing this?
+45,R00308,3.2761253260396273,5.0,crash,1,2026-07-20,3.3.0,"Crash report sent three times this week, all from the video doorbell screen. Considering switching apps."
+46,R00094,3.2708260121973924,4.0,connectivity,2,2026-09-09,3.3.0,Intermittent connectivity: security camera responds maybe one time out of three. Reinstalling didn't help.
+47,R00843,3.2509907164889196,5.0,crash,1,2026-07-19,3.3.0,Every time I adjust the thermostat settings the app force quits. So frustrating. Otherwise I like the app.
+48,R00978,3.2208306284924664,4.0,connectivity,2,2026-09-07,3.3.0,Great app otherwise -- however my smoke detector keeps showing offline since 3.2.1.
+49,R00495,3.220174053304841,4.0,connectivity,1,2026-08-09,3.3.2,"Sync fails repeatedly with the smart plug. Spinning loader, then 'connection timeout'."
+50,R01293,3.201951246753216,5.0,crash,2,2026-08-15,3.4.1,Background crash loop drained my patience -- smart plug alerts kill the app. Considering switching apps.
+51,R00891,3.1773857047246903,5.0,crash,2,2026-08-14,3.3.2,The app won't stay open for more than a few seconds if the bedroom speaker is online. This started after the update.
+52,R00234,3.170952897305943,4.0,connectivity,1,2026-08-07,3.4.0,Connection keeps dropping -- the video doorbell goes 'unreachable' every few hours. Really disappointing.
+53,R00058,3.075383083233542,4.0,connectivity,2,2026-09-01,3.2.1,Intermittent connectivity: bedroom speaker responds maybe one time out of three.
+54,R00983,3.0573562640927987,5.0,crash,2,2026-08-09,3.4.1,kitchen plug screen just force-closes the app. Completely unusable since 3.4.0.
+55,R00549,2.98125,4.5,login_auth,1,2026-09-20,3.2.0,"Really like the design, but logging in has been broken for me since 3.3.2. Anyone else seeing this?"
+56,R00372,2.9586036677956704,4.0,connectivity,1,2026-07-29,3.2.0,App disconnects from the living room bulb whenever my phone switches between Wi-Fi and data.
+57,R01215,2.896303462006122,5.0,crash,1,2026-07-04,3.4.0,Opening the bedroom speaker tab makes the app freeze then crash. Please fix this.
+58,R01185,2.874082866206788,5.0,crash,1,2026-07-03,3.3.2,"I love this app overall, but it crashes every time I open the garage sensor controls. Honestly pretty annoyed."
+59,R00578,2.869433878271082,4.0,connectivity,2,2026-08-23,3.2.0,Had to factory reset the bedroom speaker three times this month because the app loses it. Otherwise I like the app.
+60,R00386,2.8526142612803014,5.0,crash,2,2026-07-31,3.3.2,App keeps crashing every time I open the living room bulb controls on version 3.3.0. Support was no help.
+61,R01046,2.852032748012496,5.0,crash,1,2026-07-02,3.2.0,Every time I adjust the living room bulb settings the app force quits. So frustrating. Hope this gets fixed soon.
+62,R00001,2.847419427362055,4.0,connectivity,2,2026-08-22,3.4.0,"My smoke detector shows offline in the app constantly, but my Wi-Fi is fine. Honestly pretty annoyed."
+63,R00378,2.8255738725033948,4.0,connectivity,2,2026-08-21,3.2.1,App can't find the smart lock half the time. Re-pairing works for a day then it drops again. This started after the update.
+64,R00886,2.803110218244371,4.5,login_auth,1,2026-09-12,3.2.1,"Really like the design, but logging in has been broken for me since 3.2.1. Reinstalling didn't help."
+65,R00508,2.7660749150571315,5.0,crash,2,2026-07-27,3.2.0,Opening the video doorbell tab makes the app freeze then crash. Please fix this.
+66,R00228,2.744853439668089,5.0,crash,2,2026-07-26,3.3.0,Instant crash when switching between the living room bulb and the dashboard.
+67,R01142,2.7390870923773813,4.5,login_auth,1,2026-09-09,3.2.0,"Great app when you're in, but I get logged out daily and can't reach my kitchen plug. Really disappointing."
+68,R01060,2.7373932991562597,5.0,crash,3,2026-09-01,3.3.2,Crash after crash. The app dies the moment I tap my smoke detector.
+69,R00866,2.702346683553984,5.0,crash,1,2026-06-25,3.3.0,Tapping notifications for the garage sensor crashes the app every single time.
+70,R01299,2.6767307052827096,4.0,connectivity,1,2026-07-16,3.3.2,Intermittent connectivity: smart lock responds maybe one time out of three. Really disappointing.
+71,R00552,2.656736266471642,4.0,connectivity,2,2026-08-13,3.3.0,Had to factory reset the smart lock three times this month because the app loses it. Hope this gets fixed soon.
+72,R00383,2.656194683472152,4.0,connectivity,1,2026-07-15,3.4.0,The video doorbell works in the old app but this version 3.2.0 can't maintain a connection. Reinstalling didn't help.
+73,R00600,2.656194683472152,4.0,connectivity,1,2026-07-15,3.2.0,The living room bulb pairs fine in Bluetooth settings but the app says device not found.
+74,R00954,2.6559918034558865,4.5,login_auth,1,2026-09-05,3.4.0,"Login screen loops forever: enter password, spinner, back to login. Really disappointing."
+75,R01284,2.6543493945947128,5.0,crash,3,2026-08-28,3.2.0,Crash after crash. The app dies the moment I tap my smart lock. Otherwise I like the app.
+76,R00273,2.609017115719437,4.0,connectivity,3,2026-09-17,3.2.1,The video doorbell pairs fine in Bluetooth settings but the app says device not found. Really disappointing.
+77,R00540,2.6002623944674825,5.0,crash,1,2026-06-20,3.3.0,Crashes constantly since the 3.3.0 update. My kitchen plug is basically bricked in the app. Reinstalling didn't help.
+78,R00740,2.5563749639401694,4.0,connectivity,2,2026-08-08,3.3.0,"My bedroom speaker shows offline in the app constantly, but my Wi-Fi is fine. Reinstalling didn't help."
+79,R01115,2.5563749639401694,4.0,connectivity,2,2026-08-08,3.4.1,Had to factory reset the video doorbell three times this month because the app loses it. Really disappointing.
+80,R00055,2.5556586238807233,4.5,login_auth,1,2026-08-31,3.3.2,"Really like the design, but logging in has been broken for me since 3.3.0. Reinstalling didn't help."
+81,R00356,2.541390388723471,5.0,crash,2,2026-07-16,3.2.0,Every time I adjust the bedroom speaker settings the app force quits. So frustrating. Reinstalling didn't help.
+82,R01190,2.4828387153212708,5.0,crash,1,2026-06-14,3.3.0,The app crashes on my security camera screen. Support was great though and sent a workaround.
+83,R00137,2.4593034883388083,4.0,connectivity,1,2026-07-05,3.2.0,Connection keeps dropping -- the smart lock goes 'unreachable' every few hours. Reinstalling didn't help.
+84,R01077,2.440249179473758,4.5,login_auth,1,2026-08-25,3.2.0,Can't stay signed in on two phones -- the second login kicks out the first. Hope this gets fixed soon.
+85,R00135,2.426130600690657,5.0,crash,1,2026-06-11,3.2.0,Every time I adjust the smart plug settings the app force quits. So frustrating. Reinstalling didn't help.
+86,R01292,2.4075171963490414,5.0,crash,1,2026-06-10,3.2.1,Instant crash when switching between the video doorbell and the dashboard. Otherwise I like the app.
+87,R00361,2.3895337080683587,5.0,crash,2,2026-07-08,3.2.0,Crashes constantly since the 3.2.1 update. My garage sensor is basically bricked in the app.
+88,R01166,2.3890465950457638,5.0,crash,1,2026-06-09,3.2.0,Instant crash when switching between the bedroom speaker and the dashboard. Anyone else seeing this?
+89,R00528,2.384695954143252,4.0,connectivity,1,2026-07-01,3.3.2,Great app otherwise -- however my smart lock keeps showing offline since 3.3.0. Reinstalling didn't help.
+90,R00526,2.378699577434706,4.0,connectivity,3,2026-09-05,3.4.1,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Anyone else seeing this?"
+91,R00437,2.3712010770535503,5.0,crash,2,2026-07-07,3.2.0,"Crash report sent three times this week, all from the living room bulb screen. Anyone else seeing this?"
+92,R00101,2.364756473141015,5.0,crash,3,2026-08-13,3.2.1,App crashes when I try to view the living room bulb live feed. Was fine before 3.3.0. Otherwise I like the app.
+93,R01015,2.3466139344040253,5.0,crash,3,2026-08-12,3.2.1,The latest update crashes on launch whenever my living room bulb is connected. Honestly pretty annoyed.
+94,R00660,2.3286105861991517,5.0,crash,3,2026-08-11,3.3.0,Crashes constantly since the 3.2.0 update. My smart lock is basically bricked in the app. Honestly pretty annoyed.
+95,R00141,2.2816261984099966,5.0,crash,2,2026-07-02,3.3.0,The app won't stay open for more than a few seconds if the smoke detector is online. Honestly pretty annoyed.
+96,R00559,2.281161082630216,5.0,crash,1,2026-06-03,3.4.1,Tapping notifications for the kitchen plug crashes the app every single time.
+97,R00136,2.2636598922213955,5.0,crash,1,2026-06-02,3.3.0,Opening the smart lock tab makes the app freeze then crash. Please fix this. Hope this gets fixed soon.
+98,R00561,2.259537590322012,4.0,connectivity,1,2026-06-24,3.3.2,Had to factory reset the smart lock three times this month because the app loses it. Hope this gets fixed soon.
+99,R00738,2.246750978256025,5.0,crash,2,2026-06-30,3.3.0,"Crash report sent three times this week, all from the bedroom speaker screen. Support was no help."
+100,R00534,2.2426594688128745,4.0,connectivity,2,2026-07-22,3.4.1,"Love the new dashboard design, but my video doorbell won't stay connected since 3.2.0. Anyone else seeing this?"
+101,R00419,2.242202296508162,4.0,connectivity,1,2026-06-23,3.4.0,'Device offline' error all day for my thermostat even though it's two feet from the router. This started after the update.
+102,R00837,2.2365642236111665,4.0,connectivity,3,2026-08-28,3.3.2,Had to factory reset the security camera three times this month because the app loses it. Reinstalling didn't help.
+103,R00024,2.2290592914963723,5.0,crash,1,2026-05-31,3.3.2,Every time I adjust the bedroom speaker settings the app force quits. So frustrating. This started after the update.
+104,R00647,2.2248300546119615,4.5,login_auth,1,2026-08-13,3.2.1,"'Account not found' error on login, but the website works fine with the same email."
+105,R00814,2.216931678385196,3.0,performance,1,2026-09-17,3.4.1,Search in the living room bulb history times out on anything older than a week. This started after the update.
+106,R00265,2.206395806390791,5.0,crash,3,2026-08-04,3.3.2,Crashes constantly since the 3.2.0 update. My bedroom speaker is basically bricked in the app. Hope this gets fixed soon.
+107,R00670,2.1909903252791096,4.0,connectivity,1,2026-06-20,3.3.2,App can't find the smart lock half the time. Re-pairing works for a day then it drops again. This started after the update.
+108,R01238,2.1909903252791096,4.0,connectivity,1,2026-06-20,3.2.1,App can't find the living room bulb half the time. Re-pairing works for a day then it drops again. This started after the update.
+109,R00568,2.189468219198945,5.0,crash,3,2026-08-03,3.3.0,Rotated my phone while on the thermostat page and the app crashed instantly. Support was no help.
+110,R00339,2.178147506916658,5.0,crash,1,2026-05-28,3.3.2,It crashed twice this week on the smart lock page. Still better than the competitor's app. Hope this gets fixed soon.
+111,R00502,2.161877346843187,5.0,crash,2,2026-06-25,3.3.0,The latest update crashes on launch whenever my video doorbell is connected. Considering switching apps.
+112,R00804,2.157335707059564,4.5,login_auth,1,2026-08-09,3.4.0,Can't stay signed in on two phones -- the second login kicks out the first.
+113,R00069,2.1448539841281846,5.0,crash,1,2026-05-26,3.4.0,Opening the living room bulb tab makes the app freeze then crash. Please fix this. Hope this gets fixed soon.
+114,R00543,2.1448539841281846,5.0,crash,1,2026-05-26,3.4.0,Opening the kitchen plug tab makes the app freeze then crash. Please fix this. Considering switching apps.
+115,R00192,2.140948037089473,4.0,connectivity,1,2026-06-17,3.4.1,"Since 3.3.0, the app loses connection to the security camera and never reconnects on its own. Considering switching apps."
+116,R00980,2.13318450570798,3.0,performance,1,2026-09-12,3.2.0,Scrolling the thermostat event history stutters and freezes the whole app. Reinstalling didn't help.
+117,R00990,2.1125,5.0,crash,2,2026-06-22,3.4.1,smoke detector screen just force-closes the app. Completely unusable since 3.3.2.
+118,R00111,2.1086529720995757,4.0,connectivity,2,2026-07-14,3.2.0,Intermittent connectivity: living room bulb responds maybe one time out of three. Support was no help.
+119,R00149,2.1086529720995757,4.0,connectivity,2,2026-07-14,3.3.0,App disconnects from the smart plug whenever my phone switches between Wi-Fi and data. Otherwise I like the app.
+120,R01028,2.1067585106354003,5.0,crash,3,2026-07-29,3.4.0,Instant crash when switching between the bedroom speaker and the dashboard. Support was no help.
+121,R01119,2.09204871634171,4.0,connectivity,1,2026-06-14,3.3.2,The kitchen plug pairs fine in Bluetooth settings but the app says device not found.
+122,R01162,2.084462504262032,3.0,performance,1,2026-09-09,3.2.1,Switching rooms with the video doorbell takes ages -- the UI just hangs. Support was no help.
+123,R00873,2.0759984061693966,4.0,connectivity,1,2026-06-13,3.4.0,"Since 3.2.0, the app loses connection to the thermostat and never reconnects on its own."
+124,R01240,2.0642504333173446,5.0,crash,2,2026-06-19,3.3.0,The latest update crashes on launch whenever my bedroom speaker is connected. Reinstalling didn't help.
+125,R00646,2.0479958183586024,5.0,crash,1,2026-05-20,3.2.1,"I love this app overall, but it crashes every time I open the kitchen plug controls. Hope this gets fixed soon."
+126,R00844,2.04426625762337,4.0,connectivity,1,2026-06-11,3.3.2,The living room bulb pairs fine in Bluetooth settings but the app says device not found.
+127,R00881,2.0322834843868884,5.0,crash,1,2026-05-19,3.4.1,App keeps crashing every time I open the living room bulb controls on version 3.2.1. Honestly pretty annoyed.
+128,R00009,2.028996153491896,4.0,connectivity,2,2026-07-09,3.2.1,The bedroom speaker pairs fine in Bluetooth settings but the app says device not found. Support was no help.
+129,R00174,2.0285825370420327,4.0,connectivity,1,2026-06-10,3.3.2,'Device offline' error all day for my kitchen plug even though it's two feet from the router. Hope this gets fixed soon.
+130,R00525,2.023481616291382,4.0,connectivity,3,2026-08-15,3.3.0,"My smart lock shows offline in the app constantly, but my Wi-Fi is fine. Honestly pretty annoyed."
+131,R00255,2.021226466780895,3.0,performance,1,2026-09-05,3.2.0,App takes forever to load the bedroom speaker dashboard -- 20+ seconds of spinner. Reinstalling didn't help.
+132,R01012,2.0116206753470256,5.0,crash,3,2026-07-23,3.2.1,Background crash loop drained my patience -- bedroom speaker alerts kill the app. Considering switching apps.
+133,R00411,1.997982445990684,4.0,connectivity,2,2026-07-07,3.4.0,The security camera works in the old app but this version 3.4.0 can't maintain a connection. Support was no help.
+134,R00787,1.997422577080872,4.5,login_auth,1,2026-07-30,3.3.0,App says my session expired in the middle of smart lock setup and lost my progress. Support was no help.
+135,R00830,1.997422577080872,4.5,login_auth,1,2026-07-30,3.4.0,"Really like the design, but logging in has been broken for me since 3.4.1. Reinstalling didn't help."
+136,R00842,1.9820982437338974,4.5,login_auth,1,2026-07-29,3.4.0,Can't stay signed in on two phones -- the second login kicks out the first. Otherwise I like the app.
+137,R00090,1.9710321946215055,5.0,crash,2,2026-06-13,3.4.0,Tapping notifications for the smart lock crashes the app every single time.
+138,R01027,1.9665449666524093,3.0,battery_drain,1,2026-09-15,3.4.1,Phone battery dropped 15% during a 20-minute smart lock live view. Fix the power usage. Support was no help.
+139,R00291,1.9665449666524093,3.0,battery_drain,1,2026-09-15,3.4.0,Background battery drain is ridiculous. Turned off living room bulb notifications and it still drains. This started after the update.
+140,R01064,1.9559103297069007,5.0,crash,2,2026-06-12,3.2.0,Background crash loop drained my patience -- thermostat alerts kill the app.
+141,R00140,1.9559103297069007,5.0,crash,2,2026-06-12,3.4.1,The app is great when it works -- sadly the smoke detector screen crashes on launch. Support was no help.
+142,R00890,1.9519504722490435,4.0,connectivity,1,2026-06-05,3.3.2,'Device offline' error all day for my video doorbell even though it's two feet from the router.
+143,R00258,1.9518013823701952,4.5,login_auth,1,2026-07-27,3.2.0,"Great app when you're in, but I get logged out daily and can't reach my smart lock."
+144,R00493,1.9514575279919142,3.0,battery_drain,1,2026-09-14,3.4.0,Phone battery dropped 15% during a 20-minute video doorbell live view. Fix the power usage.
+145,R01203,1.944872286097909,3.0,performance,1,2026-08-31,3.2.0,Scrolling the thermostat event history stutters and freezes the whole app.
+146,R00332,1.944872286097909,3.0,performance,1,2026-08-31,3.3.0,Every tap has a delay on 3.2.1. The video doorbell controls feel like they're on dial-up. This started after the update.
+147,R00073,1.9409044805525255,5.0,crash,4,2026-09-09,3.3.0,The app won't stay open for more than a few seconds if the security camera is online. Honestly pretty annoyed.
+148,R00514,1.9364858409715766,3.0,battery_drain,1,2026-09-13,3.3.2,"Five stars for features, one star for the battery drain -- the garage sensor sync never sleeps."
+149,R01109,1.9321044319829048,4.0,connectivity,3,2026-08-09,3.4.0,Connection keeps dropping -- the garage sensor goes 'unreachable' every few hours. This started after the update.
+150,R00194,1.9256211338742943,5.0,crash,1,2026-05-12,3.2.1,"I love this app overall, but it crashes every time I open the bedroom speaker controls. Support was no help."
+151,R00088,1.9151444326939246,3.0,performance,1,2026-08-29,3.3.2,"Best smart home app I've used, if only the bedroom speaker page didn't lag so badly."
+152,R00370,1.9025717383835659,4.0,connectivity,3,2026-08-07,3.2.0,"My smart plug shows offline in the app constantly, but my Wi-Fi is fine. Reinstalling didn't help."
+153,R00008,1.8858709768739494,3.0,performance,1,2026-08-27,3.2.1,"Love the automations, but the garage sensor live view buffers constantly. Really disappointing."
+154,R00664,1.8820235420714666,5.0,crash,4,2026-09-05,3.4.1,Crash after crash. The app dies the moment I tap my smart plug. Support was no help.
+155,R00226,1.864041152375841,4.5,login_auth,2,2026-08-19,3.2.0,"Login screen loops forever: enter password, spinner, back to login. Otherwise I like the app."
+156,R00819,1.8532563472476873,5.0,crash,2,2026-06-05,3.3.2,"Crash report sent three times this week, all from the smart plug screen. Really disappointing."
+157,R00612,1.8495043189177027,4.0,connectivity,1,2026-05-29,3.3.0,"Setup was a breeze and I love the widgets, but the garage sensor drops offline every night."
+158,R00244,1.8490372463431122,3.0,battery_drain,1,2026-09-07,3.2.1,This app eats my phone battery alive -- lost 40% overnight with the smart lock idle.
+159,R01107,1.839038064963062,5.0,crash,2,2026-06-04,3.3.2,The latest update crashes on launch whenever my video doorbell is connected. Considering switching apps.
+160,R01013,1.8386631719923257,5.0,crash,1,2026-05-06,3.2.0,"I love this app overall, but it crashes every time I open the kitchen plug controls."
+161,R00641,1.8356890326573316,4.0,connectivity,2,2026-06-26,3.4.1,Intermittent connectivity: smart plug responds maybe one time out of three. Reinstalling didn't help.
+162,R01084,1.828659581833572,3.0,performance,1,2026-08-23,3.4.1,App startup is so slow now that the thermostat alerts arrive before the app opens.
+163,R00113,1.824556849332454,5.0,crash,1,2026-05-05,3.4.0,App keeps crashing every time I open the garage sensor controls on version 3.2.0.
+164,R00298,1.8212341884542094,4.0,connectivity,1,2026-05-27,3.4.1,App disconnects from the video doorbell whenever my phone switches between Wi-Fi and data. Reinstalling didn't help.
+165,R00214,1.8166546502327932,4.0,connectivity,3,2026-08-01,3.4.1,Intermittent connectivity: thermostat responds maybe one time out of three.
+166,R00724,1.7970343775086826,5.0,crash,2,2026-06-01,3.4.0,garage sensor screen just force-closes the app. Completely unusable since 3.3.0. Considering switching apps.
+167,R00595,1.7937618372065296,4.0,connectivity,2,2026-06-23,3.3.0,The thermostat works in the old app but this version 3.2.1 can't maintain a connection. Honestly pretty annoyed.
+168,R00630,1.7937618372065296,4.0,connectivity,2,2026-06-23,3.3.2,"Setup was a breeze and I love the widgets, but the garage sensor drops offline every night. Considering switching apps."
+169,R00841,1.7933961739194264,4.0,connectivity,1,2026-05-25,3.2.1,"My smoke detector shows offline in the app constantly, but my Wi-Fi is fine."
+170,R01276,1.7929432708579705,3.0,battery_drain,1,2026-09-03,3.4.0,The widget alone drains my battery keeping the smart plug status updated. Considering switching apps.
+171,R01250,1.7929432708579705,3.0,battery_drain,1,2026-09-03,3.3.2,Battery saver mode does nothing -- the living room bulb stream keeps running in the background. Anyone else seeing this?
+172,R00482,1.783247433197098,5.0,crash,2,2026-05-31,3.4.1,"I love this app overall, but it crashes every time I open the bedroom speaker controls. Really disappointing."
+173,R00937,1.7795012135059218,4.5,login_auth,1,2026-07-15,3.3.2,"Really like the design, but logging in has been broken for me since 3.4.1. Considering switching apps."
+174,R00564,1.7692055321104156,5.0,crash,1,2026-05-01,3.3.2,App force closes during smart plug setup on the very last step. Unacceptable. Really disappointing.
+175,R00729,1.761543060881814,4.0,connectivity,3,2026-07-28,3.3.0,Had to factory reset the smart plug three times this month because the app loses it. Really disappointing.
+176,R01269,1.7595798392051427,3.0,performance,1,2026-08-18,3.3.2,Search in the thermostat history times out on anything older than a week. Reinstalling didn't help.
+177,R01223,1.7523010978040041,4.5,login_auth,1,2026-07-13,3.4.1,Biometric login crashes back to the password field on 3.4.0. Anyone else seeing this?
+178,R01243,1.737782077203673,5.0,crash,3,2026-07-04,3.4.0,The app crashes on my video doorbell screen. Support was great though and sent a workaround. Otherwise I like the app.
+179,R00544,1.7256485475400298,4.0,connectivity,1,2026-05-20,3.3.0,App can't find the kitchen plug half the time. Re-pairing works for a day then it drops again.
+180,R00363,1.7256485475400298,4.0,connectivity,1,2026-05-20,3.2.0,Great app otherwise -- however my bedroom speaker keeps showing offline since 3.3.2. This started after the update.
+181,R00267,1.7193909801352327,3.0,performance,1,2026-08-15,3.3.0,"Best smart home app I've used, if only the security camera page didn't lag so badly."
+182,R01267,1.7158831873025475,5.0,crash,2,2026-05-26,3.4.1,The app won't stay open for more than a few seconds if the bedroom speaker is online. Anyone else seeing this?
+183,R01051,1.7155333997925553,5.0,crash,1,2026-04-27,3.4.1,App force closes during smart plug setup on the very last step. Unacceptable. Considering switching apps.
+184,R00831,1.7065476045663839,3.0,performance,2,2026-09-12,3.4.1,Every tap has a delay on 3.3.2. The bedroom speaker controls feel like they're on dial-up. Considering switching apps.
+185,R00338,1.7061997201406254,3.0,performance,1,2026-08-14,3.4.1,"Love the automations, but the garage sensor live view buffers constantly."
+186,R00861,1.7027188392830508,5.0,crash,2,2026-05-25,3.2.1,"Crash report sent three times this week, all from the smart lock screen. Considering switching apps."
+187,R00236,1.7023717353616319,5.0,crash,1,2026-04-26,3.2.0,App force closes during garage sensor setup on the very last step. Unacceptable. Reinstalling didn't help.
+188,R00392,1.698842450241823,3.0,battery_drain,1,2026-08-27,3.2.1,"Five stars for features, one star for the battery drain -- the smart lock sync never sleeps. Support was no help."
+189,R00805,1.6980910797059394,5.0,crash,3,2026-07-01,3.3.2,The app is great when it works -- sadly the video doorbell screen crashes on launch. Anyone else seeing this?
+190,R00511,1.6896554888489725,5.0,crash,2,2026-05-24,3.4.0,App keeps crashing every time I open the kitchen plug controls on version 3.3.2. This started after the update.
+191,R01286,1.6896554888489725,5.0,crash,2,2026-05-24,3.2.1,Crash after crash. The app dies the moment I tap my bedroom speaker. Honestly pretty annoyed.
+192,R01199,1.6819946016096559,4.0,connectivity,3,2026-07-22,3.4.1,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Reinstalling didn't help."
+193,R01237,1.6818661309466223,4.5,login_auth,3,2026-09-12,3.4.1,Face ID stopped working with the app on 3.4.1. Have to type the password each time. This started after the update.
+194,R00921,1.6763505627891881,5.0,crash,1,2026-04-24,3.2.0,The app won't stay open for more than a few seconds if the bedroom speaker is online. Honestly pretty annoyed.
+195,R00897,1.673638973073368,4.0,connectivity,2,2026-06-14,3.2.1,App disconnects from the garage sensor whenever my phone switches between Wi-Fi and data.
+196,R00462,1.6728752236644004,3.0,battery_drain,1,2026-08-25,3.2.0,The widget alone drains my battery keeping the kitchen plug status updated. This started after the update.
+197,R00145,1.6600408350530564,3.0,battery_drain,1,2026-08-24,3.2.0,This app eats my phone battery alive -- lost 40% overnight with the video doorbell idle. This started after the update.
+198,R01225,1.6562848985610994,4.0,connectivity,3,2026-07-20,3.3.0,Firmware update for the bedroom speaker failed halfway and now the app won't connect at all. Otherwise I like the app.
+199,R00023,1.648056987871377,4.0,connectivity,4,2026-09-10,3.3.2,"My smart lock shows offline in the app constantly, but my Wi-Fi is fine. Support was no help."
+200,R00380,1.635288093335584,4.5,login_auth,2,2026-08-02,3.4.0,"Login screen loops forever: enter password, spinner, back to login. Really disappointing."
+201,R00283,1.6254953582444598,5.0,crash,1,2026-04-20,3.3.0,Crashes constantly since the 3.4.1 update. My thermostat is basically bricked in the app. Honestly pretty annoyed.
+202,R01003,1.622535203927216,4.0,connectivity,1,2026-05-12,3.4.0,"Setup was a breeze and I love the widgets, but the kitchen plug drops offline every night. Otherwise I like the app."
+203,R00619,1.6104153142462334,4.0,connectivity,2,2026-06-09,3.3.2,"Since 3.3.0, the app loses connection to the kitchen plug and never reconnects on its own. Anyone else seeing this?"
+204,R00121,1.5980601214163574,4.0,connectivity,2,2026-06-08,3.3.2,App disconnects from the smart plug whenever my phone switches between Wi-Fi and data. Considering switching apps.
+205,R00056,1.5980601214163574,4.0,connectivity,4,2026-09-06,3.2.0,The thermostat works in the old app but this version 3.4.0 can't maintain a connection. Support was no help.
+206,R00091,1.5976565483899925,3.0,battery_drain,2,2026-09-17,3.4.1,"Since 3.4.1, the app drains battery even in the background. video doorbell polling is out of control."
+207,R01211,1.585355350041604,4.5,login_auth,1,2026-06-30,3.2.1,Can't log in since 3.3.0 -- 'invalid credentials' even though my password is right. Reinstalling didn't help.
+208,R00874,1.5800492723824653,3.0,performance,2,2026-09-02,3.3.0,The app is painfully slow to arm/disarm the smoke detector. Takes three tries.
+209,R00400,1.5765043154273435,5.0,crash,2,2026-05-15,3.4.0,App force closes during thermostat setup on the very last step. Unacceptable. Really disappointing.
+210,R01281,1.5761829406839665,5.0,crash,1,2026-04-16,3.4.1,The latest update crashes on launch whenever my garage sensor is connected. Hope this gets fixed soon.
+211,R00958,1.5733125881400687,4.0,connectivity,1,2026-05-08,3.2.1,App disconnects from the garage sensor whenever my phone switches between Wi-Fi and data. This started after the update.
+212,R01146,1.5731924186037547,4.5,login_auth,1,2026-06-29,3.4.0,Face ID stopped working with the app on 3.4.0. Have to type the password each time. Considering switching apps.
+213,R00184,1.5614411058961561,4.5,login_auth,2,2026-07-27,3.4.1,"Two-factor code never arrives, so I'm locked out of controlling my video doorbell. Hope this gets fixed soon."
+214,R01134,1.5612420494186705,4.0,connectivity,1,2026-05-07,3.2.0,Great app otherwise -- however my thermostat keeps showing offline since 3.4.0. Hope this gets fixed soon.
+215,R00766,1.5573162678341155,4.0,connectivity,3,2026-07-12,3.2.1,'Device offline' error all day for my smart lock even though it's two feet from the router. Support was no help.
+216,R00735,1.5491886727772612,3.0,battery_drain,2,2026-09-13,3.4.1,Woke up to a dead phone. The app was top of battery stats because of the video doorbell. Really disappointing.
+217,R00776,1.5369898305399023,3.0,battery_drain,1,2026-08-14,3.2.1,Battery saver mode does nothing -- the kitchen plug stream keeps running in the background. Reinstalling didn't help.
+218,R00445,1.5369898305399023,3.0,battery_drain,1,2026-08-14,3.3.0,Background battery drain is ridiculous. Turned off garage sensor notifications and it still drains. Support was no help.
+219,R01141,1.5255089411626803,3.0,battery_drain,2,2026-09-11,3.3.0,Battery saver mode does nothing -- the smoke detector stream keeps running in the background. Really disappointing.
+220,R00162,1.5254667077576927,4.5,login_auth,1,2026-06-25,3.2.1,Password reset email never comes. Can't access my kitchen plug at all now. Considering switching apps.
+221,R01251,1.5169500312706763,5.0,crash,2,2026-05-10,3.3.2,The app is great when it works -- sadly the garage sensor screen crashes on launch. Considering switching apps.
+222,R00816,1.5169500312706763,5.0,crash,2,2026-05-10,3.2.1,App crashes when I try to view the bedroom speaker live feed. Was fine before 3.3.0. Really disappointing.
+223,R00943,1.5166407968320228,5.0,crash,1,2026-04-11,3.3.2,The app is great when it works -- sadly the smart plug screen crashes on launch. Reinstalling didn't help.
+224,R01296,1.5137632452016851,4.5,login_auth,1,2026-06-24,3.2.0,Biometric login crashes back to the password field on 3.2.1.
+225,R00691,1.5086967814991596,3.0,performance,2,2026-08-27,3.3.0,Switching rooms with the smoke detector takes ages -- the UI just hangs. This started after the update.
+226,R00087,1.508389229508186,3.0,performance,1,2026-07-29,3.4.0,Search in the garage sensor history times out on anything older than a week. Really disappointing.
+227,R01247,1.508389229508186,3.0,performance,1,2026-07-29,3.2.1,Live view from the video doorbell lags 10 seconds behind real time. Useless for a doorbell. Really disappointing.
+228,R01290,1.5050050471389154,5.0,crash,1,2026-04-10,3.3.2,The latest update crashes on launch whenever my video doorbell is connected. Really disappointing.
+229,R00835,1.4820006731584692,5.0,crash,1,2026-04-08,3.4.1,Crashes constantly since the 3.3.0 update. My living room bulb is basically bricked in the app. Honestly pretty annoyed.
+230,R01175,1.4793018338978352,4.0,connectivity,1,2026-04-30,3.2.1,"Since 3.4.1, the app loses connection to the garage sensor and never reconnects on its own. Hope this gets fixed soon."
+231,R01275,1.4792297970744896,3.0,battery_drain,2,2026-09-07,3.3.2,This app eats my phone battery alive -- lost 40% overnight with the thermostat idle. Hope this gets fixed soon.
+232,R01244,1.4739375718927756,3.0,performance,1,2026-07-26,3.4.1,The app looks beautiful but everything lags; opening the smart lock takes forever. Reinstalling didn't help.
+233,R00164,1.4709305375938606,5.0,crash,2,2026-05-06,3.3.0,App force closes during bedroom speaker setup on the very last step. Unacceptable. Hope this gets fixed soon.
+234,R00820,1.4682518579168384,4.0,connectivity,2,2026-05-28,3.4.0,The kitchen plug pairs fine in Bluetooth settings but the app says device not found.
+235,R00955,1.4678404285928868,4.5,login_auth,1,2026-06-20,3.4.1,Password reset email never comes. Can't access my kitchen plug at all now. Considering switching apps.
+236,R01236,1.4596454794659632,5.0,crash,2,2026-05-05,3.4.1,Every time I adjust the smart plug settings the app force quits. So frustrating. Really disappointing.
+237,R00826,1.4596454794659632,5.0,crash,2,2026-05-05,3.4.1,The latest update crashes on launch whenever my thermostat is connected. Otherwise I like the app.
+238,R01112,1.456579077947298,4.5,login_auth,1,2026-06-19,3.3.2,Biometric login crashes back to the password field on 3.2.0.
+239,R00082,1.4556783604143941,5.0,crash,3,2026-06-11,3.4.0,The latest update crashes on launch whenever my video doorbell is connected.
+240,R01212,1.4512796214095547,2.0,ui_bug,1,2026-09-19,3.4.0,Buttons on the video doorbell schedule screen overlap so I can't tap save. Honestly pretty annoyed.
+241,R00342,1.4343149068703354,4.5,login_auth,1,2026-06-17,3.4.0,Biometric login crashes back to the password field on 3.2.1.
+242,R00287,1.4292229409744968,3.0,performance,1,2026-07-22,3.3.2,"Best smart home app I've used, if only the kitchen plug page didn't lag so badly."
+243,R00132,1.4234194865377205,4.0,connectivity,1,2026-04-25,3.3.2,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Considering switching apps."
+244,R00772,1.4233501709891632,3.0,battery_drain,2,2026-09-02,3.2.1,Phone battery dropped 15% during a 20-minute garage sensor live view. Fix the power usage.
+245,R00671,1.4230600171396233,3.0,battery_drain,1,2026-08-04,3.2.1,"Since 3.2.1, the app drains battery even in the background. video doorbell polling is out of control. Considering switching apps."
+246,R00172,1.418257865769106,3.0,performance,1,2026-07-21,3.3.0,"Love the automations, but the bedroom speaker live view buffers constantly. This started after the update."
+247,R00046,1.4124989357466298,4.0,connectivity,1,2026-04-24,3.4.0,Intermittent connectivity: garage sensor responds maybe one time out of three. Really disappointing.
+248,R00864,1.4123910491489942,4.5,login_auth,1,2026-06-15,3.2.0,"Login screen loops forever: enter password, spinner, back to login. This started after the update."
+249,R00412,1.407663871364114,3.0,performance,2,2026-08-18,3.2.0,Scrolling the garage sensor event history stutters and freezes the whole app. Support was no help.
+250,R00413,1.3937302307538697,5.0,crash,2,2026-04-29,3.4.1,Rotated my phone while on the smart plug page and the app crashed instantly. Anyone else seeing this?
+251,R01186,1.385864811346561,3.0,performance,1,2026-07-18,3.4.1,Live view from the thermostat lags 10 seconds behind real time. Useless for a doorbell. Honestly pretty annoyed.
+252,R00598,1.3827555215366085,5.0,crash,1,2026-03-30,3.4.0,"I love this app overall, but it crashes every time I open the bedroom speaker controls. Reinstalling didn't help."
+253,R01177,1.3802374154675827,4.0,connectivity,1,2026-04-21,3.4.0,App can't find the smoke detector half the time. Re-pairing works for a day then it drops again. Honestly pretty annoyed.
+254,R01274,1.3801319930032423,4.5,login_auth,1,2026-06-12,3.3.0,"Login screen loops forever: enter password, spinner, back to login."
+255,R00867,1.3766616171160415,4.5,login_auth,3,2026-08-17,3.2.0,Can't log in since 3.2.1 -- 'invalid credentials' even though my password is right.
+256,R00382,1.3695814627731302,3.0,battery_drain,2,2026-08-28,3.3.0,Constant location polling for the bedroom speaker geofence is killing my battery. Otherwise I like the app.
+257,R00207,1.3695814627731302,3.0,battery_drain,2,2026-08-28,3.4.0,The widget alone drains my battery keeping the bedroom speaker status updated.
+258,R00728,1.3693022698227362,3.0,battery_drain,1,2026-07-30,3.2.0,"Five stars for the features, but the battery drain from the smart lock sync is brutal. Honestly pretty annoyed."
+259,R00099,1.3645607501225807,2.0,ui_bug,1,2026-09-11,3.4.0,Icons for the kitchen plug are missing -- just empty boxes on 3.4.1. Considering switching apps.
+260,R00643,1.3618973882893055,5.0,crash,2,2026-04-26,3.4.0,App keeps crashing every time I open the thermostat controls on version 3.4.0. Really disappointing.
+261,R00853,1.3594172665140327,4.0,connectivity,2,2026-05-18,3.4.1,The kitchen plug works in the old app but this version 3.4.1 can't maintain a connection. Otherwise I like the app.
+262,R01006,1.3587969092263827,3.0,battery_drain,1,2026-07-29,3.3.0,The app used 25% of my battery in 3 hours just syncing the kitchen plug.
+263,R01170,1.3489877441942544,4.0,connectivity,2,2026-05-17,3.2.1,App disconnects from the security camera whenever my phone switches between Wi-Fi and data. Considering switching apps.
+264,R00933,1.3487127493300686,4.0,connectivity,1,2026-04-18,3.3.0,The living room bulb works in the old app but this version 3.4.0 can't maintain a connection. This started after the update.
+265,R00872,1.3386382377301653,4.0,connectivity,2,2026-05-16,3.3.0,Great app otherwise -- however my smart lock keeps showing offline since 3.4.0.
+266,R00404,1.3385359926089275,4.5,login_auth,2,2026-07-07,3.4.1,"Really like the design, but logging in has been broken for me since 3.4.0. Honestly pretty annoyed."
+267,R00800,1.3382631283630664,4.5,login_auth,1,2026-06-08,3.3.2,"Really like the design, but logging in has been broken for me since 3.2.1."
+268,R00777,1.334898032767177,4.5,login_auth,3,2026-08-13,3.3.0,Can't stay signed in on two phones -- the second login kicks out the first. Otherwise I like the app.
+269,R00436,1.33052032341952,5.0,crash,1,2026-03-25,3.2.0,Rotated my phone while on the kitchen plug page and the app crashed instantly. Considering switching apps.
+270,R00586,1.3178074458072957,4.5,login_auth,1,2026-06-06,3.3.0,"Great app when you're in, but I get logged out daily and can't reach my thermostat. Anyone else seeing this?"
+271,R00033,1.313396832977143,3.0,performance,2,2026-08-09,3.3.0,Video from the thermostat buffers constantly even on fast Wi-Fi. Really disappointing.
+272,R00585,1.310450130415851,5.0,crash,2,2026-04-21,3.2.0,"Crash report sent three times this week, all from the smart plug screen. Reinstalling didn't help."
+273,R00439,1.3029393752802463,2.0,ui_bug,1,2026-09-05,3.4.0,Text is cut off on the smart lock details screen on my small phone. Reinstalling didn't help.
+274,R00052,1.2977003599840031,3.0,battery_drain,2,2026-08-21,3.2.1,Battery saver mode does nothing -- the smoke detector stream keeps running in the background. Reinstalling didn't help.
+275,R00177,1.293057590796275,3.0,performance,1,2026-07-09,3.3.2,App takes forever to load the smart lock dashboard -- 20+ seconds of spinner. Otherwise I like the app.
+276,R01043,1.29015652082334,5.0,crash,1,2026-03-21,3.3.0,"Crash report sent three times this week, all from the smart lock screen. Support was no help."
+277,R00030,1.2879712386290751,4.5,login_auth,2,2026-07-02,3.2.0,The app logs me out every day and I have to sign back in to see my smoke detector.
+278,R01023,1.28780704478475,4.0,connectivity,1,2026-04-12,3.2.1,Great app otherwise -- however my smart plug keeps showing offline since 3.2.0.
+279,R00885,1.2779269199342016,4.0,connectivity,1,2026-04-11,3.4.0,The smart lock works in the old app but this version 3.2.0 can't maintain a connection. Anyone else seeing this?
+280,R01180,1.2680257367923695,4.5,login_auth,1,2026-06-01,3.2.0,Face ID stopped working with the app on 3.2.0. Have to type the password each time.
+281,R01196,1.2678023451064595,3.0,battery_drain,1,2026-07-20,3.3.2,Phone battery dropped 15% during a 20-minute video doorbell live view. Fix the power usage. Hope this gets fixed soon.
+282,R00599,1.2672416166367295,5.0,crash,3,2026-05-24,3.3.2,Background crash loop drained my patience -- kitchen plug alerts kill the app.
+283,R00610,1.2537193249226188,2.0,ui_bug,1,2026-08-31,3.3.2,"Huge fan of the product, but the UI on the living room bulb page is glitchy and unreadable. Really disappointing."
+284,R00068,1.2484236730312,3.0,battery_drain,1,2026-07-18,3.3.0,"Since 3.2.1, the app drains battery even in the background. garage sensor polling is out of control. This started after the update."
+285,R00880,1.2416724760120614,5.0,crash,2,2026-04-14,3.4.1,"I love this app overall, but it crashes every time I open the security camera controls. This started after the update."
+286,R00894,1.2414193576606354,5.0,crash,1,2026-03-16,3.4.1,App crashes when I try to view the living room bulb live feed. Was fine before 3.2.1. Considering switching apps.
+287,R01106,1.2414193576606354,5.0,crash,1,2026-03-16,3.2.1,Rotated my phone while on the smart lock page and the app crashed instantly. Otherwise I like the app.
+288,R00416,1.238845699525091,3.0,battery_drain,1,2026-07-17,3.3.2,Background battery drain is ridiculous. Turned off smart lock notifications and it still drains. Really disappointing.
+289,R00721,1.232146298052273,5.0,crash,2,2026-04-13,3.3.0,Rotated my phone while on the thermostat page and the app crashed instantly. Honestly pretty annoyed.
+290,R00615,1.2299024631713207,4.0,connectivity,2,2026-05-05,3.2.1,"Sync fails repeatedly with the kitchen plug. Spinning loader, then 'connection timeout'. Considering switching apps."
+291,R00282,1.229591864431922,3.0,battery_drain,2,2026-08-14,3.3.2,Woke up to a dead phone. The app was top of battery stats because of the security camera. Really disappointing.
+292,R00663,1.229341208746413,3.0,battery_drain,1,2026-07-16,3.2.1,Phone battery dropped 15% during a 20-minute video doorbell live view. Fix the power usage. Anyone else seeing this?
+293,R00765,1.222111988920234,3.0,performance,3,2026-09-06,3.4.1,Scrolling the bedroom speaker event history stutters and freezes the whole app. This started after the update.
+294,R00860,1.2108562134551675,4.0,connectivity,1,2026-04-04,3.2.0,App disconnects from the smart lock whenever my phone switches between Wi-Fi and data. Considering switching apps.
+295,R00330,1.2037585981745207,5.0,crash,1,2026-03-12,3.2.1,The app is great when it works -- sadly the smart plug screen crashes on launch. Support was no help.
+296,R00138,1.2018114520896892,4.0,connectivity,4,2026-07-31,3.4.1,App disconnects from the kitchen plug whenever my phone switches between Wi-Fi and data. Support was no help.
+297,R00353,1.2017196577914533,4.5,login_auth,2,2026-06-23,3.4.1,"Login screen loops forever: enter password, spinner, back to login."
+298,R00494,1.2014746839319754,4.5,login_auth,1,2026-05-25,3.3.2,Can't stay signed in on two phones -- the second login kicks out the first. Anyone else seeing this?
+299,R01192,1.1985450910622681,4.0,connectivity,3,2026-06-08,3.3.0,Had to factory reset the smart lock three times this month because the app loses it. Considering switching apps.
+300,R01282,1.1880242705746484,3.0,performance,1,2026-06-28,3.3.2,App takes forever to load the smoke detector dashboard -- 20+ seconds of spinner.
+301,R00335,1.1879191296709943,2.0,ui_bug,1,2026-08-24,3.4.0,"Really happy with the security camera itself, but the app UI shows the wrong status half the time. Support was no help."
+302,R00974,1.183200219318262,4.0,connectivity,1,2026-04-01,3.2.0,The security camera works in the old app but this version 3.3.2 can't maintain a connection. Support was no help.
+303,R00423,1.1762647137946667,5.0,crash,1,2026-03-09,3.3.2,App crashes when I try to view the bedroom speaker live feed. Was fine before 3.2.0. Really disappointing.
+304,R01135,1.1740329642255145,4.5,login_auth,1,2026-05-22,3.3.2,App says my session expired in the middle of video doorbell setup and lost my progress. Considering switching apps.
+305,R01152,1.1652632623578385,4.5,login_auth,2,2026-06-19,3.4.0,Face ID stopped working with the app on 3.4.0. Have to type the password each time. Support was no help.
+306,R00115,1.1648204743536694,3.0,battery_drain,1,2026-07-09,3.2.0,Constant location polling for the garage sensor geofence is killing my battery. Honestly pretty annoyed.
+307,R01214,1.1648204743536694,3.0,battery_drain,1,2026-07-09,3.2.1,Phone battery dropped 15% during a 20-minute smart lock live view. Fix the power usage. Honestly pretty annoyed.
+308,R00310,1.161126457557736,3.0,performance,2,2026-07-24,3.3.0,Live view from the smoke detector lags 10 seconds behind real time. Useless for a doorbell. Considering switching apps.
+309,R00906,1.1610236971276438,2.0,ui_bug,2,2026-09-19,3.4.1,Buttons on the living room bulb schedule screen overlap so I can't tap save. Honestly pretty annoyed.
+310,R01138,1.1585213848024485,5.0,crash,2,2026-04-05,3.3.0,App keeps crashing every time I open the bedroom speaker controls on version 3.3.0.
+311,R01230,1.1582852170298046,5.0,crash,1,2026-03-07,3.3.2,Instant crash when switching between the video doorbell and the dashboard. Considering switching apps.
+312,R00706,1.1579706728443522,3.0,performance,3,2026-08-30,3.2.1,The app is painfully slow to arm/disarm the living room bulb. Takes three tries. Reinstalling didn't help.
+313,R00463,1.1496331464827152,5.0,crash,2,2026-04-04,3.3.2,The app won't stay open for more than a few seconds if the living room bulb is online. Hope this gets fixed soon.
+314,R00769,1.1493987906019139,5.0,crash,1,2026-03-06,3.2.1,The app won't stay open for more than a few seconds if the garage sensor is online. This started after the update.
+315,R00973,1.1475395745112256,4.0,connectivity,2,2026-04-26,3.4.1,App disconnects from the living room bulb whenever my phone switches between Wi-Fi and data. Honestly pretty annoyed.
+316,R00575,1.1433783527795973,3.0,performance,2,2026-07-22,3.4.0,Live view from the bedroom speaker lags 10 seconds behind real time. Useless for a doorbell.
+317,R00611,1.143145271955706,3.0,performance,1,2026-06-23,3.3.0,Every tap has a delay on 3.3.2. The kitchen plug controls feel like they're on dial-up.
+318,R01179,1.143145271955706,3.0,performance,1,2026-06-23,3.2.0,"Best smart home app I've used, if only the garage sensor page didn't lag so badly."
+319,R00134,1.1430441028719778,2.0,ui_bug,1,2026-08-19,3.3.2,Toggle switches on the bedroom speaker page don't reflect the real state. Confusing. Anyone else seeing this?
+320,R01279,1.1386486126631719,4.5,login_auth,2,2026-06-16,3.4.1,"Login screen loops forever: enter password, spinner, back to login. Really disappointing."
+321,R00532,1.13450587923666,2.0,ui_bug,2,2026-09-16,3.4.0,Text is cut off on the smoke detector details screen on my small phone. Honestly pretty annoyed.
+322,R00871,1.134375,3.0,performance,1,2026-06-22,3.4.0,Every tap has a delay on 3.3.2. The thermostat controls feel like they're on dial-up. Reinstalling didn't help.
+323,R00344,1.1294834841106607,3.0,battery_drain,1,2026-07-05,3.2.1,Constant location polling for the smart lock geofence is killing my battery. Support was no help.
+324,R01057,1.121101148254081,4.0,connectivity,1,2026-03-25,3.2.0,Had to factory reset the thermostat three times this month because the app loses it.
+325,R01114,1.1182821118055832,4.0,connectivity,3,2026-05-30,3.4.0,'Device offline' error all day for my smoke detector even though it's two feet from the router. Support was no help.
+326,R01052,1.1145296457481861,5.0,crash,1,2026-03-02,3.2.0,Rotated my phone while on the smoke detector page and the app crashed instantly.
+327,R00635,1.1125,4.0,connectivity,1,2026-03-24,3.3.2,"My video doorbell shows offline in the app constantly, but my Wi-Fi is fine. Anyone else seeing this?"
+328,R00916,1.1125,4.0,connectivity,1,2026-03-24,3.3.2,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Hope this gets fixed soon."
+329,R00839,1.104105594402594,4.5,login_auth,2,2026-06-12,3.4.0,Face ID stopped working with the app on 3.4.1. Have to type the password each time.
+330,R00086,1.1036860456805755,3.0,battery_drain,1,2026-07-02,3.3.2,Phone battery dropped 15% during a 20-minute garage sensor live view. Fix the power usage. This started after the update.
+331,R00633,1.1011888934376288,4.0,connectivity,3,2026-05-28,3.3.0,Great app otherwise -- however my living room bulb keeps showing offline since 3.3.0.
+332,R01040,1.0977175574961344,5.0,crash,4,2026-06-27,3.4.1,App keeps crashing every time I open the video doorbell controls on version 3.4.0. Considering switching apps.
+333,R01034,1.0957185278769754,4.0,connectivity,2,2026-04-20,3.3.2,"Love the new dashboard design, but my bedroom speaker won't stay connected since 3.4.1. Hope this gets fixed soon."
+334,R00072,1.0954114887741575,4.5,login_auth,1,2026-05-13,3.2.1,Biometric login crashes back to the password field on 3.3.0. Hope this gets fixed soon.
+335,R01025,1.0952185070292746,3.0,battery_drain,1,2026-07-01,3.3.0,"Five stars for the features, but the battery drain from the smoke detector sync is brutal. Hope this gets fixed soon."
+336,R00366,1.0924645531195911,3.0,battery_drain,3,2026-09-05,3.4.0,This app eats my phone battery alive -- lost 40% overnight with the smoke detector idle. Reinstalling didn't help.
+337,R00541,1.0917452202445208,3.0,performance,2,2026-07-16,3.4.0,Search in the smart plug history times out on anything older than a week. Honestly pretty annoyed.
+338,R01147,1.0870904648830986,4.0,connectivity,1,2026-03-21,3.3.2,'Device offline' error all day for my thermostat even though it's two feet from the router. Really disappointing.
+339,R00952,1.084274126006364,4.5,login_auth,3,2026-07-17,3.4.0,Password reset email never comes. Can't access my kitchen plug at all now. Support was no help.
+340,R01232,1.0748384713649577,3.0,performance,1,2026-06-15,3.2.0,"Love the automations, but the smoke detector live view buffers constantly."
+341,R00652,1.0702036817573282,3.0,battery_drain,1,2026-06-28,3.2.0,Background battery drain is ridiculous. Turned off video doorbell notifications and it still drains. Reinstalling didn't help.
+342,R00218,1.0677822852607708,4.0,connectivity,3,2026-05-24,3.2.1,App disconnects from the security camera whenever my phone switches between Wi-Fi and data. This started after the update.
+343,R00246,1.0675126282418723,3.0,battery_drain,3,2026-09-02,3.3.0,Massive battery drain on 3.2.0. Had to uninstall to get through the day. Considering switching apps.
+344,R00478,1.0668097249523747,3.0,performance,2,2026-07-13,3.4.0,App startup is so slow now that the smoke detector alerts arrive before the app opens.
+345,R00741,1.0641992745519067,5.0,crash,1,2026-02-24,3.3.2,App crashes when I try to view the bedroom speaker live feed. Was fine before 3.3.0. Anyone else seeing this?
+346,R00931,1.0622612843503383,4.0,connectivity,1,2026-03-18,3.2.1,"Setup was a breeze and I love the widgets, but the smart lock drops offline every night. Really disappointing."
+347,R00157,1.0586251034153258,3.0,performance,2,2026-07-12,3.4.1,Live view from the living room bulb lags 10 seconds behind real time. Useless for a doorbell. Honestly pretty annoyed.
+348,R01132,1.0583156298782765,2.0,ui_bug,1,2026-08-09,3.2.1,"Really happy with the thermostat itself, but the app UI shows the wrong status half the time. Support was no help."
+349,R00898,1.054111558694008,4.0,connectivity,1,2026-03-17,3.4.0,App disconnects from the smoke detector whenever my phone switches between Wi-Fi and data. Otherwise I like the app.
+350,R00473,1.0513806586824024,4.5,login_auth,3,2026-07-13,3.2.0,Biometric login crashes back to the password field on 3.4.0. Support was no help.
+351,R00836,1.050289126750895,3.0,performance,1,2026-06-12,3.4.0,"Love the automations, but the thermostat live view buffers constantly. This started after the update."
+352,R01263,1.0479327257133817,5.0,crash,1,2026-02-22,3.4.0,"I love this app overall, but it crashes every time I open the smart lock controls. Considering switching apps."
+353,R00317,1.0460243581708548,4.0,connectivity,1,2026-03-16,3.4.1,The security camera works in the old app but this version 3.2.0 can't maintain a connection.
+354,R01182,1.0457601958842047,3.0,battery_drain,1,2026-06-25,3.2.0,This app eats my phone battery alive -- lost 40% overnight with the bedroom speaker idle. Honestly pretty annoyed.
+355,R01016,1.0401049577869932,5.0,crash,2,2026-03-22,3.2.1,App force closes during security camera setup on the very last step. Unacceptable. Anyone else seeing this?
+356,R00993,1.0379486561553888,3.0,battery_drain,2,2026-07-23,3.2.1,Background battery drain is ridiculous. Turned off thermostat notifications and it still drains. Otherwise I like the app.
+357,R01188,1.0379199207577983,4.5,login_auth,1,2026-05-06,3.2.1,Password reset email never comes. Can't access my kitchen plug at all now.
+358,R00443,1.0316345880811397,3.0,performance,3,2026-08-15,3.4.1,App startup is so slow now that the smart lock alerts arrive before the app opens. Considering switching apps.
+359,R00394,1.0316345880811397,3.0,performance,3,2026-08-15,3.4.1,Every tap has a delay on 3.2.0. The garage sensor controls feel like they're on dial-up.
+360,R00736,1.0274455674912175,4.0,connectivity,3,2026-05-19,3.3.2,Firmware update for the smoke detector failed halfway and now the app won't connect at all. Support was no help.
+361,R01021,1.0142912685210164,4.0,connectivity,1,2026-03-12,3.3.0,The thermostat pairs fine in Bluetooth settings but the app says device not found. Reinstalling didn't help.
+362,R00183,1.0116635314336753,4.5,login_auth,3,2026-07-08,3.4.0,"Really like the design, but logging in has been broken for me since 3.3.2."
+363,R00557,1.0085514441303773,5.0,crash,2,2026-03-18,3.4.1,The app won't stay open for more than a few seconds if the living room bulb is online. This started after the update.
+364,R00878,1.0064326942534791,4.5,login_auth,1,2026-05-02,3.3.2,Can't stay signed in on two phones -- the second login kicks out the first. Honestly pretty annoyed.
+365,R00123,1.0062553881548721,3.0,battery_drain,1,2026-06-20,3.3.2,"Five stars for the features, but the battery drain from the smart plug sync is brutal. Considering switching apps."
+366,R00987,1.00060976461038,5.0,crash,1,2026-02-16,3.3.0,The latest update crashes on launch whenever my security camera is connected. This started after the update.
+367,R01059,0.9987875758852236,4.0,connectivity,1,2026-03-10,3.4.1,Connection keeps dropping -- the video doorbell goes 'unreachable' every few hours. Support was no help.
+368,R00624,0.9931354861285082,5.0,crash,2,2026-03-16,3.4.1,"Crash report sent three times this week, all from the bedroom speaker screen."
+369,R00582,0.9913269086496739,4.0,connectivity,2,2026-04-07,3.2.0,The garage sensor pairs fine in Bluetooth settings but the app says device not found. Really disappointing.
+370,R00060,0.9886326161512817,4.0,connectivity,3,2026-05-14,3.2.0,'Device offline' error all day for my bedroom speaker even though it's two feet from the router. Support was no help.
+371,R00390,0.9875307952390409,3.0,performance,1,2026-06-04,3.3.2,The app is painfully slow to arm/disarm the kitchen plug. Takes three tries. Hope this gets fixed soon.
+372,R00409,0.9723500818317231,2.0,ui_bug,1,2026-07-29,3.3.2,Dark mode is broken on the kitchen plug page -- white text on a white background.
+373,R00498,0.9684403397142715,3.0,battery_drain,2,2026-07-14,3.3.0,Battery usage doubled after the update. The app keeps the smart lock connection awake nonstop. Considering switching apps.
+374,R00781,0.9678146823040032,5.0,crash,3,2026-04-19,3.3.0,App force closes during video doorbell setup on the very last step. Unacceptable.
+375,R00658,0.9630068785396165,5.0,crash,2,2026-03-12,3.2.0,"I love this app overall, but it crashes every time I open the smart plug controls. Honestly pretty annoyed."
+376,R00125,0.9608145087692967,3.0,battery_drain,1,2026-06-14,3.4.1,Battery saver mode does nothing -- the video doorbell stream keeps running in the background. Support was no help.
+377,R00369,0.9574874705966994,2.0,ui_bug,1,2026-07-27,3.4.0,The video doorbell status card shows yesterday's data until I force-refresh the app. Support was no help.
+378,R00331,0.9538055244745088,4.5,login_auth,2,2026-05-24,3.2.1,App says my session expired in the middle of kitchen plug setup and lost my progress. This started after the update.
+379,R00451,0.9536839309240435,4.0,connectivity,1,2026-03-04,3.2.1,Connection keeps dropping -- the smart plug goes 'unreachable' every few hours. Honestly pretty annoyed.
+380,R00702,0.9536110885933888,4.5,login_auth,1,2026-04-25,3.4.1,"Great app when you're in, but I get logged out daily and can't reach my garage sensor."
+381,R00292,0.9510456320993087,3.0,battery_drain,3,2026-08-18,3.4.0,Massive battery drain on 3.4.0. Had to uninstall to get through the day.
+382,R00371,0.9465601754546096,4.0,connectivity,4,2026-06-30,3.3.2,Great app otherwise -- however my smart plug keeps showing offline since 3.2.0. Hope this gets fixed soon.
+383,R00450,0.9465601754546096,4.0,connectivity,4,2026-06-30,3.2.1,Firmware update for the living room bulb failed halfway and now the app won't connect at all. Considering switching apps.
+384,R00756,0.9463672165578269,4.0,connectivity,1,2026-03-03,3.3.0,The smoke detector works in the old app but this version 3.3.0 can't maintain a connection. Considering switching apps.
+385,R00551,0.9457097644103798,5.0,crash,3,2026-04-16,3.3.2,The app is great when it works -- sadly the security camera screen crashes on launch. This started after the update.
+386,R01103,0.9430442802183049,2.0,ui_bug,2,2026-08-23,3.2.1,The bedroom speaker history graph renders blank after midnight. Graphs worked in the old version. Really disappointing.
+387,R01229,0.9429354884369747,3.0,performance,1,2026-05-29,3.4.0,The app looks beautiful but everything lags; opening the thermostat takes forever. Honestly pretty annoyed.
+388,R00984,0.9392263713804115,4.5,login_auth,4,2026-08-20,3.2.1,Biometric login crashes back to the password field on 3.4.1. Reinstalling didn't help.
+389,R00505,0.9358920208632182,3.0,performance,2,2026-06-26,3.3.2,"Best smart home app I've used, if only the security camera page didn't lag so badly. Really disappointing."
+390,R00488,0.9320205761879204,4.5,login_auth,4,2026-08-19,3.3.2,Biometric login crashes back to the password field on 3.4.0. Hope this gets fixed soon.
+391,R00759,0.9320205761879204,4.5,login_auth,4,2026-08-19,3.3.2,Password reset email never comes. Can't access my video doorbell at all now. Honestly pretty annoyed.
+392,R00389,0.9287118069870732,3.0,performance,2,2026-06-25,3.4.1,"Best smart home app I've used, if only the smoke detector page didn't lag so badly. Really disappointing."
+393,R00047,0.9287118069870732,3.0,performance,2,2026-06-25,3.2.0,Scrolling the living room bulb event history stutters and freezes the whole app. Really disappointing.
+394,R00919,0.9264392779204889,5.0,crash,1,2026-02-06,3.2.1,The app crashes on my smart lock screen. Support was great though and sent a workaround. Really disappointing.
+395,R01032,0.9248700642433644,4.5,login_auth,2,2026-05-20,3.4.1,"Great app when you're in, but I get logged out daily and can't reach my kitchen plug."
+396,R01078,0.919331585996163,5.0,crash,1,2026-02-05,3.3.0,Opening the thermostat tab makes the app freeze then crash. Please fix this. Support was no help.
+397,R00206,0.919331585996163,5.0,crash,1,2026-02-05,3.4.1,App force closes during smoke detector setup on the very last step. Unacceptable. This started after the update.
+398,R00168,0.9176574111980242,4.0,connectivity,1,2026-02-27,3.4.0,Had to factory reset the video doorbell three times this month because the app loses it. Honestly pretty annoyed.
+399,R00509,0.9176574111980242,4.0,connectivity,1,2026-02-27,3.3.0,"My bedroom speaker shows offline in the app constantly, but my Wi-Fi is fine."
+400,R00095,0.9153499390368991,4.0,connectivity,3,2026-05-04,3.3.2,'Device offline' error all day for my smart lock even though it's two feet from the router. Support was no help.
+401,R00269,0.9152800246546157,4.5,login_auth,3,2026-06-25,3.3.2,Password reset email never comes. Can't access my bedroom speaker at all now. This started after the update.
+402,R00959,0.9072347056725122,2.0,ui_bug,1,2026-07-20,3.3.0,Dark mode is broken on the thermostat page -- white text on a white background. Otherwise I like the app.
+403,R00714,0.905463956888558,5.0,crash,2,2026-03-04,3.3.2,Crash after crash. The app dies the moment I tap my smart lock. Anyone else seeing this?
+404,R00998,0.9052793755690305,5.0,crash,1,2026-02-03,3.2.0,smart lock screen just force-closes the app. Completely unusable since 3.2.0.
+405,R00154,0.896471635428985,3.0,battery_drain,1,2026-06-05,3.2.0,Battery saver mode does nothing -- the security camera stream keeps running in the background.
+406,R01201,0.896471635428985,3.0,battery_drain,1,2026-06-05,3.3.0,This app eats my phone battery alive -- lost 40% overnight with the living room bulb idle. Honestly pretty annoyed.
+407,R00764,0.8916237165985489,5.0,crash,2,2026-03-02,3.2.1,Opening the kitchen plug tab makes the app freeze then crash. Please fix this.
+408,R00995,0.8914419566500942,5.0,crash,1,2026-02-01,3.4.1,Crash after crash. The app dies the moment I tap my smart plug. Hope this gets fixed soon.
+409,R00555,0.8914419566500942,5.0,crash,1,2026-02-01,3.2.1,App crashes when I try to view the video doorbell live feed. Was fine before 3.2.0. Considering switching apps.
+410,R00503,0.889750606752961,4.5,login_auth,1,2026-04-16,3.4.0,Face ID stopped working with the app on 3.2.0. Have to type the password each time. Otherwise I like the app.
+411,R00512,0.8866941914085829,2.0,ui_bug,2,2026-08-15,3.4.0,Buttons on the garage sensor schedule screen overlap so I can't tap save. Considering switching apps.
+412,R00155,0.8797120576350477,2.0,ui_bug,1,2026-07-16,3.2.1,Icons for the kitchen plug are missing -- just empty boxes on 3.4.0.
+413,R01165,0.8779950278008196,5.0,crash,2,2026-02-28,3.3.2,Crashes constantly since the 3.3.2 update. My living room bulb is basically bricked in the app. Support was no help.
+414,R00711,0.8761505489020021,4.5,login_auth,1,2026-04-14,3.4.1,Can't log in since 3.4.1 -- 'invalid credentials' even though my password is right.
+415,R00375,0.872962859455735,2.0,ui_bug,1,2026-07-15,3.2.0,The bedroom speaker history graph renders blank after midnight. Graphs worked in the old version. This started after the update.
+416,R00323,0.8707677728457328,2.0,ui_bug,3,2026-09-19,3.4.1,Toggle switches on the smart plug page don't reflect the real state. Confusing.
+417,R00666,0.8694286748090745,4.5,login_auth,1,2026-04-13,3.2.0,Face ID stopped working with the app on 3.4.0. Have to type the password each time. Honestly pretty annoyed.
+418,R00050,0.8688910386018364,5.0,crash,3,2026-04-05,3.4.1,"I love this app overall, but it crashes every time I open the video doorbell controls. Honestly pretty annoyed."
+419,R00685,0.8672424749934085,4.5,login_auth,3,2026-06-18,3.3.0,"'Account not found' error on login, but the website works fine with the same email. Honestly pretty annoyed."
+420,R00917,0.8645746568785433,5.0,crash,2,2026-02-26,3.3.2,Tapping notifications for the garage sensor crashes the app every single time.
+421,R00560,0.8628242737700148,4.0,connectivity,1,2026-02-19,3.2.1,Had to factory reset the kitchen plug three times this month because the app loses it. Anyone else seeing this?
+422,R01104,0.8627822572468391,3.0,battery_drain,2,2026-06-29,3.3.0,"Five stars for features, one star for the battery drain -- the smart plug sync never sleeps."
+423,R00346,0.8622248598620363,5.0,crash,3,2026-04-04,3.3.2,Background crash loop drained my patience -- garage sensor alerts kill the app. Hope this gets fixed soon.
+424,R01283,0.8562046395760147,4.0,connectivity,1,2026-02-18,3.2.1,App disconnects from the video doorbell whenever my phone switches between Wi-Fi and data. Considering switching apps.
+425,R01011,0.8532738022831919,3.0,performance,4,2026-09-12,3.4.0,The app looks beautiful but everything lags; opening the living room bulb takes forever. Support was no help.
+426,R00129,0.8530243601900351,2.0,ui_bug,1,2026-07-12,3.2.0,"Huge fan of the product, but the UI on the video doorbell page is glitchy and unreadable. Reinstalling didn't help."
+427,R00957,0.850879409427495,2.0,ui_bug,3,2026-09-16,3.2.0,Icons for the smoke detector are missing -- just empty boxes on 3.2.0.
+428,R00606,0.8498090274802707,4.0,connectivity,2,2026-03-18,3.4.1,"Since 3.3.0, the app loses connection to the smoke detector and never reconnects on its own. Hope this gets fixed soon."
+429,R00261,0.8495708964322636,4.5,login_auth,1,2026-04-10,3.4.1,Can't stay signed in on two phones -- the second login kicks out the first. Support was no help.
+430,R00971,0.8494212251209114,3.0,battery_drain,1,2026-05-29,3.4.1,Woke up to a dead phone. The app was top of battery stats because of the smoke detector. Hope this gets fixed soon.
+431,R00408,0.8490455398529697,5.0,crash,3,2026-04-02,3.3.0,Background crash loop drained my patience -- thermostat alerts kill the app. Really disappointing.
+432,R00259,0.8432892469552064,4.0,connectivity,2,2026-03-17,3.4.1,"Sync fails repeatedly with the smoke detector. Spinning loader, then 'connection timeout'. Support was no help."
+433,R00569,0.8430529428613962,4.5,login_auth,1,2026-04-09,3.2.0,Face ID stopped working with the app on 3.2.0. Have to type the password each time.
+434,R01073,0.836819486536684,4.0,connectivity,4,2026-06-14,3.3.0,The security camera works in the old app but this version 3.3.2 can't maintain a connection. Otherwise I like the app.
+435,R00708,0.8335412568769375,2.0,ui_bug,1,2026-07-09,3.4.0,The living room bulb temperature shows in Fahrenheit even though I set Celsius in settings.
+436,R01019,0.8208730206107144,3.0,performance,1,2026-05-11,3.3.0,"Love the automations, but the kitchen plug live view buffers constantly. Support was no help."
+437,R00341,0.820800372826229,2.0,ui_bug,1,2026-07-07,3.3.2,Icons for the smoke detector are missing -- just empty boxes on 3.2.0. Support was no help.
+438,R00352,0.8190313315099068,5.0,crash,1,2026-01-21,3.2.1,App force closes during smart plug setup on the very last step. Unacceptable. Anyone else seeing this?
+439,R00518,0.8173333503751689,3.0,battery_drain,1,2026-05-24,3.4.1,"Five stars for the features, but the battery drain from the garage sensor sync is brutal. This started after the update."
+440,R00061,0.8127476791222299,5.0,crash,1,2026-01-20,3.2.1,App crashes when I try to view the video doorbell live feed. Was fine before 3.4.1.
+441,R00238,0.811205637384993,4.5,login_auth,1,2026-04-04,3.4.1,"Really like the design, but logging in has been broken for me since 3.2.0. Reinstalling didn't help."
+442,R00325,0.80832577368122,3.0,performance,1,2026-05-09,3.3.2,The app looks beautiful but everything lags; opening the living room bulb takes forever. Anyone else seeing this?
+443,R00963,0.8052076571231167,4.0,connectivity,2,2026-03-11,3.3.0,"Since 3.4.0, the app loses connection to the video doorbell and never reconnects on its own. Otherwise I like the app."
+444,R00613,0.8050435133262104,4.0,connectivity,1,2026-02-10,3.3.0,Great app otherwise -- however my video doorbell keeps showing offline since 3.3.0. Reinstalling didn't help.
+445,R00938,0.8050435133262104,4.0,connectivity,1,2026-02-10,3.3.2,Had to factory reset the garage sensor three times this month because the app loses it. Really disappointing.
+446,R00271,0.8050043105238976,3.0,battery_drain,2,2026-06-20,3.3.2,Constant location polling for the garage sensor geofence is killing my battery. Honestly pretty annoyed.
+447,R01008,0.8048402081797552,3.0,battery_drain,1,2026-05-22,3.2.0,Woke up to a dead phone. The app was top of battery stats because of the kitchen plug.
+448,R00208,0.8022878034851963,3.0,performance,2,2026-06-06,3.2.1,The app is painfully slow to arm/disarm the smart lock. Takes three tries. Hope this gets fixed soon.
+449,R00824,0.80212425490849,3.0,performance,1,2026-05-08,3.3.0,Scrolling the smoke detector event history stutters and freezes the whole app. Hope this gets fixed soon.
+450,R01094,0.80212425490849,3.0,performance,1,2026-05-08,3.4.0,Every tap has a delay on 3.4.0. The security camera controls feel like they're on dial-up. Support was no help.
+451,R00914,0.800487811688304,5.0,crash,2,2026-02-16,3.4.0,Tapping notifications for the garage sensor crashes the app every single time.
+452,R00237,0.7926996207486919,3.0,battery_drain,2,2026-06-18,3.2.1,Constant location polling for the smart plug geofence is killing my battery. Really disappointing.
+453,R00016,0.792538026749424,3.0,battery_drain,1,2026-05-20,3.4.0,"Five stars for the features, but the battery drain from the garage sensor sync is brutal."
+454,R01287,0.7897936840649988,2.0,ui_bug,1,2026-07-02,3.4.1,Toggle switches on the kitchen plug page don't reflect the real state. Confusing. Otherwise I like the app.
+455,R00628,0.7882521577136716,5.0,crash,2,2026-02-14,3.4.0,App force closes during living room bulb setup on the very last step. Unacceptable. Reinstalling didn't help.
+456,R00187,0.7882521577136716,5.0,crash,2,2026-02-14,3.3.0,"Crash report sent three times this week, all from the kitchen plug screen. Hope this gets fixed soon."
+457,R00730,0.7868166888174377,4.0,connectivity,2,2026-03-08,3.3.0,App disconnects from the security camera whenever my phone switches between Wi-Fi and data.
+458,R00614,0.7866562940700341,4.0,connectivity,1,2026-02-07,3.3.0,The security camera works in the old app but this version 3.3.2 can't maintain a connection. Support was no help.
+459,R00922,0.7866562940700341,4.0,connectivity,1,2026-02-07,3.4.1,'Device offline' error all day for my smart lock even though it's two feet from the router. Honestly pretty annoyed.
+460,R00850,0.7865962093018773,4.5,login_auth,1,2026-03-31,3.2.0,Can't stay signed in on two phones -- the second login kicks out the first. Hope this gets fixed soon.
+461,R00289,0.7846782274443087,4.0,connectivity,3,2026-04-14,3.3.2,"My thermostat shows offline in the app constantly, but my Wi-Fi is fine."
+462,R00801,0.7820451902318033,5.0,crash,1,2026-01-15,3.3.2,"Crash report sent three times this week, all from the garage sensor screen. This started after the update."
+463,R00876,0.7817636251681477,2.0,ui_bug,3,2026-09-05,3.4.1,The kitchen plug history graph renders blank after midnight. Graphs worked in the old version. Really disappointing.
+464,R00631,0.7804238872017009,3.0,battery_drain,1,2026-05-18,3.2.0,Battery usage doubled after the update. The app keeps the smart plug connection awake nonstop. Hope this gets fixed soon.
+465,R00888,0.7778800654653785,2.0,ui_bug,2,2026-07-29,3.4.1,Icons for the garage sensor are missing -- just empty boxes on 3.3.2. Hope this gets fixed soon.
+466,R00796,0.7744364332014066,3.0,battery_drain,1,2026-05-17,3.4.1,Battery usage doubled after the update. The app keeps the video doorbell connection awake nonstop. Anyone else seeing this?
+467,R00051,0.7719804485629015,3.0,performance,4,2026-08-30,3.4.1,The app looks beautiful but everything lags; opening the video doorbell takes forever.
+468,R00760,0.76863032705192,4.5,login_auth,1,2026-03-28,3.3.2,Face ID stopped working with the app on 3.3.0. Have to type the password each time. Honestly pretty annoyed.
+469,R00767,0.7659016100922702,3.0,performance,1,2026-05-02,3.2.0,Every tap has a delay on 3.4.0. The thermostat controls feel like they're on dial-up. Really disappointing.
+470,R00903,0.7584750156353383,5.0,crash,2,2026-02-09,3.3.2,App force closes during thermostat setup on the very last step. Unacceptable. Honestly pretty annoyed.
+471,R00901,0.7548454184321018,3.0,battery_drain,3,2026-07-19,3.2.1,The widget alone drains my battery keeping the smart plug status updated. Support was no help.
+472,R00429,0.7512853091339254,4.0,connectivity,4,2026-05-31,3.3.2,The bedroom speaker works in the old app but this version 3.4.1 can't maintain a connection. Considering switching apps.
+473,R01181,0.7512853091339253,4.0,connectivity,2,2026-03-02,3.4.0,The bedroom speaker works in the old app but this version 3.4.0 can't maintain a connection.
+474,R01159,0.7511321575560558,4.0,connectivity,1,2026-02-01,3.4.1,Had to factory reset the thermostat three times this month because the app loses it. Considering switching apps.
+475,R01056,0.7506103374408175,5.0,crash,3,2026-03-17,3.4.1,Rotated my phone while on the security camera page and the app crashed instantly. This started after the update.
+476,R00690,0.7483421585226417,2.0,ui_bug,1,2026-06-25,3.3.2,Toggle switches on the thermostat page don't reflect the real state. Confusing. Reinstalling didn't help.
+477,R01220,0.7468815376282909,5.0,crash,4,2026-05-08,3.4.1,The app is great when it works -- sadly the kitchen plug screen crashes on launch. Support was no help.
+478,R01197,0.7453694312796544,4.0,connectivity,1,2026-01-31,3.4.1,"Since 3.4.1, the app loses connection to the security camera and never reconnects on its own. Support was no help."
+479,R00133,0.7453694312796544,4.0,connectivity,1,2026-01-31,3.2.1,Had to factory reset the smart plug three times this month because the app loses it.
+480,R00858,0.7426665637320552,3.0,performance,1,2026-04-28,3.2.1,Search in the smart plug history times out on anything older than a week. Hope this gets fixed soon.
+481,R00755,0.7398017275670812,4.0,connectivity,2,2026-02-28,3.2.1,Had to factory reset the bedroom speaker three times this month because the app loses it.
+482,R00487,0.7398017275670812,4.0,connectivity,2,2026-02-28,3.4.0,"Sync fails repeatedly with the living room bulb. Spinning loader, then 'connection timeout'. Support was no help."
+483,R00550,0.7396509169489176,4.0,connectivity,1,2026-01-30,3.4.0,Connection keeps dropping -- the garage sensor goes 'unreachable' every few hours. Considering switching apps.
+484,R00726,0.7377910465016425,4.0,connectivity,3,2026-04-06,3.2.0,App can't find the garage sensor half the time. Re-pairing works for a day then it drops again. Otherwise I like the app.
+485,R01022,0.7371190496932838,3.0,performance,2,2026-05-26,3.2.1,Every tap has a delay on 3.2.1. The kitchen plug controls feel like they're on dial-up. Really disappointing.
+486,R00043,0.7369035637400421,2.0,ui_bug,1,2026-06-23,3.4.0,"Notification badges never clear for the bedroom speaker, even after I read everything. Really disappointing."
+487,R01291,0.7341259289584194,4.0,connectivity,2,2026-02-27,3.4.1,"Sync fails repeatedly with the thermostat. Spinning loader, then 'connection timeout'. Considering switching apps."
+488,R00249,0.7298227397329817,5.0,crash,2,2026-02-04,3.4.0,App force closes during security camera setup on the very last step. Unacceptable. Really disappointing.
+489,R00527,0.7298227397329817,5.0,crash,2,2026-02-04,3.2.0,Crash after crash. The app dies the moment I tap my smart plug. Really disappointing.
+490,R00927,0.7298227397329817,5.0,crash,2,2026-02-04,3.2.1,Opening the smart lock tab makes the app freeze then crash. Please fix this.
+491,R01294,0.7283097020797276,3.0,battery_drain,2,2026-06-07,3.2.0,The app used 25% of my battery in 3 hours just syncing the garage sensor. Support was no help.
+492,R00254,0.7281612341425868,3.0,battery_drain,1,2026-05-09,3.4.1,Woke up to a dead phone. The app was top of battery stats because of the bedroom speaker. Anyone else seeing this?
+493,R00533,0.7227572666581656,4.0,connectivity,1,2026-01-27,3.2.1,'Device offline' error all day for my smoke detector even though it's two feet from the router.
+494,R01153,0.7227220709081522,3.0,battery_drain,2,2026-06-06,3.4.0,Woke up to a dead phone. The app was top of battery stats because of the living room bulb.
+495,R00869,0.7186672188420926,5.0,crash,2,2026-02-02,3.4.0,Crashes constantly since the 3.2.0 update. My video doorbell is basically bricked in the app. Really disappointing.
+496,R00985,0.7173584695677705,4.0,connectivity,2,2026-02-24,3.4.1,'Device offline' error all day for my smoke detector even though it's two feet from the router. Considering switching apps.
+497,R01001,0.717212234069516,4.0,connectivity,1,2026-01-26,3.4.0,'Device offline' error all day for my smoke detector even though it's two feet from the router. Anyone else seeing this?
+498,R00757,0.7152281173901065,3.0,battery_drain,3,2026-07-12,3.3.0,Background battery drain is ridiculous. Turned off security camera notifications and it still drains. This started after the update.
+499,R00428,0.7145482269175424,2.0,ui_bug,1,2026-06-19,3.4.1,"Notification badges never clear for the security camera, even after I read everything. Reinstalling didn't help."
+500,R00589,0.7091289328845531,3.0,performance,1,2026-04-22,3.4.0,"Best smart home app I've used, if only the bedroom speaker page didn't lag so badly. Honestly pretty annoyed."
+501,R00604,0.7090661745229123,2.0,ui_bug,1,2026-06-18,3.2.1,"Really happy with the living room bulb itself, but the app UI shows the wrong status half the time. Honestly pretty annoyed."
+502,R00147,0.7090661745229123,2.0,ui_bug,1,2026-06-18,3.4.0,The smart plug temperature shows in Fahrenheit even though I set Celsius in settings. Honestly pretty annoyed.
+503,R00507,0.7072832101637286,2.0,ui_bug,3,2026-08-23,3.3.2,Toggle switches on the kitchen plug page don't reflect the real state. Confusing. Anyone else seeing this?
+504,R00220,0.7063934681258488,4.0,connectivity,2,2026-02-22,3.2.1,"Sync fails repeatedly with the video doorbell. Spinning loader, then 'connection timeout'. Really disappointing."
+505,R00793,0.7063934681258488,4.0,connectivity,2,2026-02-22,3.3.2,"My smoke detector shows offline in the app constantly, but my Wi-Fi is fine. Support was no help."
+506,R00152,0.7037696461080382,2.0,ui_bug,2,2026-07-16,3.4.1,Buttons on the video doorbell schedule screen overlap so I can't tap save. Reinstalling didn't help.
+507,R00303,0.7006540965942558,3.0,battery_drain,1,2026-05-04,3.3.2,"Five stars for the features, but the battery drain from the living room bulb sync is brutal. Considering switching apps."
+508,R00854,0.6900659965016211,4.5,login_auth,1,2026-03-14,3.4.1,Password reset email never comes. Can't access my smart plug at all now.
+509,R00347,0.6876161910208074,3.0,performance,1,2026-04-18,3.2.1,The app looks beautiful but everything lags; opening the garage sensor takes forever. Otherwise I like the app.
+510,R01217,0.6875553365505058,2.0,ui_bug,1,2026-06-14,3.2.0,"Notification badges never clear for the living room bulb, even after I read everything. Otherwise I like the app."
+511,R01076,0.6823407626528256,3.0,performance,1,2026-04-17,3.3.2,Everything is sluggish since 3.3.2. Opening the video doorbell feed lags badly. Support was no help.
+512,R01160,0.6822803750612904,2.0,ui_bug,1,2026-06-13,3.4.1,"Huge fan of the product, but the UI on the security camera page is glitchy and unreadable. Really disappointing."
+513,R01249,0.6822803750612904,2.0,ui_bug,1,2026-06-13,3.3.0,Buttons on the smart plug schedule screen overlap so I can't tap save. Honestly pretty annoyed.
+514,R00941,0.6795700727815093,4.0,connectivity,1,2026-01-19,3.4.1,"Since 3.3.0, the app loses connection to the thermostat and never reconnects on its own. Really disappointing."
+515,R01130,0.6795700727815093,4.0,connectivity,1,2026-01-19,3.3.2,Great app otherwise -- however my garage sensor keeps showing offline since 3.2.1. Hope this gets fixed soon.
+516,R00377,0.6771058076547691,3.0,performance,1,2026-04-16,3.3.0,Live view from the thermostat lags 10 seconds behind real time. Useless for a doorbell. Considering switching apps.
+517,R01082,0.6771058076547691,3.0,performance,1,2026-04-16,3.2.0,App startup is so slow now that the smart plug alerts arrive before the app opens.
+518,R00694,0.6744423542891169,4.5,login_auth,2,2026-04-09,3.2.1,"Great app when you're in, but I get logged out daily and can't reach my garage sensor. Otherwise I like the app."
+519,R00272,0.6743563746650341,4.0,connectivity,1,2026-01-18,3.4.1,The smoke detector works in the old app but this version 3.2.1 can't maintain a connection. Really disappointing.
+520,R01033,0.6743235358691099,3.0,battery_drain,2,2026-05-28,3.2.1,This app eats my phone battery alive -- lost 40% overnight with the thermostat idle. Honestly pretty annoyed.
+521,R00454,0.6719885376732654,2.0,ui_bug,2,2026-07-10,3.3.0,Toggle switches on the security camera page don't reflect the real state. Confusing. Anyone else seeing this?
+522,R01086,0.6718515509604895,2.0,ui_bug,1,2026-06-11,3.4.0,The kitchen plug temperature shows in Fahrenheit even though I set Celsius in settings. Hope this gets fixed soon.
+523,R00067,0.6701621636887997,2.0,ui_bug,3,2026-08-16,3.4.1,The smoke detector status card shows yesterday's data until I force-refresh the app. This started after the update.
+524,R01061,0.6667560780952342,3.0,performance,1,2026-04-14,3.3.0,Scrolling the kitchen plug event history stutters and freezes the whole app. Support was no help.
+525,R00388,0.6641333362723237,4.5,login_auth,2,2026-04-07,3.3.0,Password reset email never comes. Can't access my security camera at all now. Reinstalling didn't help.
+526,R00077,0.6615821340126731,2.0,ui_bug,1,2026-06-09,3.2.0,"Huge fan of the product, but the UI on the thermostat page is glitchy and unreadable."
+527,R00605,0.6589219650243286,3.0,battery_drain,2,2026-05-25,3.2.0,Battery saver mode does nothing -- the living room bulb stream keeps running in the background.
+528,R00754,0.6589037229036478,4.5,login_auth,1,2026-03-08,3.3.0,Biometric login crashes back to the password field on 3.2.1. Anyone else seeing this?
+529,R00062,0.6587876419683476,3.0,battery_drain,1,2026-04-26,3.3.2,"Five stars for features, one star for the battery drain -- the garage sensor sync never sleeps."
+530,R00745,0.6565064403290513,2.0,ui_bug,1,2026-06-08,3.4.0,"Huge fan of the product, but the UI on the kitchen plug page is glitchy and unreadable. Really disappointing."
+531,R00146,0.6552250652079255,5.0,crash,5,2026-07-20,3.3.2,Rotated my phone while on the video doorbell page and the app crashed instantly. Anyone else seeing this?
+532,R01140,0.6522542789298591,4.0,connectivity,3,2026-03-21,3.2.0,The smoke detector pairs fine in Bluetooth settings but the app says device not found.
+533,R01047,0.6522542789298591,4.0,connectivity,3,2026-03-21,3.3.0,The video doorbell pairs fine in Bluetooth settings but the app says device not found.
+534,R00522,0.6522044597808558,4.5,login_auth,3,2026-05-12,3.3.2,Face ID stopped working with the app on 3.2.0. Have to type the password each time. Considering switching apps.
+535,R00515,0.6515273482248808,3.0,performance,1,2026-04-11,3.3.2,Every tap has a delay on 3.4.0. The thermostat controls feel like they're on dial-up. Otherwise I like the app.
+536,R01150,0.6488501799920017,3.0,battery_drain,2,2026-05-23,3.2.1,Massive battery drain on 3.2.1. Had to uninstall to get through the day.
+537,R00712,0.6488501799920017,3.0,battery_drain,2,2026-05-23,3.4.1,"Five stars for the features, but the battery drain from the kitchen plug sync is brutal. Hope this gets fixed soon."
+538,R00485,0.643903522392375,4.0,connectivity,1,2026-01-12,3.4.1,Intermittent connectivity: smart plug responds maybe one time out of three. Reinstalling didn't help.
+539,R00395,0.643903522392375,4.0,connectivity,1,2026-01-12,3.3.0,"My smart lock shows offline in the app constantly, but my Wi-Fi is fine. Otherwise I like the app."
+540,R01124,0.641699403926792,3.0,performance,2,2026-05-08,3.4.0,App startup is so slow now that the video doorbell alerts arrive before the app opens. Reinstalling didn't help.
+541,R00856,0.6416426131213563,2.0,ui_bug,2,2026-07-04,3.3.2,Dark mode is broken on the garage sensor page -- white text on a white background.
+542,R00278,0.6415118125088148,2.0,ui_bug,1,2026-06-05,3.3.2,Icons for the thermostat are missing -- just empty boxes on 3.3.2.
+543,R01042,0.6415118125088148,2.0,ui_bug,1,2026-06-05,3.2.0,Dark mode is broken on the thermostat page -- white text on a white background. Reinstalling didn't help.
+544,R00203,0.6402597040359032,5.0,crash,2,2026-01-18,3.4.0,App crashes when I try to view the bedroom speaker live feed. Was fine before 3.4.0. Hope this gets fixed soon.
+545,R00535,0.6389634599671008,4.0,connectivity,1,2026-01-11,3.2.1,"My smart plug shows offline in the app constantly, but my Wi-Fi is fine."
+546,R01098,0.6353475971808678,5.0,crash,2,2026-01-17,3.4.1,Crashes constantly since the 3.4.0 update. My video doorbell is basically bricked in the app. Support was no help.
+547,R00156,0.6318908699959426,3.0,performance,2,2026-05-06,3.3.2,Scrolling the thermostat event history stutters and freezes the whole app. Otherwise I like the app.
+548,R01026,0.6292769674415019,4.5,login_auth,2,2026-03-31,3.4.0,The app logs me out every day and I have to sign back in to see my smoke detector.
+549,R01074,0.6291967456156331,4.0,connectivity,1,2026-01-09,3.2.1,Intermittent connectivity: thermostat responds maybe one time out of three. Honestly pretty annoyed.
+550,R00354,0.6274561175305228,3.0,battery_drain,3,2026-06-25,3.3.2,The widget alone drains my battery keeping the video doorbell status updated. Really disappointing.
+551,R00562,0.6270429692853784,3.0,performance,2,2026-05-05,3.4.0,"Love the automations, but the kitchen plug live view buffers constantly. Hope this gets fixed soon."
+552,R00771,0.6268596624613096,2.0,ui_bug,1,2026-06-02,3.3.0,The bedroom speaker history graph renders blank after midnight. Graphs worked in the old version.
+553,R00268,0.6256361521854427,5.0,crash,4,2026-04-15,3.3.2,The latest update crashes on launch whenever my garage sensor is connected. Anyone else seeing this?
+554,R00707,0.6220503614453132,2.0,ui_bug,1,2026-06-01,3.3.2,"Really happy with the garage sensor itself, but the app UI shows the wrong status half the time. Really disappointing."
+555,R01117,0.6195793179060463,4.0,connectivity,1,2026-01-07,3.3.2,The thermostat works in the old app but this version 3.4.1 can't maintain a connection. Anyone else seeing this?
+556,R01210,0.614904261641536,4.5,login_auth,2,2026-03-28,3.3.0,Password reset email never comes. Can't access my living room bulb at all now.
+557,R01121,0.6143987455075807,5.0,crash,3,2026-02-19,3.2.1,App crashes when I try to view the bedroom speaker live feed. Was fine before 3.2.1.
+558,R01189,0.6113466027208504,5.0,crash,2,2026-01-12,3.4.1,It crashed twice this week on the smoke detector page. Still better than the competitor's app.
+559,R00081,0.6099548184658664,3.0,battery_drain,1,2026-04-16,3.3.2,Battery saver mode does nothing -- the smart lock stream keeps running in the background. Really disappointing.
+560,R00250,0.6085282782029793,4.5,login_auth,3,2026-05-03,3.2.0,Can't log in since 3.2.1 -- 'invalid credentials' even though my password is right. Really disappointing.
+561,R00373,0.6033022944407522,2.0,ui_bug,2,2026-06-26,3.3.0,The living room bulb temperature shows in Fahrenheit even though I set Celsius in settings.
+562,R00849,0.6032326960850127,3.0,performance,1,2026-04-01,3.2.1,Video from the security camera buffers constantly even on fast Wi-Fi. Reinstalling didn't help.
+563,R00699,0.6006315083667814,3.0,battery_drain,1,2026-04-14,3.4.0,The app used 25% of my battery in 3 hours just syncing the thermostat. Really disappointing.
+564,R01039,0.6003658587662279,5.0,crash,3,2026-02-16,3.3.0,App keeps crashing every time I open the thermostat controls on version 3.2.1. Honestly pretty annoyed.
+565,R01133,0.5917207335591341,4.0,connectivity,2,2026-01-30,3.4.1,Firmware update for the smoke detector failed halfway and now the app won't connect at all.
+566,R00181,0.5899634899957229,3.0,battery_drain,3,2026-06-17,3.4.1,"Five stars for the features, but the battery drain from the garage sensor sync is brutal. Really disappointing."
+567,R00175,0.5894026751364406,2.0,ui_bug,1,2026-05-25,3.4.1,Text is cut off on the kitchen plug details screen on my small phone. Support was no help.
+568,R00446,0.5826761359528634,4.0,connectivity,2,2026-01-28,3.4.1,Intermittent connectivity: video doorbell responds maybe one time out of three. Anyone else seeing this?
+569,R00285,0.580563228778868,3.0,performance,4,2026-07-24,3.4.0,Video from the kitchen plug buffers constantly even on fast Wi-Fi. Support was no help.
+570,R00002,0.580563228778868,3.0,performance,2,2026-04-25,3.3.0,Scrolling the kitchen plug event history stutters and freezes the whole app.
+571,R01289,0.5759406994313844,2.0,ui_bug,1,2026-05-22,3.2.0,Toggle switches on the smoke detector page don't reflect the real state. Confusing. Considering switching apps.
+572,R00011,0.572210358554426,4.0,connectivity,3,2026-03-04,3.4.1,Firmware update for the thermostat failed halfway and now the app won't connect at all. Considering switching apps.
+573,R01261,0.5673031463076426,3.0,performance,2,2026-04-22,3.3.0,Search in the living room bulb history times out on anything older than a week. This started after the update.
+574,R00066,0.5671875,3.0,performance,1,2026-03-24,3.3.2,Switching rooms with the kitchen plug takes ages -- the UI just hangs. This started after the update.
+575,R00654,0.5649564196595975,4.5,login_auth,2,2026-03-17,3.2.0,Password reset email never comes. Can't access my garage sensor at all now. Honestly pretty annoyed.
+576,R00213,0.5605232772754046,3.0,battery_drain,2,2026-05-04,3.2.0,This app eats my phone battery alive -- lost 40% overnight with the smoke detector idle. Really disappointing.
+577,R01048,0.5571134919175937,3.0,performance,3,2026-05-27,3.2.1,Switching rooms with the video doorbell takes ages -- the UI just hangs. Support was no help.
+578,R01067,0.5562229125712768,3.0,battery_drain,2,2026-05-03,3.2.1,Battery usage doubled after the update. The app keeps the video doorbell connection awake nonstop.
+579,R00733,0.5520949661870331,4.0,connectivity,2,2026-01-21,3.3.2,The smoke detector pairs fine in Bluetooth settings but the app says device not found.
+580,R00117,0.5505523923426798,4.5,login_auth,3,2026-04-20,3.2.0,Can't log in since 3.2.1 -- 'invalid credentials' even though my password is right. Anyone else seeing this?
+581,R01105,0.5478592639384877,4.0,connectivity,2,2026-01-20,3.4.0,Connection keeps dropping -- the living room bulb goes 'unreachable' every few hours. Honestly pretty annoyed.
+582,R00358,0.5477057443870789,4.5,login_auth,1,2026-02-12,3.4.0,The app logs me out every day and I have to sign back in to see my bedroom speaker. Considering switching apps.
+583,R00742,0.5462322765597957,3.0,battery_drain,3,2026-06-07,3.3.0,Massive battery drain on 3.2.1. Had to uninstall to get through the day. Anyone else seeing this?
+584,R00240,0.545761332488398,3.0,performance,1,2026-03-19,3.3.2,Switching rooms with the smart lock takes ages -- the UI just hangs. Considering switching apps.
+585,R00188,0.5434079658947636,3.0,battery_drain,1,2026-04-01,3.4.0,The widget alone drains my battery keeping the smoke detector status updated. Reinstalling didn't help.
+586,R00956,0.5421784745677873,4.0,connectivity,3,2026-02-25,3.4.1,The kitchen plug works in the old app but this version 3.3.2 can't maintain a connection. This started after the update.
+587,R00348,0.5415742222179394,3.0,performance,1,2026-03-18,3.2.0,Search in the security camera history times out on anything older than a week. Considering switching apps.
+588,R00673,0.5394438938872566,4.5,login_auth,2,2026-03-11,3.2.0,"Really like the design, but logging in has been broken for me since 3.2.1. Otherwise I like the app."
+589,R00994,0.5394438938872566,4.5,login_auth,2,2026-03-11,3.3.0,Biometric login crashes back to the password field on 3.3.2. Anyone else seeing this?
+590,R00040,0.5393488585284206,3.0,battery_drain,4,2026-07-28,3.4.1,"Since 3.3.0, the app drains battery even in the background. living room bulb polling is out of control. Really disappointing."
+591,R01219,0.5353461410565419,4.0,connectivity,2,2026-01-17,3.4.1,App disconnects from the security camera whenever my phone switches between Wi-Fi and data. Support was no help.
+592,R00792,0.5332489293805738,2.0,ui_bug,1,2026-05-12,3.4.0,"Huge fan of the product, but the UI on the security camera page is glitchy and unreadable. Hope this gets fixed soon."
+593,R00093,0.5319551401827282,3.0,performance,3,2026-05-21,3.2.0,Scrolling the living room bulb event history stutters and freezes the whole app. Otherwise I like the app.
+594,R00104,0.5312389366944303,4.0,connectivity,4,2026-04-16,3.3.2,Intermittent connectivity: living room bulb responds maybe one time out of three. Hope this gets fixed soon.
+595,R00461,0.5311047779712812,3.0,battery_drain,2,2026-04-27,3.3.2,"Five stars for the features, but the battery drain from the garage sensor sync is brutal."
+596,R00524,0.5271229783229183,4.5,login_auth,2,2026-03-08,3.3.0,"Two-factor code never arrives, so I'm locked out of controlling my thermostat. Reinstalling didn't help."
+597,R00197,0.5251445633754476,3.0,performance,1,2026-03-14,3.3.0,Switching rooms with the thermostat takes ages -- the UI just hangs. Support was no help.
+598,R01168,0.5229722314415068,4.5,login_auth,1,2026-02-06,3.2.1,"Really like the design, but logging in has been broken for me since 3.3.2. Reinstalling didn't help."
+599,R00475,0.5212218785799047,3.0,performance,2,2026-04-11,3.2.0,The app is painfully slow to arm/disarm the smoke detector. Takes three tries. Hope this gets fixed soon.
+600,R00108,0.521115626065508,3.0,performance,1,2026-03-13,3.4.0,"Best smart home app I've used, if only the bedroom speaker page didn't lag so badly. Honestly pretty annoyed."
+601,R00064,0.5210695070011171,2.0,ui_bug,1,2026-05-09,3.2.0,The back button from the smart lock settings dumps me to the login screen instead of home. Anyone else seeing this?
+602,R00179,0.519065773365314,4.5,login_auth,2,2026-03-06,3.3.0,Can't log in since 3.4.0 -- 'invalid credentials' even though my password is right. Support was no help.
+603,R01063,0.517071833742663,2.0,ui_bug,1,2026-05-08,3.3.0,"Really happy with the smart lock itself, but the app UI shows the wrong status half the time."
+604,R00102,0.517071833742663,2.0,ui_bug,1,2026-05-08,3.3.2,Buttons on the video doorbell schedule screen overlap so I can't tap save. Support was no help.
+605,R00997,0.5137227837456088,4.0,connectivity,3,2026-02-18,3.3.0,Had to factory reset the smart lock three times this month because the app loses it. Really disappointing.
+606,R00044,0.5132094500070519,2.0,ui_bug,2,2026-06-05,3.4.0,Toggle switches on the bedroom speaker page don't reflect the real state. Confusing. Support was no help.
+607,R00926,0.5111707679736807,4.0,connectivity,2,2026-01-11,3.2.1,Firmware update for the smart lock failed halfway and now the app won't connect at all. Anyone else seeing this?
+608,R00032,0.5110416772523393,3.0,battery_drain,2,2026-04-22,3.4.1,"Since 3.3.0, the app drains battery even in the background. security camera polling is out of control. Hope this gets fixed soon."
+609,R00286,0.5097814749427622,4.0,connectivity,3,2026-02-17,3.4.1,Connection keeps dropping -- the living room bulb goes 'unreachable' every few hours. Anyone else seeing this?
+610,R00054,0.5070175600437228,3.0,battery_drain,1,2026-03-23,3.2.1,The app used 25% of my battery in 3 hours just syncing the smoke detector.
+611,R00307,0.5070175600437228,3.0,battery_drain,1,2026-03-23,3.3.2,"Five stars for features, one star for the battery drain -- the smart lock sync never sleeps. Considering switching apps."
+612,R01045,0.5070175600437228,3.0,battery_drain,1,2026-03-23,3.2.1,Phone battery dropped 15% during a 20-minute kitchen plug live view. Fix the power usage.
+613,R00480,0.4993556442702179,4.5,login_auth,1,2026-01-31,3.2.1,The app logs me out every day and I have to sign back in to see my bedroom speaker. Reinstalling didn't help.
+614,R00692,0.49926767137187256,3.0,battery_drain,1,2026-03-21,3.3.0,Background battery drain is ridiculous. Turned off kitchen plug notifications and it still drains.
+615,R00106,0.49768433453643657,3.0,performance,4,2026-07-04,3.2.1,App takes forever to load the garage sensor dashboard -- 20+ seconds of spinner. Honestly pretty annoyed.
+616,R00345,0.49768433453643657,3.0,performance,4,2026-07-04,3.4.0,Search in the thermostat history times out on anything older than a week. Considering switching apps.
+617,R00422,0.49758288021517055,3.0,performance,1,2026-03-07,3.3.2,App startup is so slow now that the smart plug alerts arrive before the app opens. Honestly pretty annoyed.
+618,R00782,0.49566345432483705,4.0,connectivity,2,2026-01-07,3.4.0,The smart plug pairs fine in Bluetooth settings but the app says device not found. Anyone else seeing this?
+619,R00780,0.49566345432483694,4.0,connectivity,5,2026-07-06,3.4.1,App can't find the garage sensor half the time. Re-pairing works for a day then it drops again. This started after the update.
+620,R00405,0.4918606976677618,4.0,connectivity,2,2026-01-06,3.2.0,"Since 3.3.0, the app loses connection to the garage sensor and never reconnects on its own. Honestly pretty annoyed."
+621,R00484,0.48808711596410864,4.0,connectivity,2,2026-01-05,3.2.1,"Since 3.3.0, the app loses connection to the thermostat and never reconnects on its own. Honestly pretty annoyed."
+622,R01149,0.48808711596410864,4.0,connectivity,2,2026-01-05,3.2.0,"My thermostat shows offline in the app constantly, but my Wi-Fi is fine. Otherwise I like the app."
+623,R00204,0.486317208625843,3.0,performance,2,2026-04-02,3.4.0,Every tap has a delay on 3.4.0. The thermostat controls feel like they're on dial-up. This started after the update.
+624,R00295,0.4825861568680102,3.0,performance,2,2026-04-01,3.3.0,App takes forever to load the smoke detector dashboard -- 20+ seconds of spinner. Anyone else seeing this?
+625,R00762,0.4812319598410172,2.0,ui_bug,3,2026-07-04,3.3.2,Dark mode is broken on the living room bulb page -- white text on a white background.
+626,R00882,0.4804072543846483,3.0,battery_drain,1,2026-03-16,3.3.2,My phone gets hot and the battery tanks whenever the living room bulb is armed.
+627,R00084,0.48019477802692734,5.0,crash,3,2026-01-18,3.2.0,App keeps crashing every time I open the kitchen plug controls on version 3.4.0. Hope this gets fixed soon.
+628,R01137,0.4793203057387818,4.0,connectivity,3,2026-02-09,3.2.1,The smart lock pairs fine in Bluetooth settings but the app says device not found. Otherwise I like the app.
+629,R00460,0.47520970822985936,3.0,performance,2,2026-03-30,3.4.0,"Love the automations, but the smart lock live view buffers constantly. Really disappointing."
+630,R00020,0.47324393861801956,4.5,login_auth,2,2026-02-22,3.2.0,"'Account not found' error on login, but the website works fine with the same email. Honestly pretty annoyed."
+631,R01062,0.4714677442184875,3.0,performance,1,2026-02-28,3.2.0,"Love the automations, but the living room bulb live view buffers constantly. Reinstalling didn't help."
+632,R00243,0.4714260190232212,2.0,ui_bug,1,2026-04-26,3.3.2,Dark mode is broken on the smart plug page -- white text on a white background. Really disappointing.
+633,R00343,0.4666741964471831,3.0,performance,3,2026-05-04,3.2.1,App takes forever to load the garage sensor dashboard -- 20+ seconds of spinner. Otherwise I like the app.
+634,R00333,0.4660102880939602,4.5,login_auth,2,2026-02-20,3.2.1,"Login screen loops forever: enter password, spinner, back to login."
+635,R00705,0.4659281897414678,3.0,battery_drain,2,2026-04-10,3.3.2,Battery usage doubled after the update. The app keeps the smart plug connection awake nonstop. Honestly pretty annoyed.
+636,R00715,0.46592818974146777,3.0,battery_drain,4,2026-07-09,3.2.1,"Five stars for the features, but the battery drain from the garage sensor sync is brutal. Hope this gets fixed soon."
+637,R00531,0.4623535636321619,3.0,battery_drain,2,2026-04-09,3.2.0,The app used 25% of my battery in 3 hours just syncing the smoke detector. Considering switching apps.
+638,R00007,0.4623407634677226,4.5,login_auth,1,2026-01-21,3.3.0,Biometric login crashes back to the password field on 3.2.0. Honestly pretty annoyed.
+639,R00626,0.4607525595451075,2.0,ui_bug,2,2026-05-22,3.3.2,The smart lock status card shows yesterday's data until I force-refresh the app. Reinstalling didn't help.
+640,R00951,0.4589222581643329,4.0,connectivity,5,2026-06-26,3.4.0,Firmware update for the living room bulb failed halfway and now the app won't connect at all. This started after the update.
+641,R01288,0.4571244360743401,2.0,ui_bug,1,2026-04-22,3.4.1,Buttons on the smart plug schedule screen overlap so I can't tap save.
+642,R00539,0.45528637518039805,3.0,battery_drain,2,2026-04-07,3.4.0,Battery saver mode does nothing -- the bedroom speaker stream keeps running in the background.
+643,R00563,0.45251676885245584,3.0,performance,3,2026-04-30,3.2.1,"Best smart home app I've used, if only the thermostat page didn't lag so badly. Hope this gets fixed soon."
+644,R00775,0.4517933936442643,3.0,battery_drain,2,2026-04-06,3.3.0,Woke up to a dead phone. The app was top of battery stats because of the security camera.
+645,R01272,0.4517933936442643,3.0,battery_drain,2,2026-04-06,3.2.0,"Since 3.4.1, the app drains battery even in the background. bedroom speaker polling is out of control. Otherwise I like the app."
+646,R00799,0.451780885835985,4.5,login_auth,1,2026-01-18,3.2.1,"Really like the design, but logging in has been broken for me since 3.4.1. Honestly pretty annoyed."
+647,R00731,0.451780885835985,4.5,login_auth,1,2026-01-18,3.2.1,Can't log in since 3.2.0 -- 'invalid credentials' even though my password is right. This started after the update.
+648,R00822,0.449005295113585,2.0,ui_bug,3,2026-06-25,3.3.2,The video doorbell history graph renders blank after midnight. Graphs worked in the old version. Reinstalling didn't help.
+649,R00829,0.44672323481536874,3.0,performance,1,2026-02-21,3.2.0,Switching rooms with the bedroom speaker takes ages -- the UI just hangs.
+650,R01191,0.4415522077754322,4.5,login_auth,2,2026-02-13,3.2.0,"Two-factor code never arrives, so I'm locked out of controlling my garage sensor."
+651,R00427,0.4387888330908444,3.0,performance,3,2026-04-26,3.2.1,The app is painfully slow to arm/disarm the smoke detector. Takes three tries. Considering switching apps.
+652,R00700,0.43652006203102994,3.0,performance,1,2026-02-18,3.4.0,Live view from the smoke detector lags 10 seconds behind real time. Useless for a doorbell. Really disappointing.
+653,R00701,0.4298973389906127,2.0,ui_bug,4,2026-08-11,3.3.0,Icons for the kitchen plug are missing -- just empty boxes on 3.3.2.
+654,R01245,0.4280696213543639,4.5,login_auth,1,2026-01-11,3.2.0,Password reset email never comes. Can't access my smoke detector at all now. Honestly pretty annoyed.
+655,R00201,0.42371731474469815,4.5,login_auth,3,2026-03-17,3.3.0,"Great app when you're in, but I get logged out daily and can't reach my smoke detector."
+656,R00006,0.4200784701980334,2.0,ui_bug,2,2026-05-10,3.2.1,"Notification badges never clear for the smart plug, even after I read everything."
+657,R00577,0.41276592603710305,5.0,crash,4,2026-02-20,3.4.1,The app won't stay open for more than a few seconds if the garage sensor is online. This started after the update.
+658,R00684,0.4104838646786167,2.0,ui_bug,2,2026-05-07,3.4.0,Icons for the smart lock are missing -- just empty boxes on 3.2.1. Otherwise I like the app.
+659,R00779,0.4104001864131146,2.0,ui_bug,1,2026-04-08,3.2.0,Slider for the security camera jumps around and won't land on the value I pick. Honestly pretty annoyed.
+660,R00981,0.40725157412925506,2.0,ui_bug,1,2026-04-07,3.4.0,"Notification badges never clear for the smart lock, even after I read everything."
+661,R00967,0.4042452933561789,3.0,performance,2,2026-03-09,3.3.0,App takes forever to load the living room bulb dashboard -- 20+ seconds of spinner. Considering switching apps.
+662,R00944,0.4042095173905745,2.0,ui_bug,4,2026-08-03,3.4.1,Icons for the bedroom speaker are missing -- just empty boxes on 3.4.0. Hope this gets fixed soon.
+663,R00608,0.4041271181680345,2.0,ui_bug,1,2026-04-06,3.4.1,Dark mode is broken on the video doorbell page -- white text on a white background. Support was no help.
+664,R00434,0.403146609307661,3.0,performance,3,2026-04-15,3.4.1,Switching rooms with the kitchen plug takes ages -- the UI just hangs. Reinstalling didn't help.
+665,R00875,0.40257307770139167,4.5,login_auth,2,2026-02-01,3.3.2,Biometric login crashes back to the password field on 3.2.0. Honestly pretty annoyed.
+666,R00710,0.40257307770139167,4.5,login_auth,2,2026-02-01,3.3.0,"Great app when you're in, but I get logged out daily and can't reach my security camera."
+667,R01252,0.4015096057924064,4.0,connectivity,3,2026-01-17,3.3.2,'Device offline' error all day for my video doorbell even though it's two feet from the router. Honestly pretty annoyed.
+668,R00739,0.40106212745424497,3.0,performance,1,2026-02-07,3.3.0,The app looks beautiful but everything lags; opening the living room bulb takes forever.
+669,R00035,0.39941413709749807,3.0,battery_drain,2,2026-03-21,3.3.2,"Five stars for the features, but the battery drain from the kitchen plug sync is brutal. Reinstalling didn't help."
+670,R00403,0.3950123180956163,3.0,performance,2,2026-03-06,3.3.0,"Best smart home app I've used, if only the security camera page didn't lag so badly."
+671,R00622,0.3948968420324994,2.0,ui_bug,1,2026-04-03,3.3.2,The back button from the bedroom speaker settings dumps me to the login screen instead of home. Honestly pretty annoyed.
+672,R00489,0.3919817623643875,3.0,performance,2,2026-03-05,3.3.0,Switching rooms with the smart plug takes ages -- the UI just hangs. This started after the update.
+673,R00004,0.3919470717290767,2.0,ui_bug,2,2026-05-01,3.3.0,Text is cut off on the video doorbell details screen on my small phone. Really disappointing.
+674,R00546,0.39088181258407384,2.0,ui_bug,3,2026-06-07,3.2.0,The video doorbell status card shows yesterday's data until I force-refresh the app. Really disappointing.
+675,R00421,0.3903602764740391,4.5,login_auth,2,2026-01-28,3.2.1,Face ID stopped working with the app on 3.4.1. Have to type the password each time.
+676,R01264,0.38894003273268923,2.0,ui_bug,2,2026-04-30,3.3.0,"Huge fan of the product, but the UI on the video doorbell page is glitchy and unreadable. Really disappointing."
+677,R00818,0.38894003273268923,2.0,ui_bug,4,2026-07-29,3.2.1,Icons for the video doorbell are missing -- just empty boxes on 3.3.0. Otherwise I like the app.
+678,R00393,0.3888951637059859,3.0,performance,1,2026-02-03,3.2.0,Switching rooms with the security camera takes ages -- the UI just hangs. Really disappointing.
+679,R00851,0.38624454685839715,3.0,battery_drain,3,2026-04-23,3.4.0,Background battery drain is ridiculous. Turned off bedroom speaker notifications and it still drains. Really disappointing.
+680,R00223,0.3829949882386797,2.0,ui_bug,2,2026-04-28,3.2.1,Toggle switches on the living room bulb page don't reflect the real state. Confusing. Anyone else seeing this?
+681,R00315,0.38144443543735546,4.5,login_auth,5,2026-07-24,3.4.0,"Really like the design, but logging in has been broken for me since 3.4.0. Otherwise I like the app."
+682,R00870,0.3804367787797306,4.0,connectivity,3,2026-01-10,3.3.2,The smart lock works in the old app but this version 3.4.0 can't maintain a connection. Really disappointing.
+683,R00892,0.37547123357353207,3.0,battery_drain,1,2026-02-12,3.3.0,This app eats my phone battery alive -- lost 40% overnight with the smart lock idle. Really disappointing.
+684,R00029,0.372590598092837,3.0,battery_drain,1,2026-02-11,3.2.0,Woke up to a dead phone. The app was top of battery stats because of the living room bulb. Otherwise I like the app.
+685,R00696,0.3717475907436278,4.0,connectivity,3,2026-01-07,3.4.1,App disconnects from the garage sensor whenever my phone switches between Wi-Fi and data.
+686,R00182,0.37039955518333634,3.0,performance,3,2026-04-04,3.3.0,"Best smart home app I've used, if only the security camera page didn't lag so badly. Considering switching apps."
+687,R01205,0.37039955518333634,3.0,performance,3,2026-04-04,3.2.1,The app is painfully slow to arm/disarm the security camera. Takes three tries. Really disappointing.
+688,R01071,0.36973206300234673,3.0,battery_drain,1,2026-02-10,3.2.1,"Since 3.3.0, the app drains battery even in the background. kitchen plug polling is out of control."
+689,R00321,0.36889552325082137,4.0,connectivity,3,2026-01-06,3.2.0,Great app otherwise -- however my video doorbell keeps showing offline since 3.2.1. Considering switching apps.
+690,R00812,0.3688673470293182,4.5,login_auth,3,2026-02-27,3.4.1,Password reset email never comes. Can't access my smoke detector at all now.
+691,R01164,0.368802362623924,3.0,battery_drain,3,2026-04-17,3.3.2,"Five stars for features, one star for the battery drain -- the smart lock sync never sleeps. Reinstalling didn't help."
+692,R01126,0.3685269070942504,2.0,ui_bug,2,2026-04-23,3.2.0,The video doorbell history graph renders blank after midnight. Graphs worked in the old version.
+693,R00621,0.3670349282284532,4.5,login_auth,2,2026-01-20,3.2.1,Can't log in since 3.2.0 -- 'invalid credentials' even though my password is right. Hope this gets fixed soon.
+694,R00848,0.36697026664546983,3.0,battery_drain,2,2026-03-10,3.3.0,Phone battery dropped 15% during a 20-minute smart lock live view. Fix the power usage. Really disappointing.
+695,R00036,0.3660373769210638,4.5,login_auth,3,2026-02-26,3.3.0,Can't log in since 3.4.1 -- 'invalid credentials' even though my password is right. Honestly pretty annoyed.
+696,R00950,0.36565736090903694,3.0,performance,1,2026-01-26,3.2.0,App takes forever to load the thermostat dashboard -- 20+ seconds of spinner. Anyone else seeing this?
+697,R00003,0.3641548510398637,3.0,battery_drain,2,2026-03-09,3.3.2,The app used 25% of my battery in 3 hours just syncing the thermostat. This started after the update.
+698,R01091,0.3641548510398637,3.0,battery_drain,2,2026-03-09,3.3.0,Battery saver mode does nothing -- the video doorbell stream keeps running in the background. This started after the update.
+699,R00744,0.36014161366528524,3.0,performance,2,2026-02-22,3.4.0,Every tap has a delay on 3.4.1. The video doorbell controls feel like they're on dial-up. Anyone else seeing this?
+700,R00676,0.3600363315416515,2.0,ui_bug,1,2026-03-22,3.4.0,The bedroom speaker history graph renders blank after midnight. Graphs worked in the old version. Honestly pretty annoyed.
+701,R00790,0.357378587852295,3.0,performance,2,2026-02-21,3.2.0,Search in the bedroom speaker history times out on anything older than a week. Support was no help.
+702,R01233,0.3573057352436242,3.0,performance,1,2026-01-23,3.4.1,Search in the smoke detector history times out on anything older than a week. Really disappointing.
+703,R00374,0.3546367601218188,3.0,performance,5,2026-08-19,3.3.0,Everything is sluggish since 3.2.1. Opening the smart lock feed lags badly. Hope this gets fixed soon.
+704,R00302,0.3504869897394408,4.0,connectivity,4,2026-02-21,3.4.1,Had to factory reset the living room bulb three times this month because the app loses it. Hope this gets fixed soon.
+705,R00110,0.34950771607047015,4.5,login_auth,3,2026-02-20,3.3.2,"Really like the design, but logging in has been broken for me since 3.4.0. Otherwise I like the app."
+706,R00337,0.3491851437822941,2.0,ui_bug,2,2026-04-16,3.4.1,The video doorbell status card shows yesterday's data until I force-refresh the app.
+707,R01218,0.3451033485181606,4.5,login_auth,2,2026-01-12,3.2.1,"'Account not found' error on login, but the website works fine with the same email. This started after the update."
+708,R01209,0.34117038132641275,3.0,performance,1,2026-01-17,3.3.0,App startup is so slow now that the bedroom speaker alerts arrive before the app opens.
+709,R00262,0.3403125,3.0,performance,3,2026-03-24,3.3.2,The app is painfully slow to arm/disarm the video doorbell. Takes three tries. Hope this gets fixed soon.
+710,R00609,0.33862193284031106,3.0,performance,2,2026-02-14,3.3.2,Switching rooms with the living room bulb takes ages -- the UI just hangs. Honestly pretty annoyed.
+711,R01000,0.3385919645838556,2.0,ui_bug,2,2026-04-12,3.4.1,Icons for the bedroom speaker are missing -- just empty boxes on 3.2.0. Anyone else seeing this?
+712,R00293,0.33767171740582147,2.0,ui_bug,3,2026-05-19,3.3.0,"Notification badges never clear for the living room bulb, even after I read everything. This started after the update."
+713,R00326,0.3346339981522319,4.5,login_auth,2,2026-01-08,3.3.2,"Login screen loops forever: enter password, spinner, back to login."
+714,R00233,0.33088779720538175,3.0,performance,5,2026-08-10,3.4.0,App takes forever to load the garage sensor dashboard -- 20+ seconds of spinner. Considering switching apps.
+715,R01031,0.33088779720538175,3.0,performance,4,2026-05-12,3.2.1,"Best smart home app I've used, if only the living room bulb page didn't lag so badly. Really disappointing."
+716,R00763,0.33085851342484973,2.0,ui_bug,2,2026-04-09,3.4.1,Slider for the thermostat jumps around and won't land on the value I pick. Really disappointing.
+717,R00737,0.33079106700633654,2.0,ui_bug,1,2026-03-11,3.3.0,Toggle switches on the thermostat page don't reflect the real state. Confusing.
+718,R00096,0.3282532201645256,2.0,ui_bug,1,2026-03-10,3.4.0,The back button from the security camera settings dumps me to the login screen instead of home.
+719,R01216,0.3282532201645256,2.0,ui_bug,1,2026-03-10,3.4.0,The bedroom speaker status card shows yesterday's data until I force-refresh the app. Anyone else seeing this?
+720,R00045,0.3269909470714604,4.5,login_auth,2,2026-01-05,3.3.0,"Two-factor code never arrives, so I'm locked out of controlling my living room bulb. Reinstalling didn't help."
+721,R01136,0.32442508999600084,3.0,battery_drain,2,2026-02-22,3.2.1,Background battery drain is ridiculous. Turned off living room bulb notifications and it still drains.
+722,R00481,0.3183881258084142,3.0,performance,2,2026-02-06,3.3.0,Scrolling the smart plug event history stutters and freezes the whole app.
+723,R00362,0.31349373779186573,2.0,ui_bug,2,2026-04-02,3.4.1,The video doorbell status card shows yesterday's data until I force-refresh the app. Honestly pretty annoyed.
+724,R00904,0.31349373779186573,2.0,ui_bug,2,2026-04-02,3.3.0,Dark mode is broken on the kitchen plug page -- white text on a white background.
+725,R00717,0.31102518072265656,2.0,ui_bug,1,2026-03-03,3.2.0,Toggle switches on the security camera page don't reflect the real state. Confusing. Support was no help.
+726,R01125,0.3097745732805627,3.0,battery_drain,2,2026-02-16,3.3.0,Constant location polling for the video doorbell geofence is killing my battery. Hope this gets fixed soon.
+727,R00953,0.30971142488127273,3.0,battery_drain,1,2026-01-18,3.4.0,"Since 3.4.1, the app drains battery even in the background. bedroom speaker polling is out of control."
+728,R00758,0.30786289850896253,2.0,ui_bug,3,2026-05-07,3.3.0,"Notification badges never clear for the thermostat, even after I read everything. Really disappointing."
+729,R01144,0.3062710839916976,2.0,ui_bug,1,2026-03-01,3.3.0,The back button from the video doorbell settings dumps me to the login screen instead of home. Support was no help.
+730,R00623,0.3055279972300585,3.0,performance,3,2026-03-10,3.2.1,Search in the security camera history times out on anything older than a week. Really disappointing.
+731,R00966,0.2995606028231236,3.0,battery_drain,3,2026-03-21,3.4.0,Background battery drain is ridiculous. Turned off garage sensor notifications and it still drains. This started after the update.
+732,R01221,0.29706662549282215,3.0,performance,2,2026-01-28,3.2.0,Search in the smart plug history times out on anything older than a week. Considering switching apps.
+733,R01037,0.2949817449978614,3.0,battery_drain,3,2026-03-19,3.2.0,Battery usage doubled after the update. The app keeps the smart plug connection awake nonstop.
+734,R00114,0.29470133756822026,2.0,ui_bug,1,2026-02-24,3.3.2,Icons for the security camera are missing -- just empty boxes on 3.3.2. Really disappointing.
+735,R00693,0.2925,2.0,ui_bug,2,2026-03-24,3.2.1,Buttons on the living room bulb schedule screen overlap so I can't tap save.
+736,R00126,0.29244037307001447,2.0,ui_bug,1,2026-02-23,3.4.1,Slider for the video doorbell jumps around and won't land on the value I pick. Support was no help.
+737,R00665,0.2880545582449588,3.0,performance,2,2026-01-24,3.4.0,"Best smart home app I've used, if only the bedroom speaker page didn't lag so badly."
+738,R00697,0.2858192907670169,2.0,ui_bug,2,2026-03-21,3.4.0,Toggle switches on the living room bulb page don't reflect the real state. Confusing. Really disappointing.
+739,R00275,0.27923423487033316,2.0,ui_bug,1,2026-02-17,3.2.0,Icons for the kitchen plug are missing -- just empty boxes on 3.4.1. Reinstalling didn't help.
+740,R00376,0.2771729622693122,3.0,performance,2,2026-01-19,3.2.1,"Best smart home app I've used, if only the bedroom speaker page didn't lag so badly. Reinstalling didn't help."
+741,R01002,0.2760263986006485,4.5,login_auth,4,2026-03-14,3.4.0,Biometric login crashes back to the password field on 3.2.0. Otherwise I like the app.
+742,R00318,0.27522769998410235,3.0,battery_drain,3,2026-03-10,3.4.1,Massive battery drain on 3.2.1. Had to uninstall to get through the day. Otherwise I like the app.
+743,R00991,0.27429893727503585,3.0,performance,3,2026-02-24,3.3.2,Scrolling the smart lock event history stutters and freezes the whole app.
+744,R00089,0.2687406203841959,2.0,ui_bug,2,2026-03-13,3.3.0,Slider for the thermostat jumps around and won't land on the value I pick. Hope this gets fixed soon.
+745,R00327,0.2687406203841958,2.0,ui_bug,4,2026-06-11,3.2.0,The thermostat temperature shows in Fahrenheit even though I set Celsius in settings. Support was no help.
+746,R00479,0.2668781570604681,3.0,battery_drain,3,2026-03-06,3.4.1,The app used 25% of my battery in 3 hours just syncing the bedroom speaker.
+747,R01198,0.2614933551111431,3.0,battery_drain,4,2026-04-25,3.2.0,This app eats my phone battery alive -- lost 40% overnight with the kitchen plug idle. Anyone else seeing this?
+748,R01118,0.25955271130568597,4.0,connectivity,4,2026-01-13,3.2.0,Firmware update for the thermostat failed halfway and now the app won't connect at all. Really disappointing.
+749,R00038,0.25679652426996186,3.0,battery_drain,3,2026-03-01,3.3.2,Woke up to a dead phone. The app was top of battery stats because of the smart lock.
+750,R00381,0.25662743669491545,3.0,performance,2,2026-01-09,3.2.1,App takes forever to load the security camera dashboard -- 20+ seconds of spinner.
+751,R00402,0.25662743669491545,3.0,performance,2,2026-01-09,3.3.0,"Best smart home app I've used, if only the security camera page didn't lag so badly. Considering switching apps."
+752,R00120,0.2565524154241354,2.0,ui_bug,1,2026-02-06,3.3.2,"Really happy with the bedroom speaker itself, but the app UI shows the wrong status half the time."
+753,R00398,0.25558538398684033,4.0,connectivity,5,2026-04-11,3.2.1,Intermittent connectivity: kitchen plug responds maybe one time out of three. Otherwise I like the app.
+754,R00833,0.2546360397641163,2.0,ui_bug,2,2026-03-06,3.4.0,Slider for the security camera jumps around and won't land on the value I pick. Otherwise I like the app.
+755,R00242,0.2539439734378917,2.0,ui_bug,3,2026-04-12,3.2.0,"Huge fan of the product, but the UI on the video doorbell page is glitchy and unreadable. Considering switching apps."
+756,R00590,0.2536051473584739,4.5,login_auth,5,2026-06-01,3.3.2,Biometric login crashes back to the password field on 3.4.1. Considering switching apps.
+757,R00490,0.2529158828584188,4.5,login_auth,3,2026-01-09,3.4.1,"Login screen loops forever: enter password, spinner, back to login. Reinstalling didn't help."
+758,R00385,0.2506927501575777,2.0,ui_bug,1,2026-02-03,3.4.0,"Notification badges never clear for the security camera, even after I read everything. Honestly pretty annoyed."
+759,R00085,0.2469330367888909,3.0,performance,4,2026-04-04,3.3.2,Every tap has a delay on 3.4.0. The living room bulb controls feel like they're on dial-up.
+760,R01017,0.24586824174928268,3.0,battery_drain,4,2026-04-17,3.2.0,My phone gets hot and the battery tanks whenever the bedroom speaker is armed. Anyone else seeing this?
+761,R00965,0.24313708462176545,2.0,ui_bug,2,2026-02-28,3.3.2,Buttons on the smart plug schedule screen overlap so I can't tap save. Honestly pretty annoyed.
+762,R00355,0.2412225399381698,2.0,ui_bug,1,2026-01-29,3.3.2,Text is cut off on the video doorbell details screen on my small phone.
+763,R01120,0.2394206742125197,2.0,ui_bug,2,2026-02-26,3.2.0,Slider for the video doorbell jumps around and won't land on the value I pick. Anyone else seeing this?
+764,R00350,0.23876996119256394,2.0,ui_bug,3,2026-04-04,3.4.1,The back button from the garage sensor settings dumps me to the login screen instead of home. Otherwise I like the app.
+765,R00709,0.2384093724633689,3.0,battery_drain,2,2026-01-13,3.3.0,The widget alone drains my battery keeping the video doorbell status updated. Reinstalling didn't help.
+766,R00075,0.2370717701188241,5.0,crash,5,2026-03-10,3.4.1,App keeps crashing every time I open the smoke detector controls on version 3.3.0. Considering switching apps.
+767,R01093,0.23658028294641198,3.0,battery_drain,2,2026-01-12,3.2.0,Woke up to a dead phone. The app was top of battery stats because of the thermostat.
+768,R00170,0.2357130095116106,2.0,ui_bug,1,2026-01-26,3.3.0,"Huge fan of the product, but the UI on the smart lock page is glitchy and unreadable. Honestly pretty annoyed."
+769,R00659,0.2351203033438993,2.0,ui_bug,3,2026-04-02,3.4.0,"Really happy with the video doorbell itself, but the app UI shows the wrong status half the time. Anyone else seeing this?"
+770,R00579,0.22798749271073565,2.0,ui_bug,3,2026-03-29,3.4.1,The video doorbell history graph renders blank after midnight. Graphs worked in the old version. Otherwise I like the app.
+771,R01207,0.22416360522508924,3.0,battery_drain,5,2026-07-04,3.4.0,Constant location polling for the living room bulb geofence is killing my battery. Really disappointing.
+772,R00791,0.2216735478521457,2.0,ui_bug,2,2026-02-16,3.3.0,"Notification badges never clear for the security camera, even after I read everything. Reinstalling didn't help."
+773,R01041,0.2210710691220126,2.0,ui_bug,3,2026-03-25,3.2.1,"Huge fan of the product, but the UI on the living room bulb page is glitchy and unreadable. This started after the update."
+774,R00280,0.21824071486393373,2.0,ui_bug,1,2026-01-16,3.3.0,Text is cut off on the thermostat details screen on my small phone.
+775,R00092,0.21575004968389475,4.0,connectivity,5,2026-03-20,3.3.2,App disconnects from the smart lock whenever my phone switches between Wi-Fi and data. Reinstalling didn't help.
+776,R00581,0.21239860432025803,3.0,battery_drain,4,2026-03-29,3.2.1,"Five stars for features, one star for the battery drain -- the smart plug sync never sleeps."
+777,R00648,0.21166312597565531,2.0,ui_bug,2,2026-02-10,3.4.0,"Huge fan of the product, but the UI on the video doorbell page is glitchy and unreadable."
+778,R01202,0.20999641802289548,2.0,ui_bug,1,2026-01-11,3.2.0,"Really happy with the living room bulb itself, but the app UI shows the wrong status half the time. Anyone else seeing this?"
+779,R01038,0.20999641802289548,2.0,ui_bug,1,2026-01-11,3.4.0,The back button from the smoke detector settings dumps me to the login screen instead of home. Considering switching apps.
+780,R00565,0.2084462504262032,3.0,performance,4,2026-03-13,3.2.1,"Best smart home app I've used, if only the kitchen plug page didn't lag so badly. Reinstalling didn't help."
+781,R01280,0.20366730520530382,2.0,ui_bug,2,2026-02-05,3.2.0,Text is cut off on the bedroom speaker details screen on my small phone. Really disappointing.
+782,R00657,0.20055420012606215,2.0,ui_bug,4,2026-05-04,3.2.0,Slider for the smoke detector jumps around and won't land on the value I pick. Considering switching apps.
+783,R00774,0.19518013823701955,4.5,login_auth,4,2026-01-28,3.2.0,"Great app when you're in, but I get logged out daily and can't reach my garage sensor. Anyone else seeing this?"
+784,R00199,0.19097702982308723,2.0,ui_bug,3,2026-03-06,3.2.1,"Huge fan of the product, but the UI on the living room bulb page is glitchy and unreadable. Really disappointing."
+785,R00163,0.18952861719092257,3.0,performance,3,2026-01-07,3.2.0,Scrolling the garage sensor event history stutters and freezes the whole app. Anyone else seeing this?
+786,R00128,0.1871402473398218,3.0,performance,4,2026-02-27,3.4.0,App takes forever to load the smart plug dashboard -- 20+ seconds of spinner. Otherwise I like the app.
+787,R00574,0.18568806233972548,2.0,ui_bug,2,2026-01-24,3.4.0,The back button from the bedroom speaker settings dumps me to the login screen instead of home. Considering switching apps.
+788,R00328,0.1752434948697204,4.0,connectivity,5,2026-02-21,3.2.0,"My security camera shows offline in the app constantly, but my Wi-Fi is fine. Hope this gets fixed soon."
+789,R00014,0.17523010978040043,4.5,login_auth,4,2026-01-14,3.2.0,Biometric login crashes back to the password field on 3.3.0. This started after the update.
+790,R00150,0.1741180528877619,2.0,ui_bug,3,2026-02-22,3.4.0,The kitchen plug temperature shows in Fahrenheit even though I set Celsius in settings. Otherwise I like the app.
+791,R00165,0.17060487203800706,2.0,ui_bug,2,2026-01-13,3.4.1,The video doorbell status card shows yesterday's data until I force-refresh the app. Anyone else seeing this?
+792,R01143,0.16290062965170202,2.0,ui_bug,5,2026-07-06,3.3.2,Buttons on the smart lock schedule screen overlap so I can't tap save.
+793,R00465,0.16245788776643255,2.0,ui_bug,3,2026-02-13,3.4.0,Icons for the garage sensor are missing -- just empty boxes on 3.2.1. Honestly pretty annoyed.
+794,R00695,0.15491457838037168,4.5,login_auth,5,2026-03-29,3.4.0,"Great app when you're in, but I get logged out daily and can't reach my security camera. This started after the update."
+795,R00554,0.10999616297086207,3.0,performance,5,2026-03-20,3.3.2,Scrolling the smart plug event history stutters and freezes the whole app. Anyone else seeing this?
+796,R00865,0.10954114887741577,4.5,login_auth,5,2026-02-12,3.2.1,Can't log in since 3.4.1 -- 'invalid credentials' even though my password is right. Support was no help.
+797,R01183,0.10664978587611479,2.0,ui_bug,4,2026-02-11,3.4.0,"Notification badges never clear for the thermostat, even after I read everything. This started after the update."
+798,R00100,0.09213988121166049,3.0,performance,5,2026-02-25,3.3.2,"Best smart home app I've used, if only the video doorbell page didn't lag so badly."
+799,R01089,0.08694286748090746,4.5,login_auth,5,2026-01-13,3.4.0,The app logs me out every day and I have to sign back in to see my video doorbell. Really disappointing.
+800,R00813,0.07313147218180739,3.0,performance,5,2026-01-26,3.4.0,Everything is sluggish since 3.4.0. Opening the smart plug feed lags badly.
