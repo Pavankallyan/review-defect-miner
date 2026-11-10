@@ -43,6 +43,8 @@ review-defect-miner/
 ├── run.py                  # End-to-end: generate → train → topics → prioritize
 ├── requirements.txt
 ├── README.md
+├── .github/workflows/ci.yml
+├── tests/                  # 26 pytest unit tests (preprocess + prioritize)
 ├── src/
 │   ├── generate_reviews.py # Synthetic dataset generator (seeded, reproducible)
 │   ├── preprocess.py       # Text cleaning + TF-IDF vectorizer
@@ -87,6 +89,20 @@ python src/prioritize.py
 - **Why two classifiers instead of one 9-way model?** It mirrors how a QA team actually works: first triage "is this a bug at all?" (which also filters praise/feature requests/questions), then route confirmed defects to the right bucket. The binary step also keeps the category model trained only on defect language, which is cleaner signal.
 - **Why this scoring formula?** Each factor answers a question a QA lead asks: *how bad is it* (severity weight per category — a crash beats a cosmetic bug), *how widespread* (frequency of the category — a rare edge case waits behind a widespread outage), *is it still happening* (recency decay — a bug from 8 months ago may already be fixed), *how angry is the user* (`6 − stars` — 1-star reviews are churn risk). Multiplicative, not additive, so a defect has to clear every bar to reach the top — a severe-but-ancient bug can't dominate the queue.
 - **Limitations:** the data is synthetic, so the 0.99 scores flatter the models — template-generated text is far more separable than real reviews. LDA topics need a human to name them; they're clusters, not conclusions. The triage weights are my judgment calls (crash=5.0, ui_bug=2.0), not derived from data — in production I'd calibrate them against actual fix rates and churn. And the pipeline is English-only.
+
+## Tests and CI
+
+The suite has 26 pytest unit tests covering text cleaning and vectorization
+(`src/preprocess.py`) and triage scoring (`src/prioritize.py`):
+
+```bash
+pip install -r requirements.txt
+python -m pytest -q
+```
+
+Every push and pull request to `main` also runs GitHub Actions CI
+(`.github/workflows/ci.yml`): byte-compile all sources, then the full test
+suite on Python 3.11.
 
 ## About me
 
